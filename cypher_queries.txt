@@ -1,0 +1,22 @@
+match (n) detach delete n
+
+match (a)-[b]->(c) return a,b,c
+
+create constraint
+for (ip:Inter)
+require ip.uid is unique
+
+show constraints
+
+drop constraint [name]
+
+load csv with headers
+from 'https://github.com/conmaol/gadelica/blob/master/csv/1.nodes.csv?raw=true' as nxt
+merge (ip:Inter {uid: nxt.uid})
+
+load csv with headers
+from 'https://github.com/conmaol/gadelica/blob/master/csv/1.characters.csv?raw=true' as nxt
+match (ip1:Inter {uid: nxt.from})
+match (ip2:Inter {uid: nxt.to})
+merge (ip1)-[:CHARACTER {value: nxt.value}]->(ip2)
+
