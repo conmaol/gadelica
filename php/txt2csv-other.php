@@ -1,12 +1,11 @@
 <?php
 
-$chars = mb_str_split(file_get_contents($argv[1]));
+$filename = '../corpus/' . $argv[1] . '/text.utf8';
 
-//echo 'from,to,label,value,case,accent' . PHP_EOL;
+$chars = mb_str_split(file_get_contents($filename));
 
 foreach ($chars as $key => $val) {
-  
-  
+    
   if (ctype_digit($val)) {
     //echo 'DIGIT,' . $val . ',,';
   }
@@ -61,7 +60,7 @@ foreach ($chars as $key => $val) {
     //echo 'ALPHABETIC,U,upper,grave';
   }
   else {
-    echo 'ip_1_' . $key . ',' . 'ip_1_' . $key+1 . ',';
+    echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ',';
     echo 'CHARACTER,' . $val . ',,';
     echo PHP_EOL;
   }

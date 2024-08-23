@@ -1,6 +1,8 @@
 <?php
 
-$chars = mb_str_split(file_get_contents($argv[1]));
+$filename = '../corpus/' . $argv[1] . '/text.utf8';
+$chars = mb_str_split(file_get_contents($filename));
+
 echo 'from,to,value,' . PHP_EOL;
 
 
@@ -46,8 +48,8 @@ foreach ($chars as $key => $val) {
     $word .= $val;
   }
   else if ($wordstart != -1 && !(ctype_alpha($val) || $val=='à'|| $val=='è' || $val=='ì' || $val=='ò' || $val=='ù')) {
-    echo 'ip_1_' . $wordstart . ',';
-    echo 'ip_1_' . $key . ',';
+    echo 'ip_' . $argv[1] . '_' . $wordstart . ',';
+    echo 'ip_' . $argv[1] . '_' . $key . ',';
     echo $word . ',';
     echo PHP_EOL;
     $wordstart = -1;
