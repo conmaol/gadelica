@@ -1,7 +1,7 @@
 <?php
 
 $chars = mb_str_split(file_get_contents($argv[1]));
-echo 'from,to,label,value,' . PHP_EOL;
+echo 'from,to,value,' . PHP_EOL;
 
 
 $wordstart = -1;
@@ -45,11 +45,10 @@ foreach ($chars as $key => $val) {
     // ann an, Ann an, ann am, Ann am
     $word .= $val;
   }
-
   else if ($wordstart != -1 && !(ctype_alpha($val) || $val=='à'|| $val=='è' || $val=='ì' || $val=='ò' || $val=='ù')) {
     echo 'ip_1_' . $wordstart . ',';
     echo 'ip_1_' . $key . ',';
-    echo 'WORD,' . $word . ',';
+    echo $word . ',';
     echo PHP_EOL;
     $wordstart = -1;
     $word = '';
