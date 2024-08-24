@@ -1,70 +1,30 @@
 <?php
 
-$filename = '../corpus/' . $argv[1] . '/text.utf8';
+/*
+This script takes a reference to a directory containing a UTF8 text file as the sole input parameter ($argv[1]) eg. 1, 2, 3, ...
+and writes out an error when it comes across a character that is not recognised by the system as a whole.
 
-$chars = mb_str_split(file_get_contents($filename));
+This script is typically called from the script /scripts/txt2csv.sh
+
+THIS SCRIPT SHOULD ALWAYS AND ONLY BE UPDATED IN TANDEM WITH ONE OF THE OTHER SPECIALISED CSV-PRODUCING PHP SCRIPTS. 
+*/
+
+$filename = '../corpus/' . $argv[1] . '/text.utf8'; // construct the path to the text file
+
+$chars = mb_str_split(file_get_contents($filename)); // open and character tokenise the text file
 
 foreach ($chars as $key => $val) {
-    
-  if (ctype_digit($val)) {
-    //echo 'DIGIT,' . $val . ',,';
-  }
-  else if (ctype_punct($val) || $val=='’' || $val=='‘' || $val=='“' || $val=='”') {
-    //echo 'PUNCTUATION,"' . $val . '",,';
-  }
-  else if ($val==' ' || $val==PHP_EOL) {
-    /*
-    echo 'SPACE,';
-    if ($val==PHP_EOL) {
-      echo 'vertical,,';
-    }
-    else {
-      echo 'horizontal,,';
-    }
-    */
-  }
-  else if (ctype_lower($val)) {
-    //echo 'ALPHABETIC,' . strtoupper($val) . ',lower,none';
-  }
-  else if (ctype_upper($val)) {
-    //echo 'ALPHABETIC,' . $val . ',upper,none';
-  }
-  else if ($val=='à') {
-    //echo 'ALPHABETIC,A,lower,grave';
-  }
-  else if ($val=='è') {
-    //echo 'ALPHABETIC,E,lower,grave';
-  }
-  else if ($val=='ì') {
-    //echo 'ALPHABETIC,I,lower,grave';
-  }
-  else if ($val=='ò') {
-    //echo 'ALPHABETIC,O,lower,grave';
-  }
-  else if ($val=='ù') {
-    //echo 'ALPHABETIC,U,lower,grave';
-  }
-  else if ($val=='À') {
-    //echo 'ALPHABETIC,A,upper,grave';
-  }
-  else if ($val=='È') {
-    //echo 'ALPHABETIC,E,upper,grave';
-  }
-  else if ($val=='Ì') {
-    //echo 'ALPHABETIC,I,upper,grave';
-  }
-  else if ($val=='Ò') {
-    //echo 'ALPHABETIC,O,upper,grave';
-  }
-  else if ($val=='Ù') {
-    //echo 'ALPHABETIC,U,upper,grave';
-  }
-  else {
-    echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ',';
-    echo 'CHARACTER,' . $val . ',,';
-    echo PHP_EOL;
-  }
-  
+  if (!(
+          ctype_digit($val)
+       || ctype_punct($val) || $val=='’' || $val=='‘' || $val=='“' || $val=='”' || $val='…' // punctuation marker
+       || $val==' ' || $val==PHP_EOL // whitespace
+       || ctype_alpha($val)
+       || $val=='à' || $val=='è' || $val=='ì' || $val=='ò' || $val=='ù'
+       || $val=='À' || $val=='È' || $val=='Ì' || $val=='Ò' || $val=='Ù' 
+      )
+) {
+    echo 'UNRECOGNISED CHARACTER: ' . $val . ' in text ' . $argv[1] . ' between ' . $key . ' and ' . $key+1 . PHP_EOL;
+  }  
 }
 
 ?>

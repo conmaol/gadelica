@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# This scripts takes a reference to a directory containing a UTF8 text file as the sole input paramater ($1) eg. 1, 2, 3, ...
+#
+
 mkdir ../corpus/$1/csv/
 php ../php/txt2csv-nodes.php $1 > ../corpus/$1/csv/nodes.csv
 php ../php/txt2csv-alphabetic.php $1 > ../corpus/$1/csv/alphabetic.csv
