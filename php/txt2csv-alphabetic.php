@@ -1,23 +1,37 @@
 <?php
 
-$filename = '../corpus/' . $argv[1] . '/text.utf8';
+/*
+This script takes a reference to a directory containing a UTF8 text file as the sole input parameter ($argv[1]) eg. 1, 2, 3, ...
+and writes out a CSV file containing information about the alphabetic characters in that file.
 
-$chars = mb_str_split(file_get_contents($filename));
+eg.
+from, to, value, case, accent,
+ip_23_456, ip_23_457, A, lower, grave
 
-echo 'from,to,value,case,accent,' . PHP_EOL;
+= "In text 23, there is an à between positions/locations ('interpuncts') 456 and 457."
+
+This script is typically called from the script /scripts/txt2csv.sh
+*/
+
+$filename = '../corpus/' . $argv[1] . '/text.utf8'; // construct the path to the text file
+
+$chars = mb_str_split(file_get_contents($filename)); // open and character tokenise the text file
+
+echo 'from,to,value,case,accent,' . PHP_EOL; // write CSV headers to STDOUT
+
 
 foreach ($chars as $key => $val) {
-  if (ctype_lower($val)) {
+  if (ctype_lower($val)) { // LOWERCASE ASCII
     echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ',';
     echo strtoupper($val) . ',lower,none,';
     echo PHP_EOL;
   }
-  else if (ctype_upper($val)) {
+  else if (ctype_upper($val)) { // UPPERCASE ASCII
     echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ',';
     echo $val . ',upper,none,';
     echo PHP_EOL;
   }
-  else if ($val=='à') {
+  else if ($val=='à') { // LOWERCASE GRAVES
     echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ',';
     echo 'A,lower,grave,';
     echo PHP_EOL;
@@ -42,7 +56,7 @@ foreach ($chars as $key => $val) {
     echo 'U,lower,grave,';
     echo PHP_EOL;
   }
-  else if ($val=='À') {
+  else if ($val=='À') { // UPPERCASE GRAVES
     echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ',';
     echo 'A,upper,grave,';
     echo PHP_EOL;
