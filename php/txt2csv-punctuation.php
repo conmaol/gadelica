@@ -20,7 +20,7 @@ $chars = mb_str_split(file_get_contents($filename)); // open and character token
 echo 'from,to,value,' . PHP_EOL; // write CSV headers to STDOUT
 
 foreach ($chars as $key => $val) {
-  if (ctype_punct($val) || $val=='’' || $val=='‘' || $val=='“' || $val=='”' || $val='…') { // ignore non-punctuation characters
+  if (ctype_punct($val) || $val=='’' || $val=='‘' || $val=='“' || $val=='”' || $val=='…') { // ignore non-punctuation characters
     echo 'ip_' . $argv[1] . '_' . $key . ',' . 'ip_' . $argv[1] . '_' . $key+1 . ','; // write 'from' and 'to' field values
     echo '"' . $val . '",'; // write 'value' field value ie. the punctuation character itself (inside double quotes for sanitisation)
     echo PHP_EOL;
