@@ -11,23 +11,23 @@ show constraints
 drop constraint [name]
 
 load csv with headers
-from 'https://github.com/conmaol/gadelica/blob/master/csv/1.nodes.csv?raw=true' as nxt
+from 'https://github.com/conmaol/gadelica/blob/master/corpus/1/csv/nodes.csv?raw=true' as nxt
 merge (ip:Inter {uid: nxt.uid})
 
 load csv with headers
-from 'https://github.com/conmaol/gadelica/blob/master/csv/1.alphabetic.csv?raw=true' as nxt
+from 'https://github.com/conmaol/gadelica/blob/master/corpus/1/csv/alphabetic.csv?raw=true' as nxt
 match (ip1:Inter {uid: nxt.from})
 match (ip2:Inter {uid: nxt.to})
 merge (ip1)-[:ALPHABETIC {value: nxt.value, case: nxt.case, accent: nxt.accent}]->(ip2)
 
 load csv with headers
-from 'https://github.com/conmaol/gadelica/blob/master/csv/1.spaces.csv?raw=true' as nxt
+from 'https://github.com/conmaol/gadelica/blob/master/corpus/1/csv/spaces.csv?raw=true' as nxt
 match (ip1:Inter {uid: nxt.from})
 match (ip2:Inter {uid: nxt.to})
 merge (ip1)-[:SPACE {value: nxt.value}]->(ip2)
 
 load csv with headers
-from 'https://github.com/conmaol/gadelica/blob/master/csv/1.punctuation.csv?raw=true' as nxt
+from 'https://github.com/conmaol/gadelica/blob/master/corpus/1/csv/punctuation.csv?raw=true' as nxt
 match (ip1:Inter {uid: nxt.from})
 match (ip2:Inter {uid: nxt.to})
 merge (ip1)-[:PUNCTUATION {value: nxt.value}]->(ip2)
