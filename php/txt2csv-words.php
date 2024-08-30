@@ -3,7 +3,7 @@
 $filename = '../corpus/' . $argv[1] . '/text.utf8';
 $chars = mb_str_split(file_get_contents($filename));
 
-echo 'from,to,value,' . PHP_EOL;
+echo 'from,to,value,fid,' . PHP_EOL;
 
 
 $wordstart = -1;
@@ -50,6 +50,7 @@ foreach ($chars as $key => $val) {
   else if ($wordstart != -1 && !(ctype_alpha($val) || $val=='à'|| $val=='è' || $val=='ì' || $val=='ò' || $val=='ù')) {
     echo 'ip_' . $argv[1] . '_' . $wordstart . ',';
     echo 'ip_' . $argv[1] . '_' . $key . ',';
+    echo $word . ',';
     echo $word . ',';
     echo PHP_EOL;
     $wordstart = -1;
