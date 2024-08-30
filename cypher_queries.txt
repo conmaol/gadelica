@@ -33,13 +33,20 @@ match (ip2:Inter {uid: nxt.to})
 merge (ip1)-[:PUNCTUATION {value: nxt.value}]->(ip2)
 
 load csv with headers
-from 'https://github.com/conmaol/gadelica/blob/master/csv/1.digits.csv?raw=true' as nxt
+from 'https://github.com/conmaol/gadelica/blob/master/corpus/1/csv/digits.csv?raw=true' as nxt
 match (ip1:Inter {uid: nxt.from})
 match (ip2:Inter {uid: nxt.to})
 merge (ip1)-[:DIGIT {value: nxt.value}]->(ip2)
 
 load csv with headers
-from 'https://github.com/conmaol/gadelica/blob/master/csv/1.words.csv?raw=true' as nxt
+from 'https://github.com/conmaol/gadelica/blob/master/corpus/1/csv/words.csv?raw=true' as nxt
 match (ip1:Inter {uid: nxt.from})
 match (ip2:Inter {uid: nxt.to})
 merge (ip1)-[:WORD {value: nxt.value}]->(ip2)
+
+
+
+
+
+match (a)-[b]->(c) where toInteger(substring(c.uid,5)) < 1000 return a,b,c
+
