@@ -1,45 +1,50 @@
 Rules for word types
 
-1. Correct orthographic variation
+1. Non-meaningful orthographic variation should be resolved.
 
-ie. sentence initial (non-meaningful) capitalisation
+a. Sentence-initial (non-meaningful) capitalisation should be resolved to lowercase. However, initial uppercase should be retained in names eg. a’ Gàidhealtachd, Rob, Aonghas a’ Bhàillidh, anns a’ Bhìoball.
 
-but: Gàidhealtachd = Gàidhealtachd, Rob = Rob, Aonghas a’ Bhàillidh = Aonghas a’^the Bhàillidh, anns a’ Bhìoball
+2. Apostrophes representing ellipsis should be resolved, eg. ’s = is | is^agus, b’ = bu, bh’ = bha, th’ = tha, a’m = agam. But apostrophes are retained in mutation forms like dh’èirich. Note the following cases involved an elides (or hidden) third person masculine possessive determiner – ’athair (athair) = a_athair. The same goes for elided or hidden inversion articles – fhagail = a_fhàgail.
 
+GLOSSARY
 
-2. Correct variant spellings containing apostrophes - ’s = is | agus, b’ = bu, bh’ = bha, th’ = tha, a’m = agam
+a = a^rel | a^gach | a^poss | a^inv (inversion) | a^do^prep | a^de^prep | a^xxx (a bhith/dhol) | a^an^prt (a bheil) | a^voc
 
-BUT: retain ’ in dh’ mutated forms eg. dh’èirich = dh’èirich; a’ as article (?) or particle (?)
+a’ = a^ag | a^the
 
-ALSO: note empty possessives – bho athair = bho ’athair 
+air = air^prep | air^pron
 
-3. Expand limited (diaectal, non-standard) abbreviations - is = agus, gu (robh) = gun (robh), o = bho
-
-
-
-
-
-
-a = a^rel | a^gach | a^poss | a^inv (inversion) | a^do^prep | de^prep | a (bhith) ?? a (bheil) ??   THINK ABOUT THESE
-
-a’ = a’^ag | a’^the
+am = am^the | 
 
 an = an^the | an^prep | an^prt | 
 
-as = as^prep (anns an) | as^rel (a is) |
+ann an = ann_an
 
-do^prep
+as = as^prep (anns an) | as^rel (a is)
 
-gu = gu^prep | gu (bheil) ?? | gu (dearbh) ??
+às = às^prep | às^pron
+
+do = do^prep | do^your | do^prt
+
+gu = gu^prep | gu^that (gu (robh/bheil) | gu^adv (gu dearbh)
 
 gum = gum^that |
 
 gun = gun^that | gun^without
 
-na = na^prep (ie. ann an a) | na^the | 
+gur = gur^that (gun is)
+
+is = is | is^agus
+
+leis = leis^prep | leis^pron
+
+na = na^prep (ie. ann an a) | na^the | na^an_do | na^comp
+
+nan = nan^if | nan^the
+
+nam = nam^prep (ann am mo)
+
+ris = ris^prep | ris^pron
 
 
-
-English words? mafia, Sloan Square
-Roman digits?
 
