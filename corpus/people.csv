@@ -1,3 +1,7 @@
-uid,name,born,died,
-1,"Dòmhnall Alasdair MacDhòmhnaill",1920,2001,
-
+uid,forenames,surname,born,died,home,
+1,Dòmhnall Alasdair,Dòmhnallach,1919,2003,Garrabost,
+2,Iain,MacLeòid,1934,,Skye,
+3,Aonghas T.,MacLeòid,,,,
+4,Catrìona,Storrar,,,,
+5,Iain,Mac a’ Ghobhainn,1928,1998,Upper Bayble,
+6,Seonag,NicAsgail,,,,

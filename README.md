@@ -66,6 +66,6 @@ merge (ip1)-[:WORD {value: nxt.value}]->(ip2)
 Word-level relations are estimated using the algorithm presented in the PHP script gadelica/php/txt2csv-words.php, which contains special rules for recognising orthographic ellipsis and prefixes etc.
 
 
-
+Quotations?
 
 
