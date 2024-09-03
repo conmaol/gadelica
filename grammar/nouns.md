@@ -1,8 +1,10 @@
 # Nouns
 
-## Semantic characterisation
+## Semantic characteristics
 
-Nouns are words that typically denote *material* entities – things, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun, though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
+### Concrete and abstract nouns
+
+Nouns are words that typically denote *material* entities – individuals, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’ – see below), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
 In the following short text (from Lachlann MacFhionghuin *Leabhraichean Leughaidh* Vol.II td.81) the nouns are all underlined –
 
@@ -10,23 +12,67 @@ In the following short text (from Lachlann MacFhionghuin *Leabhraichean Leughaid
 > An <ins>uair</ins> a bha <ins>Fionn</ins> ’n a <ins>leanabh</ins> beag, mharbhadh <ins>athair</ins> ann an aon de na <ins>blàraibh</ins> a chuir an <ins>Fhiann</ins> ’nam <ins>measg</ins> fhéin. Bha <ins>eagal</ins> air a <ins>mhathair</ins> gun tigeadh <ins>naimhdean</ins> <ins>athar</ins> air <ins>tòir</ins> an <ins>leinibh</ins>, agus mar sin chuir i e a mach do na <ins>coilltean</ins> fàsail air <ins>chùram</ins> <ins>dithis</ins> <ins>mhnathan</ins> eòlach. 
 
 The concrete nouns in this passage are –
-- material things – saoghal ‘world’, Cumhal ‘Cumhal’, mac ‘son’, Fionn ‘Finn’, leanabh / leinibh ‘infant’, atha[i]r ‘father’, m[h]athair ‘mother’
-- material aggregates – daoine ‘men’, F[h]iann ‘Fianna’, naimhdean ‘enemies’
-- coilltean ‘woods’
-- dithis ‘two people’
-- m[h]nathan ‘women’
+> **saoghal** ‘world’  
+> **daoine** ‘men’  
+> **Fhiann** ‘warrior class’  
+> **Cumhal** ‘Cumhal’  
+> **mac** ‘son’  
+> **Fionn** ‘Finn’  
+> **leanabh** (**leinibh**) ‘infant’  
+> **athair** (**athar**) ‘father’  
+> **mhathair** ‘mother’  
+> **naimhdean** ‘enemies’  
+> **coilltean** ‘woods’  
+> **dithis** ‘two people’  
+> **mhnathan** ‘women’
+
+The abstract nouns in the passage are –
+> **uair** ‘time’  
+> **ainm** ‘name’  
+> **blàraibh** ‘battles’  
+> **measg** ‘midst’  
+> **eagal** ‘fear’  
+> **tòir** ‘pursuit’  
+> **chùram** ‘care’ 
 
 Notes:
-- ‘material’ here literally means ‘made of matter’ (atoms, molecules, crystals, etc.). Material entities are visible and tangible.
-- arguably, pronouns can also denote material entities
-- Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour.” *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’, *beachd* ‘opinion’, *astar* ‘distance’
+1. Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour.” *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’, *beachd* ‘opinion’, *astar* ‘distance’
+
+### Proper nouns and common nouns
 
 There are two main kinds of noun –
-- **proper nouns** are names, denoting particular entities
+- **proper nouns** are names of particular entities
 - **common nouns** denote classes of entity
 
+The proper nouns in the previous passage are –
+> **Cumhal**  
+> **Fionn**
 
-Pronouns? Lamb (2024:38): “Pronouns are short words that stand in for noun phrases.”
+All the other nouns in the passage are common nouns –
+> **uair**  
+> **saoghal**  
+> **daoine**  
+> **Fhiann**  
+> **ainm**  
+> **mac**  
+> **leanabh** (**leinibh**)  
+> **athair** (**athar**)  
+> **blàraibh**  
+> **measg**  
+> **eagal**  
+> **mhathair**  
+> **naimhdean**  
+> **tòir**  
+> **coilltean**  
+> **chùram**  
+> **dithis**  
+> **mhnathan**
+
+Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter. ***Fhiann*** is not a proper noun which names a particular group of men, but rather is a common noun (denoting a class of groups of men) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
+
+### Pronouns
+
+Lamb (2024:38): “Pronouns are short words that stand in for noun phrases.”
 
 ## Grammatical categories
 
