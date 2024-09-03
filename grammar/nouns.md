@@ -2,7 +2,7 @@
 
 ## Semantic characterisation
 
-Nouns are words that typically denote material entities – every word that denotes a material entity is a (‘concrete’) noun, though not every noun denotes a material entity (ie. ‘abstract’ nouns).
+Nouns are words that typically denote *material* entities – things, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun, though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
 Here are some examples of concrete nouns:
 - *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’
@@ -30,6 +30,7 @@ Nouns have **case** – every noun is either **nominative** or **dative** or **g
 
 Notes:
 - Lamb (2024:37): “In Gaelic, most nouns [...] can inflect for case and number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.”
+- dual number/gender? vocative case? 
 
 ## Dependents
 
