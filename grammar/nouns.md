@@ -4,7 +4,7 @@
 
 Nouns are words that typically denote *material* entities – things, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun, though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
-Take the following short text –
+Take the following short text (Lachlann MacFhionghuin *Leabhraichean Leughaidh* Vol.II td.81) –
 
 > An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
 > An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
