@@ -40,9 +40,9 @@ Notes:
 
 ### Proper nouns and common nouns
 
-There are two main kinds of noun –
-- **proper nouns** are names of particular entities
-- **common nouns** denote classes of entity
+Nouns can be further classified according to the nature of their denotation –
+- *proper nouns* are names of particular entities
+- *common nouns* denote classes of entity
 
 The proper nouns in the previous passage are –
 > **Cumhal**  
@@ -70,17 +70,97 @@ All the other nouns in the passage are common nouns –
 
 Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men, but rather is a common noun (denoting a class of groups of men) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
 
-All proper nouns are concrete; all abstract nouns are common.
+Note also that the dimensions of concrete/abstract and proper/common are not really orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
 
 ### Pronouns
+
+The passage from above is repeated here, with all and only the pronouns underlined –
+
+> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh <ins>iad</ins> an Fhiann. B’ <ins>e</ins> Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir <ins>i</ins> <ins>e</ins> a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
 
 Lamb (2024:38): “Pronouns are short words that stand in for noun phrases.”
 
 ## Grammatical categories
 
-Nouns have **gender** – every noun is either **feminine** or **masculine** or **plural**.
+### Gender
 
-Nouns have **case** – every noun is either **nominative** or **dative** or **genitive**.
+Nouns have *gender* – every noun is either *feminine* or *masculine* or *plural*.
+
+Recall the following passage from above –
+
+> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+
+The following nouns in this passage are all feminine –
+> **uair**  
+> **Fhiann**  
+> **mhàthair**  
+> **tòir**  
+> **dithis**
+
+These nouns are all plural –
+> **daoine**  
+> **blàraibh**  
+> **naimhdean**  
+> **coilltean**  
+> **mhnathan**
+
+And all the other nouns are masculine –
+> **saoghal**  
+> **Cumhall**  
+> **ainm**  
+> **mac**  
+> **Fionn**  
+> **leanamh** / **leinibh**  
+> **athair** / **athar**  
+> **measg**  
+> **eagal**  
+> **chùram**  
+
+Note on number versus gender.
+
+### Case
+
+Nouns have *case* – every noun is either *nominative* or *dative* or *genitive*.
+
+Recall the following passage from above –
+
+> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+
+The following nouns in this passage are all dative –
+> **uair** (both occurences)  
+> **daoine** (second occurence)  
+> **leanabh**  
+> **blàraibh**  
+> **measg**  
+> **mhàthair**  
+> **tòir**  
+> **coilltean**  
+> **chùram**
+
+These nouns are all genitive –
+> **athar**  
+> **leinibh**  
+> **dithis**  
+> **mhnàthan**  
+
+And all the other nouns are nominative –
+> **saoghal**  
+> **daoine** (first occurence)  
+> **Fhiann** (both occurences)  
+> **Cumhal**  
+> **ainm**  
+> **mac**  
+> **Fionn** (both occurences)  
+> **athair**  
+> **eagal**  
+> **naimhdean**
+
+
+
+
 
 Notes:
 - Lamb (2024:37): “In Gaelic, most nouns [...] can inflect for case and number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.”
