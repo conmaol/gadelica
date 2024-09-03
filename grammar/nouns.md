@@ -70,6 +70,8 @@ All the other nouns in the passage are common nouns –
 
 Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men, but rather is a common noun (denoting a class of groups of men) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
 
+All proper nouns are concrete; all abstract nouns are common.
+
 ### Pronouns
 
 Lamb (2024:38): “Pronouns are short words that stand in for noun phrases.”
