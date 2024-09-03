@@ -4,22 +4,22 @@
 
 Nouns are words that typically denote *material* entities – things, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun, though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
-Take the following short text (Lachlann MacFhionghuin *Leabhraichean Leughaidh* Vol.II td.81) –
+In the following short text (from Lachlann MacFhionghuin *Leabhraichean Leughaidh* Vol.II td.81) the nouns are all underlined –
 
-> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
-> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+> An <ins>uair</ins> a bha an <ins>saoghal</ins> òg bha <ins>daoine</ins> treuna ann, ris an canadh iad an <ins>Fhiann</ins>. B’ e <ins>Cumhal</ins> a b’ <ins>ainm</ins> air aon de na <ins>daoine</ins> so, agus bha <ins>mac</ins> aige air an robh <ins>Fionn</ins>.
+> An <ins>uair</ins> a bha <ins>Fionn</ins> ’n a <ins>leanabh</ins> beag, mharbhadh <ins>athair</ins> ann an aon de na <ins>blàraibh</ins> a chuir an <ins>Fhiann</ins> ’nam <ins>measg</ins> fhéin. Bha <ins>eagal</ins> air a <ins>mhathair</ins> gun tigeadh <ins>naimhdean</ins> <ins>athar</ins> air <ins>tòir</ins> an <ins>leinibh</ins>, agus mar sin chuir i e a mach do na <ins>coilltean</ins> fàsail air <ins>chùram</ins> <ins>dithis</ins> <ins>mhnathan</ins> eòlach. 
 
-
-Here are some examples of concrete nouns:
-- *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’
-
-And here are some examples of abstract nouns:
-- *beachd* ‘opinion’, *astar* ‘distance’
+The concrete nouns in this passage are –
+- material things – saoghal ‘world’, Cumhal ‘Cumhal’, mac ‘son’, Fionn ‘Finn’, leanabh / leinibh ‘infant’, atha[i]r ‘father’, m[h]athair ‘mother’
+- material aggregates – daoine ‘men’, F[h]iann ‘Fianna’, naimhdean ‘enemies’
+- coilltean ‘woods’
+- dithis ‘two people’
+- m[h]nathan ‘women’
 
 Notes:
 - ‘material’ here literally means ‘made of matter’ (atoms, molecules, crystals, etc.). Material entities are visible and tangible.
 - arguably, pronouns can also denote material entities
-- Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour.”
+- Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour.” *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’, *beachd* ‘opinion’, *astar* ‘distance’
 
 There are two main kinds of noun –
 - **proper nouns** are names, denoting particular entities
