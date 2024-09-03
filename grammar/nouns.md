@@ -4,6 +4,11 @@
 
 Nouns are words that typically denote *material* entities – things, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun, though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
+Take the following paragraph –
+
+> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+
+
 Here are some examples of concrete nouns:
 - *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’
 
