@@ -33,9 +33,7 @@ Here is the same passage as before, now annotated for proper versus common nouns
 >
 > Bha <mark title="common, abstract: ‘fear’">eagal</mark> air a <mark title="common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="common, concrete: ‘enemies’">naimhdean</mark> <mark title="common, concrete: ‘father’">athar</mark> air <mark title="common, abstract: ‘pursuit’">tòir</mark> an <mark title="common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="common, abstract: ‘care’">chùram</mark> <mark title="common, concrete: ‘(group of) two people’">dithis</mark> <mark title="common, concrete: ‘women’">mhnathan</mark> eòlach. 
 
-The proper nouns in this passage are –
-> **Cumhal**  
-> **Fionn**
+The proper nouns in this passage are – ***Cumhal***, ***Fionn***.
 
 And all the other nouns in the passage are common nouns.
 
@@ -65,14 +63,11 @@ Here is the same passage as before, with each noun now annotated for gender –
 >
 > Bha <mark title="masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="plural, common, concrete: ‘enemies’">naimhdean</mark> <mark title="masculine, common, concrete: ‘father’">athar</mark> air <mark title="feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="masculine, common, abstract: ‘care’">chùram</mark> <mark title="feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="plural, common, concrete: ‘women’">mhnathan</mark> eòlach. 
 
-The following nouns in this passage are all feminine –
-> **uair**, **Fhiann**, **mhàthair**, **tòir**, **dithis**
+The following nouns in this passage are all feminine – ***uair***, ***Fhiann***, ***mhàthair***, ***tòir***, ***dithis***.
 
-These nouns are all plural –
-> **daoine**, **blàraibh**, **naimhdean**, **coilltean**, **mhnathan**
+These nouns are all plural – ***daoine***, ***blàraibh***, ***naimhdean***, ***coilltean***, ***mhnathan***.
 
-And all the other nouns are masculine –
-> **saoghal**, **Cumhall**, **ainm**, **mac**, **Fionn**, **leanamh**/**leinibh**, **athair**/**athar**, **measg**, **eagal**, **chùram**  
+And all the other nouns are masculine – ***saoghal***, ***Cumhall***, ***ainm***, ***mac***, ***Fionn***, ***leanamh***/***leinibh***, ***athair***/***athar***, ***measg***, ***eagal***, ***chùram***,
 
 Traditional descriptions of Gaelic grammar typically distinguish between the two grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
 
