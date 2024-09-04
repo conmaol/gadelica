@@ -6,7 +6,7 @@
 
 Nouns are words that typically denote *material* entities – individuals, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’ – see below), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
-In the following short text (from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81, attributed to I. N. MacLeòid) all and only the nouns are underlined –
+In the following passage (from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81, attributed to I. N. MacLeòid) all and only the nouns are underlined –
 > An <ins>uair</ins> a bha an <ins>saoghal</ins> òg bha <ins>daoine</ins> treuna ann, ris an canadh iad an <ins>Fhiann</ins>. B’ e <ins>Cumhal</ins> a b’ <ins>ainm</ins> air aon de na <ins>daoine</ins> so, agus bha <ins>mac</ins> aige air an robh <ins>Fionn</ins>.
 > An <ins>uair</ins> a bha <ins>Fionn</ins> ’n a <ins>leanabh</ins> beag, mharbhadh <ins>athair</ins> ann an aon de na <ins>blàraibh</ins> a chuir an <ins>Fhiann</ins> ’nam <ins>measg</ins> fhéin. Bha <ins>eagal</ins> air a <ins>mhathair</ins> gun tigeadh <ins>naimhdean</ins> <ins>athar</ins> air <ins>tòir</ins> an <ins>leinibh</ins>, agus mar sin chuir i e a mach do na <ins>coilltean</ins> fàsail air <ins>chùram</ins> <ins>dithis</ins> <ins>mhnathan</ins> eòlach. 
 
