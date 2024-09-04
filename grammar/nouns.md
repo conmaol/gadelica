@@ -6,7 +6,7 @@
 
 Nouns are words that typically denote *material* entities – individuals, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’ – see below), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
-In the following short text (from Lachlann MacFhionghuin *Leabhraichean Leughaidh* Vol.II td.81) the nouns are all underlined –
+In the following short text (from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81) all and only the nouns are underlined –
 
 > An <ins>uair</ins> a bha an <ins>saoghal</ins> òg bha <ins>daoine</ins> treuna ann, ris an canadh iad an <ins>Fhiann</ins>. B’ e <ins>Cumhal</ins> a b’ <ins>ainm</ins> air aon de na <ins>daoine</ins> so, agus bha <ins>mac</ins> aige air an robh <ins>Fionn</ins>.
 > An <ins>uair</ins> a bha <ins>Fionn</ins> ’n a <ins>leanabh</ins> beag, mharbhadh <ins>athair</ins> ann an aon de na <ins>blàraibh</ins> a chuir an <ins>Fhiann</ins> ’nam <ins>measg</ins> fhéin. Bha <ins>eagal</ins> air a <ins>mhathair</ins> gun tigeadh <ins>naimhdean</ins> <ins>athar</ins> air <ins>tòir</ins> an <ins>leinibh</ins>, agus mar sin chuir i e a mach do na <ins>coilltean</ins> fàsail air <ins>chùram</ins> <ins>dithis</ins> <ins>mhnathan</ins> eòlach. 
@@ -35,8 +35,8 @@ The abstract nouns in the passage are –
 > **tòir** ‘pursuit’  
 > **chùram** ‘care’ 
 
-Notes:
-1. Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour.” *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *Dòmhnall* ‘Donald’, *Glaschu* ‘Glasgow’, *beachd* ‘opinion’, *astar* ‘distance’
+Notes –
+1. Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
 
 ### Proper nouns and common nouns
 
@@ -68,24 +68,19 @@ All the other nouns in the passage are common nouns –
 > **dithis**  
 > **mhnathan**
 
-Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men, but rather is a common noun (denoting a class of groups of men) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
+Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men; rather it is a common noun (denoting a class of groups of men) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
 
-Note also that the dimensions of concrete/abstract and proper/common are not really orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
+Note also that the dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
 
-### Pronouns
+Notes –
+1. Lamb (2024:46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” 
 
-The passage from above is repeated here, with all and only the pronouns underlined –
-
-> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh <ins>iad</ins> an Fhiann. B’ <ins>e</ins> Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
-> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir <ins>i</ins> <ins>e</ins> a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
-
-Lamb (2024:38): “Pronouns are short words that stand in for noun phrases.”
 
 ## Grammatical categories
 
-### Gender
+### Gender – feminine, masculine and plural nouns
 
-Nouns have *gender* – every noun is either *feminine* or *masculine* or *plural*.
+Nouns in Gaelic have *gender* – every noun is either *feminine* or *masculine* or *plural*.
 
 Recall the following passage from above –
 
@@ -118,11 +113,13 @@ And all the other nouns are masculine –
 > **eagal**  
 > **chùram**  
 
-Note on number versus gender.
+Traditional descriptions of Gaelic grammar typically distinguish between the two grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
 
-### Case
+Note also that some linguists insist that Gaelic still has a third grammatical number – the dual. Given the extremely limited reflexes of this category in the modern language, this is probably an exaggeration, and more realistically explained as a couple of inflectional peculiarities conditioned by the numeral ***dà*** ‘two’.
 
-Nouns have *case* – every noun is either *nominative* or *dative* or *genitive*.
+### Case – nominative, dative and genitive nouns
+
+Nouns in Gaelic have *case* – every noun is either *nominative* or *dative* or *genitive*.
 
 Recall the following passage from above –
 
@@ -164,7 +161,7 @@ And all the other nouns are nominative –
 
 Notes:
 - Lamb (2024:37): “In Gaelic, most nouns [...] can inflect for case and number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.”
-- dual number/gender? vocative case? 
+- vocative case? 
 
 ## Dependents
 
@@ -178,7 +175,16 @@ Lamb (2024:37): “The main function of a noun is to act as a verbal argument.�
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
 
+----
 
+### Pronouns
+
+The passage from above is repeated here, with all and only the pronouns underlined –
+
+> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh <ins>iad</ins> an Fhiann. B’ <ins>e</ins> Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir <ins>i</ins> <ins>e</ins> a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+
+Lamb (2024:38): “Pronouns are short words that stand in for noun phrases.”
 
 
 
