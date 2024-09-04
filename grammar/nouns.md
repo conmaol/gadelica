@@ -143,7 +143,7 @@ A noun can have one or more adjective modifiers.
 
 Examples of nouns modified by adjectives are highlighted in the following –
 
-> An uair a bha an saoghal òg bha <mark title="noun: nominative, plural, common, concrete: ‘men’">daoine</mark> <mark title="adjective: ‘brave, strong’">treuna</mark> ann, ris an canadh iad an Fhiann.
+> An uair a bha an saoghal òg bha <mark title="The nominative plural common noun daoine ‘men’ is modified by the adjective treuna ‘brave, strong’ – ‘brave men’.">daoine treuna</mark> ann, ris an canadh iad an Fhiann.
 >
 > An uair a bha Fionn ’n a <mark title="noun: dative, masculine, common, concrete: ‘infant’">leanabh</mark> <mark title="adjective: ‘small, little’">beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 >
@@ -156,7 +156,7 @@ Examples of nouns modified by adjectives are highlighted in the following –
 > Sheinn i <mark title="noun: nominative, masculine, common, abstract: ‘tune’">crònan</mark> <mark title="adjective: ‘sweet’">milis</mark> <mark title="adjective: ‘melodious’">binn</mark> dha, agus an sin thog i oirre.
 
 In these examples –
-- the nominative plural common noun ***daoine*** ‘men’ is modified by the adjective ***treuna*** ‘brave, strong’
+- 
 - the nominative masculine proper noun ***Fionn*** ‘Finn’ is modified by the adjective ***beag*** ‘small, little’
 - the dative feminine common noun ***thìr*** ‘land’ is modified by the adjective ***fhàsail*** ‘desolate’ 
 - the nominative masculine common noun ***crònan*** ‘tune’ is modified by the adjectives ***milis*** ‘sweet’ and ***binn*** ‘melodious’
