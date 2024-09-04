@@ -123,11 +123,11 @@ Below is the full text from which the passage above was extracted. All and only 
 
 ## Dependents of nouns
 
-### Modifiers
+### Modifiers of nouns
 
 A noun can have one or more modifiers, all of which follow the noun.
 
-#### Attributive adjectives
+#### Adjectives
 
 A noun can have one or more adjective modifiers.
 
