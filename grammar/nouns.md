@@ -143,9 +143,9 @@ A noun can have one or more adjective modifiers.
 
 Examples of nouns modified by adjectives are highlighted in the following –
 
-> An uair a bha an saoghal òg bha <mark title="The nominative plural common noun daoine ‘men’ is modified by the adjective treuna ‘brave, strong’ – ‘brave men’.">daoine treuna</mark> ann, ris an canadh iad an Fhiann.
+> Nuair a bha an saoghal òg bha <mark title="The nominative plural common noun ‘daoine’ [men] is modified by the adjective ‘treuna’ [strong] – ‘strong men’.">daoine treuna</mark> ann, ris an canadh iad an Fhiann.
 >
-> An uair a bha Fionn ’n a <mark title="noun: dative, masculine, common, concrete: ‘infant’">leanabh</mark> <mark title="adjective: ‘small, little’">beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+> Nuair a bha Fionn ’n a <mark title="noun: dative, masculine, common, concrete: ‘infant’">leanabh</mark> <mark title="adjective: ‘small, little’">beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 >
 > Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na <mark title="noun: dative, plural, common, concrete: ‘forests’">coilltean</mark> <mark title="adjective: ‘desolate’">fàsail</mark> air chùram dithis <mark title="noun: genitive(?), plural, common, concrete: ‘women’">mhnathan</mark> <mark title="adjective: ‘learned, wise’">eòlach</mark>.
 > 
