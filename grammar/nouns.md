@@ -87,20 +87,13 @@ Here is the same passage as before, with each noun now additionally annotated fo
 >
 > An <mark title="dative, feminine, common, abstract: ‘time’">uair</mark> a bha <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> ’n a <mark title="dative, masculine, common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh <mark title="nominative, masculine, common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="dative, plural, common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> fhéin.
 >
-> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> <mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> <mark title="genitive?, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive?, plural, common, concrete: ‘women’">mhnathan</mark> eòlach.
+> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> <mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> <mark title="genitive(?), feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive(?), plural, common, concrete: ‘women’">mhnathan</mark> eòlach.
 
 The following nouns in this passage are all dative – ***uair*** (both occurences), ***daoine*** (second occurence), ***leanabh***, ***blàraibh***, ***measg***, ***mhàthair***, ***tòir***, ***coilltean***, ***chùram***.
 
 These nouns are all genitive (though there is a question mark over the final two) – ***athar***, ***leinibh***, ***dithis***, ***mhnàthan***.  
 
-And all the other nouns are nominative – **saoghal**, **daoine** (first occurence), **Fhiann** (both occurences)  
-> **Cumhal**  
-> **ainm**  
-> **mac**  
-> **Fionn** (both occurences)  
-> **athair**  
-> **eagal**  
-> **naimhdean**
+And all the other nouns are nominative – ***saoghal***, ***daoine*** (first occurence), ***Fhiann*** (both occurences), ***Cumhal***, ***ainm***, ***mac***, ***Fionn*** (both occurences), ***athair***, ***eagal***, ***naimhdean***.
 
 Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ as a fourth case. However, the vocative is not a grammatical case *per se* but rather some kind of higher-level discourse phenomenon, whose inflectional idiosyncracies are conditioned by the vocative particle ***a***.
 
@@ -110,32 +103,56 @@ Notes:
 ## Further examples of nouns
 
 Below is the full text from which the passage above was extracted. All and only the nouns are underlined, and if you hover over one of them, you can see whether it is concrete or abstract, proper or common, and what its gender and case are.
-> An <ins title="abstract, common, feminine, dative – ‘time’">uair</ins> a bha an <ins title="concrete, common, masculine, nominative – ‘world’">saoghal</ins> òg bha <ins title="concrete, common, plural, nominative">daoine</ins> treuna ann, ris an canadh iad an <ins title="concrete, common, feminine, nominative">Fhiann</ins>. B’ e <ins title="concrete, proper, masculine, nominative">Cumhal</ins> a b’ <ins title="abstract, common, masculine, nominative">ainm</ins> air aon de na <ins title="concrete, common, plural, dative">daoine</ins> so, agus bha <ins title="concrete, common, masculine, nominative">mac</ins> aige air an robh <ins title="concrete, proper, masculine, nominative">Fionn</ins>.
-> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+> An <mark title="dative, feminine, common, abstract: ‘time’">uair</mark> a bha an <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> òg bha <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark>.
+>
+> B’ e <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="nominative, masculine, common, abstract: ‘name’">ainm</mark> air aon de na <mark title="dative, plural, common, concrete: ‘men’">daoine</mark> so, agus bha <mark title="nominative, masculine, common, concrete: ‘son’">mac</mark> aige air an robh <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>.
+>
+> An <mark title="dative, feminine, common, abstract: ‘time’">uair</mark> a bha <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> ’n a <mark title="dative, masculine, common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh <mark title="nominative, masculine, common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="dative, plural, common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> fhéin.
+>
+> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> <mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> <mark title="genitive(?), feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive(?), plural, common, concrete: ‘women’">mhnathan</mark> eòlach.
+>
+> Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> beag as a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>.
+>
+> Dh’fhalbh i <mark title="nominative, masculine, common, abstract: ‘distance’">astar</mark> fada troimh <mark title="dative, feminine, common, concrete: ‘land’">thìr</mark> fhàsail gus an do lorg i an <mark title="nominative, masculine, common, abstract">t-àite</mark> anns an robh an <mark title="nominative, masculine, common, concrete: ‘infant’">leanabh</mark>.
+>
+> Fhuair i e ’na <mark title="dative, feminine, common, abstract: ‘slumber’">shuain</mark> <mark title="genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>, agus thog i e ’na <mark title="dative, plural, common, concrete: ‘hands’">làmhan</mark> gu sèimh socrach, agus phòg i e.
+>
+> Sheinn i <mark title="nominative, masculine, common, abstract: ‘tune’">crònan</mark> milis binn dha, agus an sin thog i oirre.
+
+
 
 ## Dependents of nouns
 
 ### Modifiers
 
+A noun can have one or more modifiers, all of which follow the noun.
+
 #### Attributive adjectives
 
-daoine treuna
+A noun can have one or more adjective modifiers.
 
-leanabh beag
+Examples of nouns modified by adjectives are highlighted in the following –
 
-coilltean fàsail
+> An uair a bha an saoghal òg bha <mark title="noun: nominative, plural, common, concrete: ‘men’">daoine</mark> <mark title="adjective: ‘brave, strong’">treuna</mark> ann, ris an canadh iad an Fhiann.
+>
+> An uair a bha Fionn ’n a <mark title="noun: dative, masculine, common, concrete: ‘infant’">leanabh</mark> <mark title="adjective: ‘small, little’">beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+>
+> Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na <mark title="noun: dative, plural, common, concrete: ‘forests’">coilltean</mark> <mark title="adjective: ‘desolate’">fàsail</mark> air chùram dithis <mark title="noun: genitive(?), plural, common, concrete: ‘women’">mhnathan</mark> <mark title="adjective: ‘learned, wise’">eòlach</mark>.
+> 
+> Phòs a mhàthair <mark title="noun: nominative, masculine, common, concrete: ‘king’">rìgh</mark> <mark title="adjective: ‘worthy’">àraidh</mark> an déidh sin, ach cha do leig i <mark title="noun: nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> <mark title="adjective: ‘small, little’">beag</mark> as a h-aire.
+>
+> Dh’fhalbh i <mark title="noun: nominative, masculine, common, abstract: ‘distance’">astar</mark> <mark title="adjective: ‘long’">fada</mark> troimh <mark title="noun: dative, feminine, common, concrete: ‘land’">thìr</mark> <mark title="adjective: ‘desolate’">fhàsail</mark> gus an do lorg i an t-àite anns an robh an leanabh.
+>
+> Sheinn i <mark title="noun: nominative, masculine, common, abstract: ‘tune’">crònan</mark> <mark title="adjective: ‘sweet’">milis</mark> <mark title="adjective: ‘melodious’">binn</mark> dha, agus an sin thog i oirre.
 
-mhnathan eòlach
+In these examples –
+- the nominative plural common noun ***daoine*** ‘men’ is modified by the adjective ***treuna*** ‘brave, strong’
+- the nominative masculine proper noun ***Fionn*** ‘Finn’ is modified by the adjective ***beag*** ‘small, little’
+- the dative feminine common noun ***thìr*** ‘land’ is modified by the adjective ***fhàsail*** ‘desolate’ 
+- the nominative masculine common noun ***crònan*** ‘tune’ is modified by the adjectives ***milis*** ‘sweet’ and ***binn*** ‘melodious’
+- etc.
 
-rìgh àraidh
 
-Fionn beag
-
-astar fada
-
-thìr fhàsail
-
-crònan milis binn
 
 #### Genitive nouns
 
