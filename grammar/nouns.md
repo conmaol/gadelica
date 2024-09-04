@@ -1,6 +1,6 @@
 # Nouns
 
-## Semantic characteristics
+## Semantic characteristics of nouns
 
 ### Concrete and abstract nouns
 
@@ -44,7 +44,7 @@ Note also that the dimensions of concrete/abstract and proper/common are not tru
 Notes –
 - Lamb (2024:46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’ [sic.]).” 
 
-## Grammatical categories
+## Grammatical categories of nouns
 
 There are two grammatical categories associated with nouns in Gaelic –
 - gender – feminine, masculine, plural
@@ -118,13 +118,13 @@ Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ a
 Notes:
 - Lamb (2024:37): “In Gaelic, most nouns [...] can inflect for case [...].”
 
-## Summary
+## Further examples of nouns
 
 Below is the full text from which the passage above was extracted. All and only the nouns are underlined, and if you hover over one of them, you can see whether it is concrete or abstract, proper or common, and what its gender and case are.
 > An <ins title="abstract, common, feminine, dative – ‘time’">uair</ins> a bha an <ins title="concrete, common, masculine, nominative – ‘world’">saoghal</ins> òg bha <ins title="concrete, common, plural, nominative">daoine</ins> treuna ann, ris an canadh iad an <ins title="concrete, common, feminine, nominative">Fhiann</ins>. B’ e <ins title="concrete, proper, masculine, nominative">Cumhal</ins> a b’ <ins title="abstract, common, masculine, nominative">ainm</ins> air aon de na <ins title="concrete, common, plural, dative">daoine</ins> so, agus bha <ins title="concrete, common, masculine, nominative">mac</ins> aige air an robh <ins title="concrete, proper, masculine, nominative">Fionn</ins>.
 > An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
 
-## Dependents
+## Dependents of nouns
 
 ### Modifiers
 
@@ -172,7 +172,7 @@ Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such a
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, [...].”
 
-## Functions
+## Functions of nouns
 
 Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
 
