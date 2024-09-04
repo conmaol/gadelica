@@ -167,13 +167,55 @@ Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ a
 Notes:
 - Lamb (2024:37): “In Gaelic, most nouns [...] can inflect for case [...].”
 
-## More
+## Summary
 
-> An <ins title="abstract, common, feminine, dative – ‘time’">uair</ins> a bha an <ins title="concrete, common, masculine, nominative – ‘world’">saoghal</ins> òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+Below is the full text from which the passage above was extracted. All and only the nouns are underlined, and if you hover over one of them, you can see whether it is concrete or abstract, proper or common, and what its gender and case are.
+> An <ins title="abstract, common, feminine, dative – ‘time’">uair</ins> a bha an <ins title="concrete, common, masculine, nominative – ‘world’">saoghal</ins> òg bha <ins title="concrete, common, plural, nominative">daoine</ins> treuna ann, ris an canadh iad an <ins title="concrete, common, feminine, nominative">Fhiann</ins>. B’ e <ins title="concrete, proper, masculine, nominative">Cumhal</ins> a b’ <ins title="abstract, common, masculine, nominative">ainm</ins> air aon de na <ins title="concrete, common, plural, dative">daoine</ins> so, agus bha <ins title="concrete, common, masculine, nominative">mac</ins> aige air an robh <ins title="concrete, proper, masculine, nominative">Fionn</ins>.
 > An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
 
-
 ## Dependents
+
+### Modifiers
+
+#### Attributive adjectives
+
+daoine treuna
+
+leanabh beag
+
+coilltean fàsail
+
+mhnathan eòlach
+
+rìgh àraidh
+
+Fionn beag
+
+astar fada
+
+thìr fhàsail
+
+crònan milis binn
+
+#### Genitive nouns
+
+
+
+
+### Specifiers
+
+naimhdean athar
+
+tòir an leinibh
+
+cùram dithis
+
+dithis mhnathan
+
+déidh sin
+
+
+### Appositives
 
 Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such as the definite article (‘the’), [...]. [...] As the head of a noun phrase, nouns maye be modified by adjectives, with which they share several properties. Adjectives modify a noun within a noun phrase or provide additional information about it, such as serving to restrict possible reference.”
 
