@@ -6,33 +6,14 @@
 
 Nouns are words that typically denote *material* entities – individuals, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’ – see below), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
-In the following passage (from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81, attributed to I. N. MacLeòid) all and only the nouns are highlighted –
-> An <mark>uair</mark> a bha an <ins>saoghal</ins> òg bha <ins>daoine</ins> treuna ann, ris an canadh iad an <ins>Fhiann</ins>. B’ e <ins>Cumhal</ins> a b’ <ins>ainm</ins> air aon de na <ins>daoine</ins> so, agus bha <ins>mac</ins> aige air an robh <ins>Fionn</ins>.
-> An <ins>uair</ins> a bha <ins>Fionn</ins> ’n a <ins>leanabh</ins> beag, mharbhadh <ins>athair</ins> ann an aon de na <ins>blàraibh</ins> a chuir an <ins>Fhiann</ins> ’nam <ins>measg</ins> fhéin. Bha <ins>eagal</ins> air a <ins>mhathair</ins> gun tigeadh <ins>naimhdean</ins> <ins>athar</ins> air <ins>tòir</ins> an <ins>leinibh</ins>, agus mar sin chuir i e a mach do na <ins>coilltean</ins> fàsail air <ins>chùram</ins> <ins>dithis</ins> <ins>mhnathan</ins> eòlach. 
-
-The concrete nouns in this passage are –
-> **saoghal** ‘world’  
-> **daoine** ‘men’  
-> **Fhiann** ‘warrior class’  
-> **Cumhal** ‘Cumhal’  
-> **mac** ‘son’  
-> **Fionn** ‘Finn’  
-> **leanabh** (**leinibh**) ‘infant’  
-> **athair** (**athar**) ‘father’  
-> **mhathair** ‘mother’  
-> **naimhdean** ‘enemies’  
-> **coilltean** ‘woods’  
-> **dithis** ‘two people’  
-> **mhnathan** ‘women’
-
-The abstract nouns in the passage are –
-> **uair** ‘time’  
-> **ainm** ‘name’  
-> **blàraibh** ‘battles’  
-> **measg** ‘midst’  
-> **eagal** ‘fear’  
-> **tòir** ‘pursuit’  
-> **chùram** ‘care’ 
+In the following passage (from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81, attributed to I. N. MacLeòid) all and only the nouns are highlighted. On hover, information will appear about whether this is a concrete or abstract noun.
+> An <mark title="abstract: ‘time’">uair</mark> a bha an <mark title="concrete: ‘world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warrior class’">Fhiann</mark>.
+>
+> B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘name’">ainm</mark> air aon de na <mark title="concrete: ‘men’">daoine</mark> so, agus bha <mark title="concrete: ‘son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
+>
+> An <mark title="abstract: ‘time’">uair</mark> a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’n a <mark title="concrete: ‘infant’">leanabh</mark> beag, mharbhadh <mark title="concrete: ‘father’">athair</mark> ann an aon de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
+>
+> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> <mark title="concrete: ‘father’">athar</mark> air <mark title="abstract: ‘pursuit’">tòir</mark> an <mark title="concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘(group of) two people’">dithis</mark> <mark title="concrete: ‘women’">mhnathan</mark> eòlach. 
 
 Notes –
 - Lamb (2024:37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
@@ -43,40 +24,27 @@ Nouns can be further classified according to the nature of their denotation –
 - *proper nouns* are names of particular entities
 - *common nouns* denote classes of entity
 
-Recall the passage from above –
-> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
-> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+Here is the same passage as before, now annotated for proper versus common nouns –
+> An <mark title="common, abstract: ‘time’">uair</mark> a bha an <mark title="common, concrete: ‘world’">saoghal</mark> òg bha <mark title="common, concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="common, concrete: ‘warrior class’">Fhiann</mark>.
+>
+> B’ e <mark title="proper, concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="common, abstract: ‘name’">ainm</mark> air aon de na <mark title="common, concrete: ‘men’">daoine</mark> so, agus bha <mark title="common, concrete: ‘son’">mac</mark> aige air an robh <mark title="proper, concrete: ‘Finn’">Fionn</mark>.
+>
+> An <mark title="common, abstract: ‘time’">uair</mark> a bha <mark title="proper, concrete: ‘Finn’">Fionn</mark> ’n a <mark title="common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh <mark title="common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="common, abstract: ‘midst’">measg</mark> fhéin.
+>
+> Bha <mark title="common, abstract: ‘fear’">eagal</mark> air a <mark title="common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="common, concrete: ‘enemies’">naimhdean</mark> <mark title="common, concrete: ‘father’">athar</mark> air <mark title="common, abstract: ‘pursuit’">tòir</mark> an <mark title="common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="common, abstract: ‘care’">chùram</mark> <mark title="common, concrete: ‘(group of) two people’">dithis</mark> <mark title="common, concrete: ‘women’">mhnathan</mark> eòlach. 
 
 The proper nouns in this passage are –
 > **Cumhal**  
 > **Fionn**
 
-All the other nouns in the passage are common nouns –
-> **uair**  
-> **saoghal**  
-> **daoine**  
-> **Fhiann**  
-> **ainm**  
-> **mac**  
-> **leanabh** (**leinibh**)  
-> **athair** (**athar**)  
-> **blàraibh**  
-> **measg**  
-> **eagal**  
-> **mhathair**  
-> **naimhdean**  
-> **tòir**  
-> **coilltean**  
-> **chùram**  
-> **dithis**  
-> **mhnathan**
+And all the other nouns in the passage are common nouns.
 
-Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men; rather it is a common noun (denoting a class of groups of men) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
+Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men; rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of men. 
 
 Note also that the dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
 
 Notes –
-- Lamb (2024:46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” 
+- Lamb (2024:46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’ [sic.]).” 
 
 ## Grammatical categories
 
@@ -88,35 +56,23 @@ There are two grammatical categories associated with nouns in Gaelic –
 
 Nouns in Gaelic have *gender* – every noun is either *feminine* or *masculine* or *plural*.
 
-Coming back to the previous passage –
-> An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
-> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+Here is the same passage as before, with each noun now annotated for gender –
+> An <mark title="feminine, common, abstract: ‘time’">uair</mark> a bha an <mark title="masculine, common, concrete: ‘world’">saoghal</mark> òg bha <mark title="plural, common, concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="feminine, common, concrete: ‘warrior class’">Fhiann</mark>.
+>
+> B’ e <mark title="masculine, proper, concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="masculine, common, abstract: ‘name’">ainm</mark> air aon de na <mark title="plural, common, concrete: ‘men’">daoine</mark> so, agus bha <mark title="masculine, common, concrete: ‘son’">mac</mark> aige air an robh <mark title="masculine, proper, concrete: ‘Finn’">Fionn</mark>.
+>
+> An <mark title="feminine, common, abstract: ‘time’">uair</mark> a bha <mark title="masculine, proper, concrete: ‘Finn’">Fionn</mark> ’n a <mark title="masculine, common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh <mark title="masculine, common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="plural, common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="feminine, common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="masculine, common, abstract: ‘midst’">measg</mark> fhéin.
+>
+> Bha <mark title="masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="plural, common, concrete: ‘enemies’">naimhdean</mark> <mark title="masculine, common, concrete: ‘father’">athar</mark> air <mark title="feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a mach do na <mark title="plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="masculine, common, abstract: ‘care’">chùram</mark> <mark title="feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="plural, common, concrete: ‘women’">mhnathan</mark> eòlach. 
 
 The following nouns in this passage are all feminine –
-> **uair**  
-> **Fhiann**  
-> **mhàthair**  
-> **tòir**  
-> **dithis**
+> **uair**, **Fhiann**, **mhàthair**, **tòir**, **dithis**
 
 These nouns are all plural –
-> **daoine**  
-> **blàraibh**  
-> **naimhdean**  
-> **coilltean**  
-> **mhnathan**
+> **daoine**, **blàraibh**, **naimhdean**, **coilltean**, **mhnathan**
 
 And all the other nouns are masculine –
-> **saoghal**  
-> **Cumhall**  
-> **ainm**  
-> **mac**  
-> **Fionn**  
-> **leanamh** / **leinibh**  
-> **athair** / **athar**  
-> **measg**  
-> **eagal**  
-> **chùram**  
+> **saoghal**, **Cumhall**, **ainm**, **mac**, **Fionn**, **leanamh**/**leinibh**, **athair**/**athar**, **measg**, **eagal**, **chùram**  
 
 Traditional descriptions of Gaelic grammar typically distinguish between the two grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
 
