@@ -113,11 +113,21 @@ Below is the full text from which the passage above was extracted. All and only 
 >
 > Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> beag as a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>.
 >
-> Dh’fhalbh i <mark title="nominative, masculine, common, abstract: ‘distance’">astar</mark> fada troimh <mark title="dative, feminine, common, concrete: ‘land’">thìr</mark> fhàsail gus an do lorg i an <mark title="nominative, masculine, common, abstract">t-àite</mark> anns an robh an <mark title="nominative, masculine, common, concrete: ‘infant’">leanabh</mark>.
+> Dh’fhalbh i <mark title="nominative, masculine, common, abstract: ‘distance’">astar</mark> fada troimh <mark title="dative, feminine, common, concrete: ‘land’">thìr</mark> fhàsail gus an do lorg i an <mark title="nominative, masculine, common, abstract: ‘place’">t-àite</mark> anns an robh an <mark title="nominative, masculine, common, concrete: ‘infant’">leanabh</mark>.
 >
 > Fhuair i e ’na <mark title="dative, feminine, common, abstract: ‘slumber’">shuain</mark> <mark title="genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>, agus thog i e ’na <mark title="dative, plural, common, concrete: ‘hands’">làmhan</mark> gu sèimh socrach, agus phòg i e.
 >
 > Sheinn i <mark title="nominative, masculine, common, abstract: ‘tune’">crònan</mark> milis binn dha, agus an sin thog i oirre.
+>
+> Bha an <mark title="nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ <mark title="dative (?), feminine, common, abstract: ‘giving’">toirt</mark> an <mark title="dative|genitive (?), feminine, common, abstract: ‘attention’">aire</mark> air gus an d’ fhàs e suas.
+>
+> <mark title="nominative (?), masculine, common, abstract: ‘day’">Latha</mark> de na <mark title="dative, plural, common, abstract: ‘days’">làithean</mark> chaidh e mach agus chunnaic e <mark title="nominative, feminine, common, concrete: ‘duck’">lach</mark> a’ <mark title="dative (?), masculine, common, abstract: ‘swimming’">snàmh</mark> air <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark>.
+>
+> Thilg e <mark title="nominative, feminine, common, concrete: ‘shot, stone’">urchair</mark> oirre, agus gheàrr sin na <mark title="nominative, plural, common, concrete: ‘wing’">sgiathan</mark> aice.
+>
+> Rug e oirre agus thug e leis dhachaidh i.
+>
+> Is i sud a’ cheud <mark title="nominative, feminine, common, abstract: ‘hunt(ing)’">shealg</mark> a rinn <mark title="nominative, masculine, common, concrete: ‘Finn’">Fionn</mark>. 
 
 
 
@@ -152,10 +162,37 @@ In these examples –
 - the nominative masculine common noun ***crònan*** ‘tune’ is modified by the adjectives ***milis*** ‘sweet’ and ***binn*** ‘melodious’
 - etc.
 
-
-
 #### Genitive nouns
 
+A noun can have one or more genitive noun modifiers.
+
+> Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram <mark title="noun: genitive, feminine, common">dithis</mark> <mark title="noun: genitive|nominative (?), plural, common: ‘women’">mhnathan</mark> eòlach.
+>
+> Fhuair i e ’na <mark title="noun: dative, feminine, common, abstract: ‘slumber’">shuain</mark> <mark title="noun: genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
+> 
+> Bha an <mark title="noun: nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="noun: genitive (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
+
+#### Prepositions
+
+> B’ e Cumhal a b’ <mark title="noun: nominative, masculine, common: ‘name’">ainm</mark> <mark>air aon</mark> de na daoine so, agus bha aige air an robh Fionn.
+>
+> Dh’fhalbh i <mark title="noun: nominative, masculine, common: ‘distance’">astar</mark> fada <mark>troimh thìr</mark> fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
+>
+> <mark title="noun: nominative (?), masculine, common: ‘day’">Latha</mark> <mark>de na làithean</mark> chaidh e mach agus chunnaic e <mark title="noun: nominative, feminine, common: ‘duck’">lach</mark> <mark>a’ snàmh</mark> <mark>air loch</mark>.
+>
+> Thilg e urchair oirre, agus gheàrr sin na <mark title="noun: nominative, plural, common: ‘wing’">sgiathan</mark> <mark>aice</mark>.
+
+#### Relative particles
+
+> An <mark title="noun: dative, feminine, common: ‘time’">uair</mark> <mark>a bha</mark> an saoghal òg bha <mark title="noun: nominative, plural, common: ‘men’">daoine</mark> treuna ann, <mark>ris an canadh</mark> iad an Fhiann.
+>
+> B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha <mark title="noun: nominative, masculine, common: ‘son’">mac</mark> aige <mark>air an robh</mark> Fionn.
+>
+> An <mark title="noun: dative, feminine, common: ‘time’">uair</mark> <mark>a bha</mark> Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na <mark title="noun: dative, plural, common: ‘battles’">blàraibh</mark> <mark>a chuir</mark> an Fhiann ’nam measg fhéin.
+>
+> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an <mark title="noun: nominative, masculine, common: ‘place’">t-àite</mark> <mark>anns an robh</mark> an leanabh.
+>
+> Is i sud a’ cheud <mark title="noun: nominative, feminine, common: ‘hunt(ing)’">shealg</mark> <mark>a rinn</mark> Fionn. 
 
 
 
