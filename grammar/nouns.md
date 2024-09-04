@@ -130,7 +130,6 @@ Notes:
 Nouns in Gaelic have *case* – every noun is either *nominative* or *dative* or *genitive*.
 
 Recall again the following passage –
-
 > An uair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
 > An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
 
@@ -167,6 +166,12 @@ Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ a
 
 Notes:
 - Lamb (2024:37): “In Gaelic, most nouns [...] can inflect for case [...].”
+
+## More
+
+> An <ins title="abstract, common, feminine, dative – ‘time’">uair</ins> a bha an <ins title="concrete, common, masculine, nominative – ‘world’">saoghal</ins> òg bha daoine treuna ann, ris an canadh iad an Fhiann. B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha mac aige air an robh Fionn.
+> An uair a bha Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin. Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram dithis mhnathan eòlach. 
+
 
 ## Dependents
 
