@@ -130,6 +130,10 @@ Below is the full text from which the passage above was extracted. All and only 
 > Is i siud a’ chiad <mark title="nominative, feminine, common, abstract: ‘hunt(ing)’">shealg</mark> a rinn <mark title="nominative, masculine, common, concrete: ‘Finn’">Fionn</mark>.
 >
 > Ged nach robh e a-riamh ann an <mark title="dative, feminine, common, concrete: ‘school’">sgoil</mark> mar a tha na <mark title="nominative, plural, common, concrete: ‘boys’">gillean</mark> an-diugh, cha robh e idir a’ <mark title="dative (?), masculine, common, abstract: ‘putting, sending’">cur</mark> seachad a <mark title="nominative, plural, common, abstract: ‘days’">làithean</mark> ’na <mark title="dative, masculine, common, abstract: ‘repose’">thàmh</mark>.
+>
+> Bhiodh e a’ <mark title="dative, masculine, common, abstract: ‘swimming’">snàmh</mark> gach dàrna <mark title="nominative, masculine, common, abstract: ‘day’">latha</mark>.
+>
+> Chuireadh na <mark title="nominative, plural, common, concrete: ‘women’">mnathan</mark> a-mach air an <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark> e, agus leigeadh iad leis <mark title="nominative, feminine, common, abstract: ‘coming’">tighinn</mark> gu <mark title="dative, feminine, common, concrete: ‘land’">tìr</mark> mar a b’ fheàrr a dh’fhaodadh e.
 > 
 
 
