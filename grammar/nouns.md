@@ -123,6 +123,10 @@ And all the other nouns are nominative – ***saoghal***, ***daoine*** (first oc
 ## Further examples of nouns
 
 Below is the full text from which the passage above was extracted. All and only the nouns are underlined, and if you hover over one of them, you can see whether it is concrete or abstract, proper or common, and what its gender and case are.
+
+<details>
+<summary>Show text</summary>
+
 > Nuair a bha an <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> òg bha <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark>.
 >
 > B’ e <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="nominative, masculine, common, abstract: ‘name’">ainm</mark> air aon de na <mark title="dative, plural, common, concrete: ‘men’">daoine</mark> seo, agus bha <mark title="nominative, masculine, common, concrete: ‘son’">mac</mark> aige air an robh <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>.
@@ -143,7 +147,7 @@ Below is the full text from which the passage above was extracted. All and only 
 >
 > <mark title="nominative|dative (?), masculine, common, abstract: ‘day’">Latha</mark> de na <mark title="dative, plural, common, abstract: ‘days’">làithean</mark> chaidh e a-mach agus chunnaic e <mark title="nominative, feminine, common, concrete: ‘duck’">lach</mark> a’ <mark title="dative (?), masculine, common, abstract: ‘swimming’">snàmh</mark> air <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark>.
 >
-> Thilg e <mark title="nominative, feminine, common, concrete: ‘shot, stone’">urchair</mark> oirre, agus gheàrr sin na <mark title="nominative, plural, common, concrete: ‘wing’">sgiathan</mark> aice.
+> Thilg e <mark title="nominative, feminine, common, concrete: ‘shot, stone’">urchair</mark> oirre, agus gheàrr sin na <mark title="nominative, plural, common, concrete: ‘wings’">sgiathan</mark> aice.
 >
 > Rug e oirre agus thug e leis dhachaidh i.
 >
@@ -154,8 +158,10 @@ Below is the full text from which the passage above was extracted. All and only 
 > Bhiodh e a’ <mark title="dative, masculine, common, abstract: ‘swimming’">snàmh</mark> gach dàrna <mark title="nominative, masculine, common, abstract: ‘day’">latha</mark>.
 >
 > Chuireadh na <mark title="nominative, plural, common, concrete: ‘women’">mnathan</mark> a-mach air an <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark> e, agus leigeadh iad leis <mark title="nominative, feminine, common, abstract: ‘coming’">tighinn</mark> gu <mark title="dative, feminine, common, concrete: ‘land’">tìr</mark> mar a b’ fheàrr a dh’fhaodadh e.
-> 
-
+>
+> Rachadh e a-mach don <mark title="dative, masculine, common, concrete: ‘field’">achadh</mark> far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> gu <mark title="dative, feminine, common, abstract: ‘sufficiency’">leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> bho <mark title="dative, masculine, common, concrete: ‘hill’">chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
+>
+</details>
 
 
 ## Dependents of nouns
@@ -208,6 +214,8 @@ A noun can have one or more genitive noun modifiers.
 > <mark title="noun: nominative (?), masculine, common: ‘day’">Latha</mark> <mark>de na làithean</mark> chaidh e mach agus chunnaic e <mark title="noun: nominative, feminine, common: ‘duck’">lach</mark> <mark>a’ snàmh</mark> <mark>air loch</mark>.
 >
 > Thilg e urchair oirre, agus gheàrr sin na <mark title="noun: nominative, plural, common: ‘wing’">sgiathan</mark> <mark>aice</mark>.
+>
+> Rachadh e a-mach don achadh far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> <mark>gu leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> <mark>bho chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
 
 #### Relative particles
 
@@ -219,7 +227,9 @@ A noun can have one or more genitive noun modifiers.
 >
 > Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an <mark title="noun: nominative, masculine, common: ‘place’">t-àite</mark> <mark>anns an robh</mark> an leanabh.
 >
-> Is i sud a’ cheud <mark title="noun: nominative, feminine, common: ‘hunt(ing)’">shealg</mark> <mark>a rinn</mark> Fionn. 
+> Is i sud a’ cheud <mark title="noun: nominative, feminine, common: ‘hunt(ing)’">shealg</mark> <mark>a rinn</mark> Fionn.
+> 
+> Rachadh e a-mach don <mark title="dative, masculine, common, concrete: ‘field’">achadh</mark> <mark>far an robh</mark> gearrain gu leòr a’ ruith bho chnoc gu cnoc.
 
 
 
