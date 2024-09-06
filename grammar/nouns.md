@@ -36,16 +36,20 @@ Here is the same passage as before, now annotated for proper versus common nouns
 >
 > Bha <mark title="common, abstract: ‘fear’">eagal</mark> air a <mark title="common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="common, concrete: ‘enemies’">naimhdean</mark> ’<mark title="common, concrete: ‘father’">athar</mark> air <mark title="common, abstract: ‘pursuit’">tòir</mark> an <mark title="common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="common, abstract: ‘care’">chùram</mark> <mark title="common, concrete: ‘(group of) two people’">dithis</mark> <mark title="common, concrete: ‘women’">mhnathan</mark> eòlach. 
 
-The proper nouns in this passage are – ***Cumhal***, ***Fionn***.
+The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the other nouns are common nouns.
 
-And all the other nouns in the passage are common nouns.
+<details>
+  <summary>Notes</summary>
+  
+- ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is *not* a proper noun since it doesn’t name a particular group of men. Rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. 
+- The dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
+</details>
 
-Note that ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is not a proper noun which names a particular group of men; rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. 
-
-Note also that the dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
-
-Notes –
-- Lamb (2024:46) introduces this distinction in these terms: “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” Note that ‘Cape Breton’ is not an English proper noun in the sense assumed here – it is a name formed out of a phrase consisting of a common noun ‘cape’ and a postnominal adjective ‘Breton’. 
+<details>
+  <summary>Further reading</summary>
+  
+- Lamb (2024: 46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” [<mark title="Note however that ‘Cape Breton’ is *not* actually an English proper noun in the strict sense – it is a name formed out of a phrase consisting of a common noun ‘cape’ and a postnominal adjective ‘Breton’.">*</mark>] 
+</details>
 
 ## Grammatical categories of nouns
 
