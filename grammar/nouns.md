@@ -163,7 +163,6 @@ Below is the full text from which the passage above was extracted. All and only 
 >
 </details>
 
-
 ## Dependents of nouns
 
 A noun can have zero or more dependents, which can be –
@@ -175,7 +174,13 @@ A noun can have zero or more dependents, which can be –
 
 Bare nouns have no dependents of any type at all.
 
-Examples from the text?
+Proper nouns typically occur as bare nouns –
+
+> mm
+
+Common nouns can also appear as ‘indefinite’ bare nouns –
+
+
 
 
 
