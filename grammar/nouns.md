@@ -74,14 +74,20 @@ The following nouns in this passage are all feminine – ***Fhiann***, ***mhàth
 
 These nouns are all plural – ***daoine***, ***blàraibh***, ***naimhdean***, ***coilltean***, ***mhnathan***.
 
-And all the other nouns are masculine – ***saoghal***, ***Cumhall***, ***ainm***, ***mac***, ***Fionn***, ***leanamh***/***leinibh***, ***athair***/***athar***, ***measg***, ***eagal***, ***chùram***,
+And all the other nouns are masculine – ***saoghal***, ***Cumhall***, ***ainm***, ***mac***, ***Fionn***, ***leanamh***/***leinibh***, ***athair***/***athar***, ***measg***, ***eagal***, ***chùram***.
 
-Traditional descriptions of Gaelic grammar typically distinguish between the two grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
+<details>
+  <summary>Notes</summary>
+  
+- Traditional descriptions of Gaelic grammar typically distinguish between the two grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
+- The commonly heard assumption that Gaelic has a third grammatical number – the ‘dual’ – is an exaggeration. The relevant phenomena are more realistically explained as a handful of legacy inflectional peculiarities conditioned by the cardinal numeral ***dà*** ‘two’.
+</details>
 
-Note also that the common claim that Gaelic has a third grammatical number – the ‘dual’ – is an exaggeration. The relevant phenomena are more realistically explained as a handful of legacy inflectional peculiarities conditioned by the cardinal numeral ***dà*** ‘two’.
-
-Notes:
-- Lamb (2024:37) introduces gender as follows: “In Gaelic, most nouns [...] can inflect for [...] number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.” Note that this reflects the traditional view that plural nouns have some kind of ‘inherent’ gender.
+<details>
+  <summary>Further reading</summary>
+  
+- Lamb (2024: 37): “In Gaelic, most nouns [...] can inflect for [...] number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.” [<mark title="Note that this seems to reflect the traditional view that plural nouns have some kind of ‘inherent’ gender, which we hold to be untrue.">*</mark>]
+</details>
 
 ### Case – nominative, dative and genitive nouns
 
@@ -94,18 +100,25 @@ Here is the same passage as before, with each noun now additionally annotated fo
 >
 > Nuair a bha <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> ’na <mark title="dative, masculine, common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh ’<mark title="nominative, masculine, common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="dative, plural, common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> fhéin.
 >
-> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> ’<mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> <mark title="genitive|nominative (?), feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive|nominative (?), plural, common, concrete: ‘women’">mhnathan</mark> eòlach.
+> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> ’<mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> <mark title="genitive, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive (non-standard), plural, common, concrete: ‘women’">mhnathan</mark> eòlach.
 
-The following nouns in this passage are all dative – ***uair*** (both occurences), ***daoine*** (second occurence), ***leanabh***, ***blàraibh***, ***measg***, ***mhàthair***, ***tòir***, ***coilltean***, ***chùram***.
+The following nouns in this passage are all dative – ***daoine*** (second occurence), ***leanabh***, ***blàraibh***, ***measg***, ***mhàthair***, ***tòir***, ***coilltean***, ***chùram***.
 
-These nouns are all genitive (though there is a question mark over the final two) – ***athar***, ***leinibh***, ***dithis***, ***mhnàthan***.  
+These nouns are all genitive – ***athar***, ***leinibh***, ***dithis***, ***mhnàthan*** [<mark title="The standard genitive plural here would be ‘bhan’ rather than ‘mhnathan’, which is strictly speaking a nominative or datove plural form.">*</mark>].  
 
 And all the other nouns are nominative – ***saoghal***, ***daoine*** (first occurence), ***Fhiann*** (both occurences), ***Cumhal***, ***ainm***, ***mac***, ***Fionn*** (both occurences), ***athair***, ***eagal***, ***naimhdean***.
 
-Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ as a fourth case. However, the vocative is not a grammatical case *per se* but rather some kind of higher-level discourse phenomenon, whose inflectional idiosyncracies are conditioned by the vocative particle ***a***.
+<details>
+  <summary>Notes</summary>
 
-Notes:
-- Lamb (2024:37) introduce grammatical case as follows: “In Gaelic, most nouns [...] can inflect for case [...].”
+- Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ as a fourth case. However, the vocative is not a grammatical case *per se* but rather some kind of higher-level discourse phenomenon, whose inflectional idiosyncracies are conditioned by the vocative particle ***a***.
+</details>
+
+<details>
+  <summary>Further reading</summary>
+
+- Lamb (2024: 37): “In Gaelic, most nouns [...] can inflect for case [...].”
+</details>
 
 ## Further examples of nouns
 
