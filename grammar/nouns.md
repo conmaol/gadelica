@@ -166,6 +166,19 @@ Below is the full text from which the passage above was extracted. All and only 
 
 ## Dependents of nouns
 
+A noun can have zero or more dependents, which can be –
+- modifiers
+- specifiers
+- appositives
+
+### Bare nouns
+
+Bare nouns have no dependents of any type at all.
+
+Examples from the text?
+
+
+
 ### Modifiers of nouns
 
 A noun can have one or more modifiers, all of which follow the noun.
