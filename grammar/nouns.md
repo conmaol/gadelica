@@ -175,8 +175,9 @@ A noun can have zero or more dependents, which can be –
 Bare nouns have no dependents of any type at all.
 
 Proper nouns typically occur as bare nouns –
-
-> mm
+> B’ e <mark title="The nominative masculine proper noun ‘Cumhal’ has no dependents.">Cumhal</mark> a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh <mark title="The nominative masculine proper ‘Fionn’ [Finn] has no dependents.">Fionn</mark>.
+>
+> Is i siud a’ chiad shealg a rinn <mark title="The nominative masculine proper ‘Fionn’ [Finn] has no dependents.">Fionn</mark>.
 
 Common nouns can also appear as ‘indefinite’ bare nouns –
 
