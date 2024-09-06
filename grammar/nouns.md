@@ -4,9 +4,9 @@
 
 ### Concrete and abstract nouns
 
-Nouns are words that typically denote *material* entities – individuals, substances, aggregates and groups which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’ – see below), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
+Nouns are words that typically denote *material* entities (individuals, substances, and aggregates and groups thereof) which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
 
-The following passage is taken from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81 (attributed to I. N. MacLeòid, with some spellings updated). All and only the nouns have been highlighted. On hover, information will appear about whether each one is a concrete or abstract noun.
+To exemplify, in the following passage all and only the nouns have been highlighted. On hover, information should appear about whether each noun is concrete or abstract. [<mark title="This passage is taken from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81 (attributed to I. N. MacLeòid). Some spellings have been updated for readability.">*</mark>]
 > Nuair a bha an <mark title="concrete: ‘world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warrior class’">Fhiann</mark>.
 >
 > B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘name’">ainm</mark> air aon de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
@@ -15,8 +15,11 @@ The following passage is taken from Lachlann MacFhionghuin’s *Leabhraichean Le
 >
 > Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘father’">athar</mark> air <mark title="abstract: ‘pursuit’">tòir</mark> an <mark title="concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘(group of) two people’">dithis</mark> <mark title="concrete: ‘women’">mhnathan</mark> eòlach. 
 
-Notes –
-- Lamb (2024:37) introduces nouns as follows: “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
+<details>
+<summary>Further reading</summary>
+
+- Lamb (2024: 37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
+</details>
 
 ### Proper nouns and common nouns
 
