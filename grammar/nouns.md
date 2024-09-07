@@ -19,6 +19,7 @@ To exemplify, in the following passage all and only the nouns have been highligh
 <summary>Further reading</summary>
 
 - Lamb (2024: 37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
+- Cox (2017: §55): “Tha <ins>ainmear</ins> na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*.” [<mark title="A noun is a name of a person or of a thing, eg. ‘boireannach’ [woman], ‘balach’ [boy], ‘bòrd’ [table], ‘doras’ [door].">*</mark>]
 </details>
 
 ### Proper nouns and common nouns
@@ -41,14 +42,14 @@ The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the othe
 <details>
   <summary>Notes</summary>
   
-- ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is *not* a proper noun since it doesn’t name a particular group of men. Rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. 
+- ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is *not* a proper noun since it doesn’t name a particular group of men. Rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. Moreover, even though ***An Fhiann*** is a name, it is *not* a proper noun, since it is not a noun.
 - The dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
 </details>
 
 <details>
   <summary>Further reading</summary>
   
-- Lamb (2024: 46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” [<mark title="Note however that ‘Cape Breton’ is *not* actually an English proper noun in the strict sense – it is a name formed out of a phrase consisting of a common noun ‘cape’ and a postnominal adjective ‘Breton’.">*</mark>] 
+- Lamb (2024: 46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).”
 </details>
 
 ## Grammatical categories of nouns
@@ -79,14 +80,15 @@ And all the other nouns are masculine – ***saoghal***, ***Cumhall***, ***ainm*
 <details>
   <summary>Notes</summary>
   
-- Traditional descriptions of Gaelic grammar typically distinguish between the two grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
+- Traditional descriptions of Gaelic grammar typically distinguish between the two orthogonal grammatical categories of gender (feminine or masculine) and *number* (singular or plural). Given that modern Scottish Gaelic has no gender distinction in the plural, it seems clear that plural number is more accurately treated as a third (non-sex-based) grammatical gender.
 - The commonly heard assumption that Gaelic has a third grammatical number – the ‘dual’ – is an exaggeration. The relevant phenomena are more realistically explained as a handful of legacy inflectional peculiarities conditioned by the cardinal numeral ***dà*** ‘two’.
 </details>
 
 <details>
   <summary>Further reading</summary>
   
-- Lamb (2024: 37): “In Gaelic, most nouns [...] can inflect for [...] number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.” [<mark title="Note that this seems to reflect the traditional view that plural nouns have some kind of ‘inherent’ gender, which we hold to be untrue.">*</mark>]
+- Lamb (2024: 37): “In Gaelic, most nouns [...] can inflect for [...] number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine.”
+- Cox (2017: §55): “Faodaidh ainmearan a bhith aon chuid <ins>fireann</ins> no <ins>boireann</ins>; aon chuid <ins>singilte</ins>, <ins>deise</ins> no <ins>iolra</ins>; [...]” [<mark title="Nouns can be on the one hand masculine or feminine; on the other hand singular, dual or plural; [...]">*</mark>]
 </details>
 
 ### Case – nominative, dative and genitive nouns
@@ -118,6 +120,7 @@ And all the other nouns are nominative – ***saoghal***, ***daoine*** (first oc
   <summary>Further reading</summary>
 
 - Lamb (2024: 37): “In Gaelic, most nouns [...] can inflect for case [...].”
+- Cox (2017: §55): “Faodaidh ainmearan a bhith [...] <ins>bunasach</ins>, <ins>ginideach</ins>, <ins>tabhartach</ins> no <ins>gairmeach</ins>.” [<mark title="Nouns can be [...] basic [ie. nominative], genitive, dative or vocative.">*</mark>]
 </details>
 
 ## Further examples of nouns
