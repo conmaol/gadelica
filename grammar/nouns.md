@@ -42,7 +42,7 @@ The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the othe
 <details>
   <summary>Notes</summary>
   
-- ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is *not* a proper noun since it doesn’t name a particular group of men. Rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. Moreover, even though ***An Fhiann*** is a name, it is *not* a proper noun, since it is not a noun.
+- ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is *not* a proper noun since it doesn’t name a particular group of men. Rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. Moreover, even though ***An Fhiann*** is a name, it is *not* a proper noun, since it is not a noun. This important distinction between names and proper nouns has unfortunately not been properly grasped in previous descriptions of Gaelic grammar.
 - The dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
 </details>
 
@@ -50,6 +50,7 @@ The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the othe
   <summary>Further reading</summary>
   
 - Lamb (2024: 46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).”
+- Cox (2017: §56): “Tha diofar sheòrsaichean ainmearan ann: (i) Ainmear cumanta, a tha na ainm air rudeigin bitheanta, m.e. *boireannach*; *cat*; *bròg*; *sùil*; *aran*; *taigh*. (ii) Ainmear sònraichte, a tha na ainm air duine, air àite no air rudeigin àraidh, m.e. *Mòrag*; *Seumas*; *Glaschu*; *BBC ALBA*; *an Gearasdan*. (iii) [...] [<mark title="There are different kinds of noun: (i) Common noun, which is the name of something common, eg. ‘boireannach’ [woman], ‘cat’ [cat], ‘bròg’ [shoe], ‘sùil’ [eye], ‘aran’ [bread], ‘taigh’ [house]. (ii) Proper noun, which is the name of a particular person, place or thing, eg. ‘Mòrag’ [Morag], ‘Seumas’ [James], ‘Glaschu’ [Glasgow], ‘BBC ALBA’ [sic.], ‘an Gearasdan’ [sic. Fort William].">*</mark>]”
 </details>
 
 ## Grammatical categories of nouns
@@ -241,13 +242,17 @@ Common nouns can be modified by adjectives too –
 
 #### Genitive nouns as modifiers of other nouns
 
-A noun can have one or more genitive noun modifiers.
+A noun can have a genitive noun modifier.
 
-> Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na coilltean fàsail air chùram <mark title="noun: genitive, feminine, common">dithis</mark> <mark title="noun: genitive|nominative (?), plural, common: ‘women’">mhnathan</mark> eòlach.
->
-> Fhuair i e ’na <mark title="noun: dative, feminine, common, abstract: ‘slumber’">shuain</mark> <mark title="noun: genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
-> 
-> Bha an <mark title="noun: nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="noun: genitive (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
+Common nouns can be modified by non-plural (feminine or masculine) genitive nouns –
+
+> Fhuair i e ’na <mark title="The dative feminine common noun ‘shuain’ [slumber] is modified by the masculine genitive noun ‘chadail’ [sleep] – ‘slumber of sleep, sleepy slumber’.">shuain chadail</mark>, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
+
+Common nouns can also be modified by plural genitive nouns –
+
+> Bha an <mark title="The nominative feminine common noun ‘dithis’ [group of two people] is modified by the plural genitive noun ‘mhnathan’ [women] – ‘group of two women’.">dithis mhnathan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
+
+Proper nouns can also be modified by genitive nouns, though there are no examples in our text.
 
 #### Prepositions as modifiers of nouns
 
