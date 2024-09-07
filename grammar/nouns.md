@@ -189,7 +189,7 @@ Common nouns can also appear bare (with ‘indefinite’ meaning) –
 >
 > Latha de na làithean chaidh e a-mach agus chunnaic e lach a’ snàmh air <mark title="The dative masculine common noun ‘loch’ [lake] has no dependents here (though it is itself the complement of the preposition ‘air’ [on]).">loch</mark>.
 >
-> Thilg e <mark title="The nominative feminine common noun ‘urchair’ [shot, stone] has no dependents here (though it is itself the object of the verg ‘thilg’ [threw]).">urchair</mark> oirre, agus gheàrr sin na sgiathan aice.
+> Thilg e <mark title="The nominative feminine common noun ‘urchair’ [shot, stone] has no dependents here (though it is itself the object of the verb ‘thilg’ [threw]).">urchair</mark> oirre, agus gheàrr sin na sgiathan aice.
 
 <details>
   <summary>More examples of bare common nouns</summary>
@@ -205,34 +205,41 @@ Common nouns can also appear bare (with ‘indefinite’ meaning) –
 
 ### Modifiers of nouns
 
-A noun can have one or more modifiers, all of which follow the noun.
+A noun can have one or more modifiers, all of which follow the noun. Modifiers can be –
+- adjectives
+- genitive nouns
+- prepositions
+- relative particles
 
-#### Adjectives
+#### Adjectives as modifiers of nouns
 
 A noun can have one or more adjective modifiers.
 
-Examples of nouns modified by adjectives are highlighted in the following –
+Proper nouns can be modified by adjectives –
+
+> Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do leig i <mark title="The nominative masculine proper noun ‘Fionn’ [Finn] is modified by the adjective ‘beag’ [little] – ‘Little Finn’.">Fionn beag</mark> as a h-aire.
+
+Common nouns can be modified by adjectives too –
 
 > Nuair a bha an saoghal òg bha <mark title="The nominative plural common noun ‘daoine’ [men] is modified by the adjective ‘treuna’ [strong] – ‘strong men’.">daoine treuna</mark> ann, ris an canadh iad an Fhiann.
->
-> Nuair a bha Fionn ’n a <mark title="noun: dative, masculine, common, concrete: ‘infant’">leanabh</mark> <mark title="adjective: ‘small, little’">beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
->
-> Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na <mark title="noun: dative, plural, common, concrete: ‘forests’">coilltean</mark> <mark title="adjective: ‘desolate’">fàsail</mark> air chùram dithis <mark title="noun: genitive(?), plural, common, concrete: ‘women’">mhnathan</mark> <mark title="adjective: ‘learned, wise’">eòlach</mark>.
 > 
-> Phòs a mhàthair <mark title="noun: nominative, masculine, common, concrete: ‘king’">rìgh</mark> <mark title="adjective: ‘worthy’">àraidh</mark> an déidh sin, ach cha do leig i <mark title="noun: nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> <mark title="adjective: ‘small, little’">beag</mark> as a h-aire.
->
-> Dh’fhalbh i <mark title="noun: nominative, masculine, common, abstract: ‘distance’">astar</mark> <mark title="adjective: ‘long’">fada</mark> troimh <mark title="noun: dative, feminine, common, concrete: ‘land’">thìr</mark> <mark title="adjective: ‘desolate’">fhàsail</mark> gus an do lorg i an t-àite anns an robh an leanabh.
->
-> Sheinn i <mark title="noun: nominative, masculine, common, abstract: ‘tune’">crònan</mark> <mark title="adjective: ‘sweet’">milis</mark> <mark title="adjective: ‘melodious’">binn</mark> dha, agus an sin thog i oirre.
+> Nuair a bha Fionn ’n a <mark title="The dative masculine common noun ‘leanabh’ [infant] is modified by the adjective ‘beag’ [little] – ‘little infant’.">leanabh beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+> 
+> Sheinn i <mark title="The nominative masculine common noun ‘crònan’ [tune] is modified by the adjectives ‘milis’ [sweet] and ‘binn’ [melodious] – ‘sweet melodious tune’.">crònan milis binn</mark> dha, agus an sin thog i oirre.
 
-In these examples –
-- 
-- the nominative masculine proper noun ***Fionn*** ‘Finn’ is modified by the adjective ***beag*** ‘small, little’
-- the dative feminine common noun ***thìr*** ‘land’ is modified by the adjective ***fhàsail*** ‘desolate’ 
-- the nominative masculine common noun ***crònan*** ‘tune’ is modified by the adjectives ***milis*** ‘sweet’ and ***binn*** ‘melodious’
-- etc.
+<details>
+  <summary>More examples with adjectives modifying common nouns</summary>
 
-#### Genitive nouns
+> Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na <mark title="The dative plural common noun ‘coilltean’ [forests] is modified by the adjective ‘fàsail’ [desolate] – ‘desolate forests’.">coilltean fàsail</mark> air chùram dithis <mark title="The genitive plural common noun ‘mhnathan’ [women] is modified by the adjective ‘eòlach’ [wise] – ‘wise women’.">mhnathan eòlach</mark>.
+>
+> Phòs a mhàthair <mark title="The nominative masculine common noun ‘rìgh’ [king] is modified by the adjective ‘àraidh’ [worthy] – ‘a worthy king’.">rìgh àraidh</mark> an déidh sin, ach cha do leig i Fionn beag as a h-aire.
+> 
+> Dh’fhalbh i <mark title="The nominative masculine common noun ‘astar’ [distance] is modified by the adjective ‘fada’ [long] – ‘long distance’.">astar fada</mark> troimh <mark title="The dative feminine common noun ‘tìr’ [land] is modified by the adjective ‘fhàsail’ [desolate] – ‘desolate land’.">thìr fhàsail</mark> gus an do lorg i an t-àite anns an robh an leanabh.
+>
+> Bha aige ri an cumail ’nan <mark title="The dative masculine common noun ‘cròileagan’ [group] is modified by the adjective ‘cruinn’ [round] – ‘round group’.">cròileagan cruinn</mark> ann am <mark title="The dative masculine common noun ‘badan’ [thicket] is modified by the adjective ‘àraidh’ [special] – ‘special thicket’.">badan àraidh</mark>, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
+</details>
+
+#### Genitive nouns as modifiers of other nouns
 
 A noun can have one or more genitive noun modifiers.
 
@@ -242,7 +249,7 @@ A noun can have one or more genitive noun modifiers.
 > 
 > Bha an <mark title="noun: nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="noun: genitive (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
 
-#### Prepositions
+#### Prepositions as modifiers of nouns
 
 > B’ e Cumhal a b’ <mark title="noun: nominative, masculine, common: ‘name’">ainm</mark> <mark>air aon</mark> de na daoine so, agus bha aige air an robh Fionn.
 >
@@ -254,7 +261,7 @@ A noun can have one or more genitive noun modifiers.
 >
 > Rachadh e a-mach don achadh far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> <mark>gu leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> <mark>bho chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
 
-#### Relative particles
+#### Relative particles as modifiers of nouns
 
 > An <mark title="noun: dative, feminine, common: ‘time’">uair</mark> <mark>a bha</mark> an saoghal òg bha <mark title="noun: nominative, plural, common: ‘men’">daoine</mark> treuna ann, <mark>ris an canadh</mark> iad an Fhiann.
 >
