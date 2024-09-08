@@ -256,6 +256,8 @@ Proper nouns can also be modified by genitive nouns, though there are no example
 
 #### Prepositions as modifiers of nouns
 
+A noun can have one or more prepositions as modifiers.
+
 > B’ e Cumhal a b’ <mark title="noun: nominative, masculine, common: ‘name’">ainm</mark> <mark>air aon</mark> de na daoine so, agus bha aige air an robh Fionn.
 >
 > Dh’fhalbh i <mark title="noun: nominative, masculine, common: ‘distance’">astar</mark> fada <mark>troimh thìr</mark> fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
@@ -267,6 +269,8 @@ Proper nouns can also be modified by genitive nouns, though there are no example
 > Rachadh e a-mach don achadh far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> <mark>gu leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> <mark>bho chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
 
 #### Relative particles as modifiers of nouns
+
+A noun can have a relative particle as modifier.
 
 > An <mark title="noun: dative, feminine, common: ‘time’">uair</mark> <mark>a bha</mark> an saoghal òg bha <mark title="noun: nominative, plural, common: ‘men’">daoine</mark> treuna ann, <mark>ris an canadh</mark> iad an Fhiann.
 >
