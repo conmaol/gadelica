@@ -266,37 +266,45 @@ Common nouns can be modified by prepositions –
 >
 > Rachadh e a-mach don achadh far an robh <mark title="The nominative plural common noun ‘gearrain’ [hares] is modified by the preposition ‘gu’ [to] – ‘hares to sufficiency, enough hares’."><ins>gearrain</ins> <ins>gu</ins> leòr</mark> a’ ruith bho chnoc</mark> gu cnoc.
 
-Prepositional pronouns –
+This includes prepositional pronouns –
 
-> Thilg e urchair oirre, agus gheàrr sin na <mark title="noun: nominative, plural, common: ‘wing’">sgiathan</mark> <mark>aice</mark>.
+> Thilg e urchair oirre, agus gheàrr sin na <mark title="The nominative plural common noun ‘sgiathan’ [wing] is modified by the prepositional pronoun ‘aice’ [at her] – ‘wings at her, her wings’.">sgiathan aice</mark>.
 >
 
-Progressive particle –
+As well as the progressive particle ***ag*** –
 
-> <mark title="noun: nominative (?), masculine, common: ‘day’">Latha</mark> <mark>de na làithean</mark> chaidh e mach agus chunnaic e <mark title="noun: nominative, feminine, common: ‘duck’">lach</mark> <mark>a’ snàmh</mark> <mark>air loch</mark>.
+> Latha de na làithean chaidh e mach agus chunnaic e <mark title="The nominative feminine common noun ‘lach’ [duck] is modified by the particle ‘ag’ – ‘duck swimming on a lake’."><ins>lach</ins> <ins>a’</ins> snàmh air loch</mark>.
 >
 
-Verbal nouns - a’ ruith bho ?
+[Verbal nouns - a’ ruith bho ?]
 
-Proper nouns?
+[Proper nouns?]
 
-Strictly speaking, it is the preposition itself which is the grammatical modifier, not the whole prepositional phrase.
+<details>
+  <summary>Notes</summary>
+
+- Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun, and not the whole prepositional phrase, since grammatical relations are between individual words and not between words and phrases.
+</details>
 
 #### Relative particles as modifiers of nouns
 
 A noun can have a relative particle as modifier.
 
-> An <mark title="noun: dative, feminine, common: ‘time’">uair</mark> <mark>a bha</mark> an saoghal òg bha <mark title="noun: nominative, plural, common: ‘men’">daoine</mark> treuna ann, <mark>ris an canadh</mark> iad an Fhiann.
->
-> B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha <mark title="noun: nominative, masculine, common: ‘son’">mac</mark> aige <mark>air an robh</mark> Fionn.
->
-> An <mark title="noun: dative, feminine, common: ‘time’">uair</mark> <mark>a bha</mark> Fionn ’n a leanabh beag, mharbhadh athair ann an aon de na <mark title="noun: dative, plural, common: ‘battles’">blàraibh</mark> <mark>a chuir</mark> an Fhiann ’nam measg fhéin.
->
-> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an <mark title="noun: nominative, masculine, common: ‘place’">t-àite</mark> <mark>anns an robh</mark> an leanabh.
->
-> Is i sud a’ cheud <mark title="noun: nominative, feminine, common: ‘hunt(ing)’">shealg</mark> <mark>a rinn</mark> Fionn.
+> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na <mark title="The dative plural common noun ‘blàraibh’ [battles] is modified by the relative article ‘a’ [which] – ‘the battles which sent the Fianna among themselves’."><ins>blàraibh</ins> <ins>a</ins> chuir an Fhiann ’nam measg fhéin</mark>.
 > 
-> Rachadh e a-mach don <mark title="dative, masculine, common, concrete: ‘field’">achadh</mark> <mark>far an robh</mark> gearrain gu leòr a’ ruith bho chnoc gu cnoc.
+> Is i sud a’ cheud <mark title="The nominative feminine common noun ‘shealg’ [hunt] is modified by the relatove particle ‘a’ [which] – ‘the first hunt which Finn did’."><ins>shealg</ins> <ins>a</ins> rinn Fionn</mark>.
+
+Prepositional relatives –
+
+> Nuair a bha an saoghal òg bha <mark title="The nominative plural common noun ‘daoine’ [men] is modfied by the prepositional relative particle ‘ris (an)’ [to whom] – ‘strong men to whom they would say the Fianna (ie. whom they would call the Fianna)’."><ins>daoine</ins> treuna ann, <ins>ris</ins> an canadh iad an Fhiann</mark>.
+>
+> B’ e Cumhal a b’ ainm air aon de na daoine so, agus bha <mark title="The nominative masculine common noun ‘mac’ [son] is modified by the prepositional relative particle ‘air (an)’ [on whom] – ‘a son on whom (the name) Finn was (ie. who was called Finn)’."><ins>mac</ins> aige <ins>air</ins> an robh Fionn</mark>.
+>
+> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an <mark title="The nominative masculine common noun ‘t-àite’ [place] is modified by the prepositional relative particle ‘anns an’ [in which] – ‘the place in which the infant was’." ><ins>t-àite</ins> <ins>anns</ins> an robh an leanabh</mark>.
+
+far –
+
+> Rachadh e a-mach don <mark title="The dative masculine common noun ‘achadh’ [field] is modified by the relative particle ‘far an’ [where] – ‘the place where plenty of hares were running from hill to hill’."><ins>achadh</ins> <ins>far</ins> an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc</mark>.
 
 
 
