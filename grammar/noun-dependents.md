@@ -1,6 +1,6 @@
 # Nouns – dependents
 
-A noun can have zero or more dependents, which can be –
+A [noun](nouns.md) can have zero or more dependents, which can be –
 - modifiers
 - specifiers
 - appositives
