@@ -170,7 +170,7 @@ Below is the full text from which the passage above was extracted. All and only 
 
 ----
 
-[Dependents](nouns-dependents.md)
+[Dependents](noun-dependents.md)
 
 ----
 
