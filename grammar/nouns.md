@@ -258,15 +258,29 @@ Proper nouns can also be modified by genitive nouns, though there are no example
 
 A noun can have one or more prepositions as modifiers.
 
-> B’ e Cumhal a b’ <mark title="noun: nominative, masculine, common: ‘name’">ainm</mark> <mark>air aon</mark> de na daoine so, agus bha aige air an robh Fionn.
+Common nouns can be modified by prepositions –
+
+> B’ e Cumhal a b’ <mark title="The nominative masculine common noun ‘ainm’ [name] is modified by the preposition ‘air’ [on] – ‘the name on/of one of these men’."><ins>ainm</ins> <ins>air</ins> aon de na daoine seo</mark>, agus bha mac aige air an robh Fionn.
 >
-> Dh’fhalbh i <mark title="noun: nominative, masculine, common: ‘distance’">astar</mark> fada <mark>troimh thìr</mark> fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
+> Dh’fhalbh i <mark title="The nominative masculine common noun ‘astar’ [distance] is modified by the preposition ‘tro’ [through] – ‘long distance through desolate land’."><ins>astar</ins> fada <ins>tro</ins> thìr fhàsail</mark> gus an do lorg i an t-àite anns an robh an leanabh.
 >
-> <mark title="noun: nominative (?), masculine, common: ‘day’">Latha</mark> <mark>de na làithean</mark> chaidh e mach agus chunnaic e <mark title="noun: nominative, feminine, common: ‘duck’">lach</mark> <mark>a’ snàmh</mark> <mark>air loch</mark>.
->
+> Rachadh e a-mach don achadh far an robh <mark title="The nominative plural common noun ‘gearrain’ [hares] is modified by the preposition ‘gu’ [to] – ‘hares to sufficiency, enough hares’."><ins>gearrain</ins> <ins>gu</ins> leòr</mark> a’ ruith bho chnoc</mark> gu cnoc.
+
+Prepositional pronouns –
+
 > Thilg e urchair oirre, agus gheàrr sin na <mark title="noun: nominative, plural, common: ‘wing’">sgiathan</mark> <mark>aice</mark>.
 >
-> Rachadh e a-mach don achadh far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> <mark>gu leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> <mark>bho chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
+
+Progressive particle –
+
+> <mark title="noun: nominative (?), masculine, common: ‘day’">Latha</mark> <mark>de na làithean</mark> chaidh e mach agus chunnaic e <mark title="noun: nominative, feminine, common: ‘duck’">lach</mark> <mark>a’ snàmh</mark> <mark>air loch</mark>.
+>
+
+Verbal nouns - a’ ruith bho ?
+
+Proper nouns?
+
+Strictly speaking, it is the preposition itself which is the grammatical modifier, not the whole prepositional phrase.
 
 #### Relative particles as modifiers of nouns
 
