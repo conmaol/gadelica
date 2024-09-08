@@ -168,7 +168,11 @@ Below is the full text from which the passage above was extracted. All and only 
 > Bha aige ri an <mark title="dative, feminine, common, abstract: ‘restraining’">cumail</mark> ’nan <mark title="dative, masculine, common, concrete?: ‘ring of people’">cròileagan</mark> cruinn ann am <mark title="dative, masculine, common, concrete: ‘thicket’">badan</mark> àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
 </details>
 
+----
 
+[Dependents](nouns-dependents.md)
+
+----
 
 ## Functions of nouns
 
