@@ -1,10 +1,16 @@
-# Nouns – grammatical categories
+# Nouns
+
+## Semantic characteristics of nouns
+
+[See here](nouns.md)
+
+## Grammatical categories of nouns
 
 There are two grammatical categories associated with [nouns](nouns.md) in Gaelic –
 - gender – feminine, masculine, plural
 - case – nominative, dative, genitive
 
-## Gender – feminine, masculine and plural nouns
+### Gender – feminine, masculine and plural nouns
 
 Nouns in Gaelic have *gender* – every noun is either *feminine* or *masculine* or *plural*.
 
@@ -37,7 +43,7 @@ And all the other nouns are masculine – ***saoghal***, ***Cumhall***, ***ainm*
 - Cox (2017: §55): “Faodaidh ainmearan a bhith aon chuid <ins>fireann</ins> no <ins>boireann</ins>; aon chuid <ins>singilte</ins>, <ins>deise</ins> no <ins>iolra</ins>; [...]” [<mark title="Nouns can be on the one hand masculine or feminine; on the other hand singular, dual or plural; [...]">*</mark>]
 </details>
 
-## Case – nominative, dative and genitive nouns
+### Case – nominative, dative and genitive nouns
 
 Nouns in Gaelic have *case* – every noun is either *nominative* or *dative* or *genitive*.
 
@@ -69,12 +75,9 @@ And all the other nouns are nominative – ***saoghal***, ***daoine*** (first oc
 - Cox (2017: §55): “Faodaidh ainmearan a bhith [...] <ins>bunasach</ins>, <ins>ginideach</ins>, <ins>tabhartach</ins> no <ins>gairmeach</ins>.” [<mark title="Nouns can be [...] basic [ie. nominative], genitive, dative or vocative.">*</mark>]
 </details>
 
-----
+## Dependents of nouns
 
-Nouns –
-- [Semantic characteristics of nouns](nouns.md)
-- Grammatical categories of nouns
-- [Dependents of nouns](noun-dependents.md)
+[See here](noun-dependents.md)
 
 
 ----
