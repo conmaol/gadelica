@@ -57,7 +57,9 @@ The abstract nouns are
 - Nouns have been defined in broadly similar terms by other grammarians of Gaelic:
   > Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’. (Lamb 2024: 37)
   > 
-  > Tha ainmear ’na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*. (Cox 2017: §55) 
+  > Tha ainmear ’na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*. (Cox 2017: §55)
+  >
+  > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
 </details>
 
 ### Proper nouns and common nouns
@@ -101,7 +103,7 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
   >
   > **noun**: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
   
-- Note for completeness that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh*), quantity nouns (*ainmear meud*), abstract nouns (*ainmear eas-cruthach*), compound nouns (*ainmear fillte*), verbal nouns (*ainmear gnìomhaireach*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
+- Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*), quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*), abstract nouns (*ainmear eas-cruthach* – see above), compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*), verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 </details>
 
 ## Grammatical categories of nouns
