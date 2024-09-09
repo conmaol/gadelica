@@ -10,18 +10,9 @@
 
 ## More examples of nouns
 
-> Nuair a bha  
-> an    
-> <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> – *nominative masculine common noun* ‘world’  
-> òg  
-> bha  
-> <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> – *nominative plural common noun* ‘men’  
-> treuna  
-> ann,  
-> ris an canadh iad  
-> an    
-> <mark title="nominative, feminine, common, concrete: ‘warriors’">Fhiann</mark> – *nominative feminine common noun* ‘warriors’  
-> .  
+> Nuair a bha an <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> – *nominative masculine*  
+> òg bha <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> – *nominative plural*  
+> treuna ann, ris an canadh iad an <mark title="nominative, feminine, common, concrete: ‘warriors’">Fhiann</mark>. – *nominative feminine*  
 >
 > B’ e  
 > <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark>  
