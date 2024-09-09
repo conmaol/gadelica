@@ -16,14 +16,36 @@ Nouns that denote material entities are known as **concrete** nouns, and nouns t
 
 The following passage is adapted from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
 
-> Nuair a bha an <mark title="concrete: ‘world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warrior class’">Fhiann</mark>.
+> Nuair a bha an <mark title="concrete: ‘a world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warriors’">Fhiann</mark>.
 >
-> B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘name’">ainm</mark> air <mark>fear</mark> de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
+> B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘a name’">ainm</mark> air aon de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘a son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
 >
-> Nuair a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’na <mark title="concrete: ‘infant’">leanabh</mark> beag, mharbhadh ’<mark title="concrete: ‘father’">athair</mark> ann am <mark>fear</mark> de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
+> Nuair a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’na <mark title="concrete: ‘an infant’">leanabh</mark> beag, mharbhadh ’<mark title="concrete: ‘a father’">athair</mark> ann an aon de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warriors’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
 >
-> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘father’">athar</mark> air <mark title="abstract: ‘pursuit’">tòir</mark> an <mark title="concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘(group of) two people’">dithis</mark> <mark title="concrete: ‘women’">bhan</mark> eòlach. 
+> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘a mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘a father’">athar</mark> air <mark title="abstract: ‘a pursuit’">tòir</mark> an <mark title="concrete: ‘an infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘a group of two’">dithis</mark> <mark title="concrete: ‘women’">bhan</mark> eòlach. 
 
+The concrete nouns in this passage are
+saoghal ‘a world’
+daoine ‘men’
+Fhiann ‘warriors’
+Cumhall ‘Cumhall’
+mac ‘a son’
+Fionn ‘Finn’
+leanabh (leinibh) ‘an infant’
+athair (athar) ‘a father’
+mhàthair ‘a mother’
+naimhdean ‘enemies’
+coilltean ‘forests’
+dithis ‘a group of two’
+bhan ‘women’
+
+The abstract nouns are 
+ainm
+blàraibh
+measg
+eagal
+tòir ‘a pursuit’
+chùram ‘care’
 
 
 ### Proper nouns and common nouns
