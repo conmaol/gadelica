@@ -18,11 +18,11 @@ The following passage is adapted from Lachlann MacFhionghuin’s (c.1950) *Leabh
 
 > Nuair a bha an <mark title="concrete: ‘world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warrior class’">Fhiann</mark>.
 >
-> B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘name’">ainm</mark> air aon de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
+> B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘name’">ainm</mark> air <mark>fear</mark> de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
 >
-> Nuair a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’na <mark title="concrete: ‘infant’">leanabh</mark> beag, mharbhadh ’<mark title="concrete: ‘father’">athair</mark> ann an aon de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
+> Nuair a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’na <mark title="concrete: ‘infant’">leanabh</mark> beag, mharbhadh ’<mark title="concrete: ‘father’">athair</mark> ann am <mark>fear</mark> de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
 >
-> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘father’">athar</mark> air <mark title="abstract: ‘pursuit’">tòir</mark> an <mark title="concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘(group of) two people’">dithis</mark> <mark title="concrete: ‘women’">mhnathan</mark> eòlach. 
+> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘father’">athar</mark> air <mark title="abstract: ‘pursuit’">tòir</mark> an <mark title="concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘(group of) two people’">dithis</mark> <mark title="concrete: ‘women’">bhan</mark> eòlach. 
 
 
 
