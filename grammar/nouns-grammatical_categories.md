@@ -69,6 +69,17 @@ And all the other nouns are nominative – ***saoghal***, ***daoine*** (first oc
 - Cox (2017: §55): “Faodaidh ainmearan a bhith [...] <ins>bunasach</ins>, <ins>ginideach</ins>, <ins>tabhartach</ins> no <ins>gairmeach</ins>.” [<mark title="Nouns can be [...] basic [ie. nominative], genitive, dative or vocative.">*</mark>]
 </details>
 
+----
+
+Nouns –
+- [Semantic characteristics of nouns](nouns.md)
+- Grammatical categories of nouns
+- [Dependents of nouns](noun-dependents.md)
+
+
+----
+
+
 ## Further examples of nouns
 
 Below is the full text from which the passage above was extracted. All and only the nouns are underlined, and if you hover over one of them, you can see whether it is concrete or abstract, proper or common, and what its gender and case are.
