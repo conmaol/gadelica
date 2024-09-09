@@ -1,11 +1,21 @@
-# Nouns – dependents
+# Nouns
 
-A [noun](nouns.md) can have zero or more dependents, which can be –
+## Semantic characteristics of nouns
+
+[See here](nouns.md)
+
+## Grammatical categories of nouns
+
+[See here](nouns-grammatical_categories.md)
+
+## Dependents of nouns
+
+A noun can have zero or more dependents, which can be –
 - modifiers
 - specifiers
 - appositives
 
-## Bare nouns
+### Bare nouns
 
 Bare nouns have no dependents of any type at all.
 
@@ -34,7 +44,7 @@ Common nouns can also appear bare (with ‘indefinite’ meaning) –
 > Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan <mark title="The genitive masculine common noun ‘féidh’ [deer] has no dependents here (though it is itself the specifier of the noun ‘casan’ [feet]).">féidh</mark>.
 </details>
 
-## Modifiers of nouns
+### Modifiers of nouns
 
 A noun can have one or more modifiers, all of which follow the noun. Modifiers can be –
 - adjectives
@@ -42,7 +52,7 @@ A noun can have one or more modifiers, all of which follow the noun. Modifiers c
 - prepositions
 - relative particles
 
-### Adjectives as modifiers of nouns
+#### Adjectives as modifiers of nouns
 
 A noun can have one or more adjective modifiers.
 
@@ -70,7 +80,7 @@ Common nouns can be modified by adjectives too –
 > Bha aige ri an cumail ’nan <mark title="The dative masculine common noun ‘cròileagan’ [group] is modified by the adjective ‘cruinn’ [round] – ‘round group’.">cròileagan cruinn</mark> ann am <mark title="The dative masculine common noun ‘badan’ [thicket] is modified by the adjective ‘àraidh’ [special] – ‘special thicket’.">badan àraidh</mark>, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
 </details>
 
-### Genitive nouns as modifiers of other nouns
+#### Genitive nouns as modifiers of other nouns
 
 A noun can have a genitive noun modifier.
 
@@ -116,7 +126,7 @@ As well as the progressive particle ***ag*** –
 - Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun, and not the whole prepositional phrase, since grammatical relations are between individual words and not between words and phrases.
 </details>
 
-### Relative particles as modifiers of nouns
+#### Relative particles as modifiers of nouns
 
 A noun can have a relative particle as modifier.
 
@@ -138,7 +148,7 @@ far –
 
 
 
-## Specifiers
+### Specifiers
 
 naimhdean athar
 
@@ -151,18 +161,11 @@ dithis mhnathan
 déidh sin
 
 
-## Appositives
+### Appositives
 
 Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such as the definite article (‘the’), [...]. [...] As the head of a noun phrase, nouns maye be modified by adjectives, with which they share several properties. Adjectives modify a noun within a noun phrase or provide additional information about it, such as serving to restrict possible reference.”
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, [...].”
-
-----
-
-Nouns –
-- [Semantic characteristics of nouns](nouns.md)
-- [Grammatical categories of nouns](nouns-grammatical_categories.md)
-- Dependents of nouns
 
 ----
 
