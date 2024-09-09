@@ -12,9 +12,6 @@
 
 Below is the full text from which the passage above was extracted. All and only the nouns are underlined, and if you hover over one of them, you can see whether it is concrete or abstract, proper or common, and what its gender and case are.
 
-<details>
-<summary>Full text</summary>
-
 > Nuair a bha an <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> òg bha <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark>.
 >
 > B’ e <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="nominative, masculine, common, abstract: ‘name’">ainm</mark> air aon de na <mark title="dative, plural, common, concrete: ‘men’">daoine</mark> seo, agus bha <mark title="nominative, masculine, common, concrete: ‘son’">mac</mark> aige air an robh <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>.
@@ -50,7 +47,6 @@ Below is the full text from which the passage above was extracted. All and only 
 > Rachadh e a-mach don <mark title="dative, masculine, common, concrete: ‘field’">achadh</mark> far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> gu <mark title="dative, feminine, common, abstract: ‘sufficiency’">leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> bho <mark title="dative, masculine, common, concrete: ‘hill’">chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
 >
 > Bha aige ri an <mark title="dative, feminine, common, abstract: ‘restraining’">cumail</mark> ’nan <mark title="dative, masculine, common, concrete?: ‘ring of people’">cròileagan</mark> cruinn ann am <mark title="dative, masculine, common, concrete: ‘thicket’">badan</mark> àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
-</details>
 
 ## Dependents of nouns
 
