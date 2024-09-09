@@ -71,6 +71,10 @@ orthogonal
 - Cox (2017: §55): “Faodaidh ainmearan a bhith [...] <ins>bunasach</ins>, <ins>ginideach</ins>, <ins>tabhartach</ins> no <ins>gairmeach</ins>.” [<mark title="Nouns can be [...] basic [ie. nominative], genitive, dative or vocative.">*</mark>]
 </details>
 
+## More examples of nouns
+
+[See here](nouns-more_examples)
+
 ## Dependents of nouns
 
 [See here](noun-dependents.md)
