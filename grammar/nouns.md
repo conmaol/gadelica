@@ -66,12 +66,13 @@ The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the othe
 - Cox (2017: §55): “Tha <ins>ainmear</ins> na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*.” [<mark title="A noun is a name of a person or of a thing, eg. ‘boireannach’ [woman], ‘balach’ [boy], ‘bòrd’ [table], ‘doras’ [door].">*</mark>]
 </details>
 
-## Next
+## Grammatical categories of nouns
 
-Nouns –
-- Semantic characteristics of nouns
-- [Grammatical categories of nouns](nouns-grammatical_categories.md)
-- [Dependents of nouns](noun-dependents.md)
+[See here](nouns-grammatical_categories.md)
+
+## Dependents of nouns
+
+[See here](noun-dependents.md)
 
 
 
