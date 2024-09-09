@@ -101,7 +101,7 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
   >
   > **noun**: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
   
-  Note for completeness that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh*), quantity nouns (*ainmear meud*), abstract nouns (*ainmear eas-cruthach*), compound nouns (*ainmear fillte*), verbal nouns (*ainmear gnìomhaireach*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
+- Note for completeness that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh*), quantity nouns (*ainmear meud*), abstract nouns (*ainmear eas-cruthach*), compound nouns (*ainmear fillte*), verbal nouns (*ainmear gnìomhaireach*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 </details>
 
 ## Grammatical categories of nouns
