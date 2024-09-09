@@ -53,15 +53,13 @@ The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the othe
 - Cox (2017: §56): “Tha diofar sheòrsaichean ainmearan ann: (i) Ainmear cumanta, a tha na ainm air rudeigin bitheanta, m.e. *boireannach*; *cat*; *bròg*; *sùil*; *aran*; *taigh*. (ii) Ainmear sònraichte, a tha na ainm air duine, air àite no air rudeigin àraidh, m.e. *Mòrag*; *Seumas*; *Glaschu*; *BBC ALBA*; *an Gearasdan*. (iii) [...] [<mark title="There are different kinds of noun: (i) Common noun, which is the name of something common, eg. ‘boireannach’ [woman], ‘cat’ [cat], ‘bròg’ [shoe], ‘sùil’ [eye], ‘aran’ [bread], ‘taigh’ [house]. (ii) Proper noun, which is the name of a particular person, place or thing, eg. ‘Mòrag’ [Morag], ‘Seumas’ [James], ‘Glaschu’ [Glasgow], ‘BBC ALBA’ [sic.], ‘an Gearasdan’ [sic. Fort William].">*</mark>]”
 </details>
 
-
 ----
 
+Nouns –
+- Semantic characteristics of nouns
+- [Grammatical categories of nouns](nouns-grammatical_categories.md)
+- [Dependents of nouns](noun-dependents.md)
 
-
-
-[Dependents](noun-dependents.md)
-
-----
 
 
 
