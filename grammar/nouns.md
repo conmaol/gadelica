@@ -94,7 +94,7 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
   
 - The dimensions of concrete vs. abstract and proper vs. common are not truly orthogonal. It seems that all proper nouns are concrete, and hence that all abstract nouns are common.
 
-- The distinction between proper and common nouns is familiar from the work of other grammarians (even if they typically confuse proper nouns with names in general):
+- The distinction between proper and common nouns is familiar from the work of other grammarians of Gaelic (even if they typically confuse proper nouns with names in general):
   >  Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” (Lamb 2024: 46)
   > 
   > Tha diofar sheòrsaichean ainmearan ann: (i) Ainmear cumanta, a tha na ainm air rudeigin bitheanta, m.e. *boireannach*; *cat*; *bròg*; *sùil*; *aran*; *taigh*. (ii) Ainmear sònraichte, a tha na ainm air duine, air àite no air rudeigin àraidh, m.e. *Mòrag*; *Seumas*; *Glaschu*; *BBC ALBA*; *an Gearasdan*. (iii) [...] (Cox 2017: §56)
