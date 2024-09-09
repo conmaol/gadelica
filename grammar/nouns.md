@@ -22,31 +22,38 @@ The following passage is adapted from Lachlann MacFhionghuin’s (c.1950) *Leabh
 >
 > Nuair a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’na <mark title="concrete: ‘an infant’">leanabh</mark> beag, mharbhadh ’<mark title="concrete: ‘a father’">athair</mark> ann an aon de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warriors’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
 >
-> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘a mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘a father’">athar</mark> air <mark title="abstract: ‘a pursuit’">tòir</mark> an <mark title="concrete: ‘an infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘a group of two’">dithis</mark> <mark title="concrete: ‘women’">bhan</mark> eòlach. 
+> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘a mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘a father’">athar</mark> air <mark title="abstract: ‘a pursuit’">tòir</mark> an <mark title="concrete: ‘an infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘a group of two people’">dithis</mark> <mark title="concrete: ‘women’">bhan</mark> eòlach. 
 
 The concrete nouns in this passage are
-saoghal ‘a world’
-daoine ‘men’
-Fhiann ‘warriors’
-Cumhall ‘Cumhall’
-mac ‘a son’
-Fionn ‘Finn’
-leanabh (leinibh) ‘an infant’
-athair (athar) ‘a father’
-mhàthair ‘a mother’
-naimhdean ‘enemies’
-coilltean ‘forests’
-dithis ‘a group of two’
-bhan ‘women’
+***saoghal*** ‘a world’,
+***daoine*** ‘men’,
+***Fhiann*** ‘warriors’,
+***Cumhall*** ‘Cumhall’,
+***mac*** ‘a son’,
+***Fionn*** ‘Finn’,
+***leanabh*** (*leinibh*) ‘an infant’,
+***athair*** (*athar*) ‘a father’,
+***mhàthair*** ‘a mother’,
+***naimhdean*** ‘enemies’,
+***coilltean*** ‘forests’,
+***dithis*** ‘a group of two people’, and
+***bhan*** ‘women’.
 
 The abstract nouns are 
-ainm
-blàraibh
-measg
-eagal
-tòir ‘a pursuit’
-chùram ‘care’
+***ainm*** ‘a name’,
+***blàraibh*** ‘battles’,
+***measg*** ‘midst’,
+***eagal*** ‘fear’,
+***tòir*** ‘a pursuit’, and
+***chùram*** ‘care’.
 
+<details>
+  <summary>Notes</summary>
+
+- Some readers might be uncomfortable seeing words like ***measg***, ***tòir*** and perhaps even ***chùram*** classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are **both** components of prepositional compounds **and** (perhaps fossilised) nouns.
+
+- The (concrete) noun ***dithis*** ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
+</details>
 
 ### Proper nouns and common nouns
 
