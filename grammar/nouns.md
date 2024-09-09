@@ -51,31 +51,44 @@ The abstract nouns are
   <summary>Notes</summary>
 
 - Some readers might be uncomfortable seeing words like ***measg***, ***tòir*** and perhaps even ***chùram*** classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are **both** components of prepositional compounds **and** (perhaps fossilised) nouns.
-
+  
 - The (concrete) noun ***dithis*** ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 </details>
 
 ### Proper nouns and common nouns
 
-Nouns can be further classified according to the nature of their denotation –
+Nouns can be further classified according to the nature of their denotation, as in the way in which they relate to entities in the world –
 - *proper nouns* are names of particular entities
 - *common nouns* denote classes of entity
 
-Here is the same passage as before, now annotated for proper versus common nouns –
-> Nuair a bha an <mark title="common, concrete: ‘world’">saoghal</mark> òg bha <mark title="common, concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="common, concrete: ‘warrior class’">Fhiann</mark>.
->
-> B’ e <mark title="proper, concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="common, abstract: ‘name’">ainm</mark> air aon de na <mark title="common, concrete: ‘men’">daoine</mark> seo, agus bha <mark title="common, concrete: ‘son’">mac</mark> aige air an robh <mark title="proper, concrete: ‘Finn’">Fionn</mark>.
->
-> Nuair a bha <mark title="proper, concrete: ‘Finn’">Fionn</mark> ’na <mark title="common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh ’<mark title="common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="common, abstract: ‘midst’">measg</mark> fhéin.
->
-> Bha <mark title="common, abstract: ‘fear’">eagal</mark> air a <mark title="common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="common, concrete: ‘enemies’">naimhdean</mark> ’<mark title="common, concrete: ‘father’">athar</mark> air <mark title="common, abstract: ‘pursuit’">tòir</mark> an <mark title="common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="common, abstract: ‘care’">chùram</mark> <mark title="common, concrete: ‘(group of) two people’">dithis</mark> <mark title="common, concrete: ‘women’">mhnathan</mark> eòlach. 
+In the passage from the previous section, there are two proper nouns – ***Cumhal*** ‘Cumhall’ and ***Fionn*** ‘Finn’. 
 
-The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the other nouns are common nouns.
+All the other nouns in the passage, whether concrete or abstract, are common nouns – 
+***saoghal*** ‘a world’,
+***daoine*** ‘men’,
+***Fhiann*** ‘warriors’,
+***ainm*** ‘a name’,
+***mac*** ‘a son’,
+***leanabh*** (*leinibh*) ‘an infant’,
+***athair*** (*athar*) ‘a father’,
+***blàraibh*** ‘battles’,
+***measg*** ‘midst’,
+***eagal*** ‘fear’,
+***mhàthair*** ‘a mother’,
+***naimhdean*** ‘enemies’,
+***tòir*** ‘a pursuit’,
+***coilltean*** ‘forests’,
+***chùram*** ‘care’.
+***dithis*** ‘a group of two people’, and
+***bhan*** ‘women’.
 
 <details>
   <summary>Notes</summary>
+
+- Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, ***Fhiann*** ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase ***an Fhiann*** ‘the Warriors’ which is presented as being the name of a particular group of men (cf. ‘the Fenians’).
+
+- the particular group of (groups of?) men. Moreover, even though ***An Fhiann*** is a name, it is *not* a proper noun, since it is not a noun. This important distinction between names and proper nouns has unfortunately not been properly grasped in previous descriptions of Gaelic grammar.
   
-- ***Fhiann*** is correctly classified as a common noun even though it begins with a capital letter in the text. ***Fhiann*** is *not* a proper noun since it doesn’t name a particular group of men. Rather it is a common noun (denoting a class of groups of men – those which consist of warriors) which is being used as part of a phrase ***An Fhiann***, and it is this phrase as a whole which names the particular group of (groups of?) men. Moreover, even though ***An Fhiann*** is a name, it is *not* a proper noun, since it is not a noun. This important distinction between names and proper nouns has unfortunately not been properly grasped in previous descriptions of Gaelic grammar.
 - The dimensions of concrete/abstract and proper/common are not truly orthogonal – all proper nouns are concrete; and hence all abstract nouns are common.
 </details>
 
