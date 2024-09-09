@@ -159,6 +159,13 @@ Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify
 
 ----
 
+Nouns –
+- [Semantic characteristics of nouns](nouns.md)
+- [Grammatical categories of nouns](nouns-grammatical_categories.md)
+- Dependents of nouns
+
+----
+
 ## Functions of nouns
 
 Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
