@@ -4,9 +4,18 @@
 
 ### Concrete and abstract nouns
 
-Nouns are words that typically denote *material* entities (individuals, substances, and aggregates and groups thereof) which are literally *made of matter* (atoms, molecules, etc.). Every word that denotes a material entity is a noun (or ‘pronoun’), though not every noun denotes a material entity. Nouns which denote material entities are known as *concrete* nouns, and nouns which denote non-material entities are known as *abstract* nouns. 
+Nouns are words that typically denote *material* entities.
 
-To exemplify, in the following passage all and only the nouns have been highlighted. On hover, information should appear about whether each noun is concrete or abstract. [<mark title="This passage is taken from Lachlann MacFhionghuin’s *Leabhraichean Leughaidh* Vol.II td.81 (attributed to I. N. MacLeòid). Some spellings have been updated for readability.">*</mark>]
+Material entities are those individuals, substances, aggregates and groups which are literally *made of matter*, consisting of atoms, organised into molecules, crystals, and so on. 
+
+Every word that denotes a material entity is a noun (or a [pronoun](pronouns.md)). 
+
+However, not every noun denotes a material entity. Some nouns denote *non-material* entities, which are not made out of matter. Non-material entities include spaces (places and paths) and situations (states, processes, events and actions).
+
+Nouns that denote material entities are known as **concrete** nouns, and nouns that denote non-material entities are known as **abstract** nouns. 
+
+The following passage is adapted from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
+
 > Nuair a bha an <mark title="concrete: ‘world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warrior class’">Fhiann</mark>.
 >
 > B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘name’">ainm</mark> air aon de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
@@ -15,12 +24,7 @@ To exemplify, in the following passage all and only the nouns have been highligh
 >
 > Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘father’">athar</mark> air <mark title="abstract: ‘pursuit’">tòir</mark> an <mark title="concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘(group of) two people’">dithis</mark> <mark title="concrete: ‘women’">mhnathan</mark> eòlach. 
 
-<details>
-<summary>Further reading</summary>
 
-- Lamb (2024: 37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
-- Cox (2017: §55): “Tha <ins>ainmear</ins> na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*.” [<mark title="A noun is a name of a person or of a thing, eg. ‘boireannach’ [woman], ‘balach’ [boy], ‘bòrd’ [table], ‘doras’ [door].">*</mark>]
-</details>
 
 ### Proper nouns and common nouns
 
@@ -52,6 +56,16 @@ The proper nouns in this passage are – ***Cumhal***, ***Fionn***. All the othe
 - Lamb (2024: 46): “Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).”
 - Cox (2017: §56): “Tha diofar sheòrsaichean ainmearan ann: (i) Ainmear cumanta, a tha na ainm air rudeigin bitheanta, m.e. *boireannach*; *cat*; *bròg*; *sùil*; *aran*; *taigh*. (ii) Ainmear sònraichte, a tha na ainm air duine, air àite no air rudeigin àraidh, m.e. *Mòrag*; *Seumas*; *Glaschu*; *BBC ALBA*; *an Gearasdan*. (iii) [...] [<mark title="There are different kinds of noun: (i) Common noun, which is the name of something common, eg. ‘boireannach’ [woman], ‘cat’ [cat], ‘bròg’ [shoe], ‘sùil’ [eye], ‘aran’ [bread], ‘taigh’ [house]. (ii) Proper noun, which is the name of a particular person, place or thing, eg. ‘Mòrag’ [Morag], ‘Seumas’ [James], ‘Glaschu’ [Glasgow], ‘BBC ALBA’ [sic.], ‘an Gearasdan’ [sic. Fort William].">*</mark>]”
 </details>
+
+----
+
+<details>
+<summary>Further reading</summary>
+
+- Lamb (2024: 37): “Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’.”
+- Cox (2017: §55): “Tha <ins>ainmear</ins> na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*.” [<mark title="A noun is a name of a person or of a thing, eg. ‘boireannach’ [woman], ‘balach’ [boy], ‘bòrd’ [table], ‘doras’ [door].">*</mark>]
+</details>
+
 
 ----
 
