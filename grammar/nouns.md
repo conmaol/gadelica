@@ -110,11 +110,17 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 
 [See here](nouns-grammatical_categories.md)
 
+## More examples of nouns
+
+[See here](nouns-more_examples.md)
+
 ## Dependents of nouns
 
 [See here](noun-dependents.md)
 
+## Functions of nouns
 
+[See here](noun-functions.md)
 
 
 
