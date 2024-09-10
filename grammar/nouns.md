@@ -64,7 +64,7 @@ The abstract nouns are
 
 ### Proper nouns and common nouns
 
-Nouns can be further classified according to the nature of their denotation – the way in which they relate to entities in the world:
+Nouns can be further classified according to the nature of their denotation – the way in which they relate to entities in the world.
 
 **Proper nouns** are names of particular entities
 
