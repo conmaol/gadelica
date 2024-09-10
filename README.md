@@ -1,5 +1,3 @@
-# gadelica
-
 [nouns](grammar/nouns.md)
 
 ## The corpus directory
