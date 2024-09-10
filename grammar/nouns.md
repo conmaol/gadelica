@@ -116,6 +116,10 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 
 [See here](nouns-more_examples.md)
 
+## Dependents of nouns: bare nouns
+
+[See here](nouns-dependents.md)
+
 ## Dependents of nouns: modifiers
 
 [See here](nouns-dependents-modifiers.md)
