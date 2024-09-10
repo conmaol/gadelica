@@ -73,13 +73,28 @@ orthogonal
 
 ## More examples of nouns
 
-[See here](nouns-more_examples)
+[See here](nouns-more_examples.md)
 
 ## Dependents of nouns
 
-[See here](noun-dependents.md)
+### Bare nouns
+
+[See here](nouns-dependents.md)
+
+### Modifiers of nouns
+
+[See here](nouns-dependents-modifiers.md)
+
+### Specifiers of nouns
+
+[See here](nouns-dependents-specifiers.md)
+
+### Apposition
+
+[See here](nouns-dependents-apposition.md)
 
 ## Functions of nouns
 
-[See here](noun-functions.md)
+[See here](nouns-functions.md)
+
 
