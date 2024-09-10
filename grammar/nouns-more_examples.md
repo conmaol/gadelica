@@ -42,13 +42,24 @@ Reproduced below is the whole of the story we have been analysing from Lachlann 
 > <mark title="genitive, plural, common, concrete: ‘women’">bhan</mark> – *genitive plural*   
 > eòlach.  
 >
-> Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> beag às a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>.
+> Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark>  
+> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark>  
+> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark>  
+> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>  
+> beag às a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>.  
 >
-> Dh’fhalbh i <mark title="nominative, masculine, common, abstract: ‘distance’">astar</mark> fada troimh <mark title="dative, feminine, common, concrete: ‘land’">thìr</mark> fhàsail gus an do lorg i an <mark title="nominative, masculine, common, abstract: ‘place’">t-àite</mark> anns an robh an <mark title="nominative, masculine, common, concrete: ‘infant’">leanabh</mark>.
+> Dh’fhalbh i <mark title="nominative, masculine, common, abstract: ‘distance’">astar</mark>  
+> fada troimh <mark title="dative, feminine, common, concrete: ‘land’">thìr</mark>  
+> fhàsail gus an do lorg i an <mark title="nominative, masculine, common, abstract: ‘place’">t-àite</mark>  
+> anns an robh an <mark title="nominative, masculine, common, concrete: ‘infant’">leanabh</mark>.  
 >
-> Fhuair i e ’na <mark title="dative, feminine, common, abstract: ‘slumber’">shuain</mark> <mark title="genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>, agus thog i e ’na <mark title="dative, plural, common, concrete: ‘hands’">làmhan</mark> gu sèimh socrach, agus phòg i e.
+> Fhuair i e ’na <mark title="dative, feminine, common, abstract: ‘slumber’">shuain</mark>  
+> <mark title="genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>,  
+> agus thog i e ’na <mark title="dative, plural, common, concrete: ‘hands’">làmhan</mark>  
+> gu sèimh socrach, agus phòg i e.  
 >
-> Sheinn i <mark title="nominative, masculine, common, abstract: ‘tune’">crònan</mark> milis binn dha, agus an sin thog i oirre.
+> Sheinn i <mark title="nominative, masculine, common, abstract: ‘tune’">crònan</mark>  
+> milis binn dha, agus an sin thog i oirre.  
 >
 > Bha an <mark title="nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive|nominative (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ <mark title="dative (?), feminine, common, abstract: ‘giving’">toirt</mark> an <mark title="dative|genitive (?), feminine, common, abstract: ‘attention’">aire</mark> air gus an d’ fhàs e suas.
 >
