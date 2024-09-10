@@ -10,26 +10,37 @@
 
 ## More examples of nouns
 
+Reproduced below is the whole of the story we have been analysing from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81–82).  All of the nouns have been highlighted and analysed for case and gender.
+
 > Nuair a bha an <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> – *nominative masculine*  
 > òg bha <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> – *nominative plural*  
 > treuna ann, ris an canadh iad an <mark title="nominative, feminine, common, concrete: ‘warriors’">Fhiann</mark>. – *nominative feminine*  
 >
-> B’ e  
-> <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark>  
-> a b’  
-> <mark title="nominative, masculine, common, abstract: ‘name’">ainm</mark>  
-> air aon de na  
-> <mark title="dative, plural, common, concrete: ‘men’">daoine</mark>  
-> seo,  
-> agus bha  
-> <mark title="nominative, masculine, common, concrete: ‘son’">mac</mark>  
-> aige air an robh  
-> <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>  
-> .  
+> B’ e <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark> – *nominative masculine*  
+> a b’ <mark title="nominative, masculine, common, abstract: ‘name’">ainm</mark> – *nominative masculine*  
+> air aon de na <mark title="dative, plural, common, concrete: ‘men’">daoine</mark> – *dative plural*  
+> seo, agus bha <mark title="nominative, masculine, common, concrete: ‘son’">mac</mark> – *nominative masculine*    
+> aige air an robh <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>. – *nominative masculine*  
 >  
-> Nuair a bha <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> ’na <mark title="dative, masculine, common, concrete: ‘infant’">leanabh</mark> beag, mharbhadh ’<mark title="nominative, masculine, common, concrete: ‘father’">athair</mark> ann an aon de na <mark title="dative, plural, common, abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark> ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> fhéin.
+> Nuair a bha <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> – *nominative masculine*  
+> ’na <mark title="dative, masculine, common, concrete: ‘infant’">leanabh</mark> – *dative masculine*  
+> beag, mharbhadh ’<mark title="nominative, masculine, common, concrete: ‘father’">athair</mark> – *nominative masculine*  
+> ann an aon de na <mark title="dative, plural, common, abstract: ‘battles’">blàraibh</mark> – *dative plural*  
+> a chuir an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark> – *nominative feminine*  
+> ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> – *dative masculine*  
+> fhéin.
 >
-> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> ’<mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> <mark title="genitive|nominative (?), feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive|nominative (?), plural, common, concrete: ‘women’">mhnathan</mark> eòlach.
+> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark>  
+> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark>  
+> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark>  
+> ’<mark title="genitive, masculine, common, concrete: ‘father’">athar</mark>  
+> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark>  
+> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>,  
+> agus mar sin chuir i e a-mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark>  
+> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark>  
+> <mark title="genitive, feminine, common, concrete: ‘(group of) two people’">dithis</mark>  
+> <mark title="genitive, plural, common, concrete: ‘women’">bhan</mark>  
+> eòlach.  
 >
 > Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> beag às a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>.
 >
@@ -61,7 +72,21 @@
 
 ## Dependents of nouns
 
-[See here](noun-dependents.md)
+### Bare nouns
+
+[See here](nouns-dependents.md)
+
+### Modifiers of nouns
+
+[See here](noun-dependents-modifiers.md)
+
+### Specifiers of nouns
+
+[See here](noun-dependents-specifiers.md)
+
+### Apposition
+
+[See here](noun-dependents-apposition.md)
 
 ## Functions of nouns
 
