@@ -62,7 +62,7 @@ Common nouns can also be modified by *plural* genitive nouns.
 
 > Bha an <mark title="The nominative feminine common noun ‘dithis’ [group of two people] is modified by the plural genitive noun ‘mhnathan’ [women] – ‘group of two women’.">dithis bhan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
 
-The nominative feminine common noun ***dithis*** ‘a group of two people’ is modified by the plural genitive noun ***bhan*** ‘women’ – ***dithis mhnathan*** ‘a group of two women’.
+The nominative feminine common noun ***dithis*** ‘a group of two people’ is modified by the plural genitive noun ***bhan*** ‘women’ – ***dithis bhan*** ‘a group of two women’.
 
 It is not clear whether *proper nouns* can also be modified by genitive nouns, since there are no examples in the current text being analysed.
 
