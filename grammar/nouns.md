@@ -116,13 +116,21 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 
 [See here](nouns-more_examples.md)
 
-## Dependents of nouns
+## Dependents of nouns: modifiers
 
-[See here](noun-dependents.md)
+[See here](nouns-dependents-modifiers.md)
+
+## Dependents of nouns: specifiers
+
+[See here](nouns-dependents-specifiers.md)
+
+## Dependents of nouns: appositives
+
+[See here](nouns-dependents-appositives.md)
 
 ## Functions of nouns
 
-[See here](noun-functions.md)
+[See here](nouns-functions.md)
 
 
 
