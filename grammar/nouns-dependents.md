@@ -8,6 +8,10 @@
 
 [See here](nouns-grammatical_categories.md)
 
+## More examples of nouns
+
+[See here](nouns-more_examples.md)
+
 ## Dependents of nouns
 
 A noun can have zero or more dependents, which can be –
@@ -43,4 +47,15 @@ Common nouns can also appear bare (with ‘indefinite’ meaning) –
 >
 > Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan <mark title="The genitive masculine common noun ‘féidh’ [deer] has no dependents here (though it is itself the specifier of the noun ‘casan’ [feet]).">féidh</mark>.
 </details>
+
+### Modifiers of nouns
+
+### Specifiers of nouns
+
+### Apposition
+
+## Functions of nouns
+
+[See here](nouns-functions.md)
+
 
