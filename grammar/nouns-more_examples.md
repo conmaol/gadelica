@@ -30,16 +30,16 @@ Reproduced below is the whole of the story we have been analysing from Lachlann 
 > ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> – *dative masculine*  
 > fhéin.
 >
-> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark>  
-> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark>  
-> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark>  
-> ’<mark title="genitive, masculine, common, concrete: ‘father’">athar</mark>  
-> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark>  
-> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>,  
-> agus mar sin chuir i e a-mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark>  
-> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark>  
-> <mark title="genitive, feminine, common, concrete: ‘(group of) two people’">dithis</mark>  
-> <mark title="genitive, plural, common, concrete: ‘women’">bhan</mark>  
+> Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> – *nominative masculine*  
+> air a <mark title="dative, feminine, common, concrete: ‘mother’">mhathair</mark> – *dative feminine*  
+> gun tigeadh <mark title="nominative, plural, common, concrete: ‘enemies’">naimhdean</mark> – *nominative plural*  
+> ’<mark title="genitive, masculine, common, concrete: ‘father’">athar</mark> – *genitive masculine*   
+> air <mark title="dative, feminine, common, abstract: ‘pursuit’">tòir</mark> – *dative feminine*   
+> an <mark title="genitive, masculine, common, concrete: ‘infant’">leinibh</mark>, – *genitive masculine*   
+> agus mar sin chuir i e a-mach do na <mark title="dative, plural, common, concrete: ‘forests’">coilltean</mark> – *dative plural*   
+> fàsail air <mark title="dative, masculine, common, abstract: ‘care’">chùram</mark> – *dative masculine*   
+> <mark title="genitive, feminine, common, concrete: ‘(group of) two people’">dithis</mark> – *genitive feminine*   
+> <mark title="genitive, plural, common, concrete: ‘women’">bhan</mark> – *genitive plural*   
 > eòlach.  
 >
 > Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> beag às a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>.
