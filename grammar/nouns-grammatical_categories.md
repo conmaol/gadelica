@@ -54,18 +54,18 @@ In the passage from the previous section, the dative nouns are ***daoine*** ‘m
 
 The genitive nouns are ***athar*** ‘a father’, ***leinibh*** ‘an infant’, ***dithis*** ‘a group of two people’, and ***bhan*** ‘women’.  
 
-All the other nouns in the passage are nominative nouns – ***saoghal*** ‘a world’, ***daoine*** ‘men’ (the first occurence), ***Fhiann*** ‘warriors’ (both occurences), ***Cumhal*** ‘Cumhal’, ***ainm*** ‘a name’, ***mac*** ‘a son’, ***Fionn*** ‘Finn’ (both occurences), ***athair*** ‘a father’, ***eagal*** ‘fear’, ***naimhdean*** ‘enemies’.
+All the other nouns in the passage are nominative nouns – ***saoghal*** ‘a world’, ***daoine*** ‘men’ (the first occurence), ***Fhiann*** ‘warriors’ (both occurences), ***Cumhal*** ‘Cumhal’, ***ainm*** ‘a name’, ***mac*** ‘a son’, ***Fionn*** ‘Finn’ (both occurences), ***athair*** ‘a father’, ***eagal*** ‘fear’, and ***naimhdean*** ‘enemies’.
 
 <details>
   <summary>Notes</summary>
 
-- Traditional descriptions of Gaelic grammar commonly include the ‘vocative’ as a fourth case. However, the vocative is not a grammatical case *per se* but rather some kind of higher-level discourse phenomenon, whose inflectional idiosyncracies are conditioned by the vocative particle ***a***.
+- Traditional descriptions of Gaelic grammar commonly mention the ‘vocative’ as a fourth case. However, the vocative is not strictly speaking a grammatical case since it does not mark a syntactic relation between the noun and another verb, preposition, adjective or noun in the same sentence. For this reason, we will treat the vocative as a handful of inflectional idiosyncracies conditioned by the vocative particle ***a***.
 
-- orthogonal?
+- Case is fully orthogonal to the other noun categories discussed thus far – proper vs. common nouns, and feminine vs. masculine vs. plural nouns.
 
-
-- Lamb (2024: 37): “In Gaelic, most nouns [...] can inflect for case [...].”
-- Cox (2017: §55): “Faodaidh ainmearan a bhith [...] <ins>bunasach</ins>, <ins>ginideach</ins>, <ins>tabhartach</ins> no <ins>gairmeach</ins>.” [<mark title="Nouns can be [...] basic [ie. nominative], genitive, dative or vocative.">*</mark>]
+- Some other definitions of case:
+  
+  > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 </details>
 
 ## More examples of nouns
