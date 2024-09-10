@@ -22,53 +22,49 @@ A noun can have zero or more dependents, for example modifiers, specifiers, comp
 
 ### Modifiers of nouns
 
-A noun can have one or more modifiers, all of which follow the noun. Modifiers can be –
-- adjectives
-- genitive nouns
-- prepositions
-- relative particles
+A noun can have one or more modifiers, all of which must follow the noun. There are four kinds of word that can be used to modify a noun – **adjectives**, **genitive nouns**, **prepositions**, or **relative clause particles**.
 
 #### Adjectives as modifiers of nouns
 
 A noun can have one or more adjective modifiers.
 
-Proper nouns can be modified by adjectives –
+*Proper nouns* can be modified by adjectives.
 
 > Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do leig i <mark title="The nominative masculine proper noun ‘Fionn’ [Finn] is modified by the adjective ‘beag’ [little] – ‘Little Finn’.">Fionn beag</mark> as a h-aire.
 
-Common nouns can be modified by adjectives too –
+Note that unless otherwise specified all examples are taken from the same text as was analysed in previous sections.
+
+In the above example, the nominative masculine proper noun ***Fionn*** ‘Finn’ is modified by the adjective ***beag*** ‘little’ – ***Fionn beag*** ‘little Finn’.
+
+*Common nouns* can be modified by adjectives too.
 
 > Nuair a bha an saoghal òg bha <mark title="The nominative plural common noun ‘daoine’ [men] is modified by the adjective ‘treuna’ [strong] – ‘strong men’.">daoine treuna</mark> ann, ris an canadh iad an Fhiann.
 > 
-> Nuair a bha Fionn ’n a <mark title="The dative masculine common noun ‘leanabh’ [infant] is modified by the adjective ‘beag’ [little] – ‘little infant’.">leanabh beag</mark>, mharbhadh athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+> Nuair a bha Fionn ’na <mark title="The dative masculine common noun ‘leanabh’ [an infant] is modified by the adjective ‘beag’ [little] – ‘a little infant’.">leanabh beag</mark>, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 > 
 > Sheinn i <mark title="The nominative masculine common noun ‘crònan’ [tune] is modified by the adjectives ‘milis’ [sweet] and ‘binn’ [melodious] – ‘sweet melodious tune’.">crònan milis binn</mark> dha, agus an sin thog i oirre.
 
-<details>
-  <summary>More examples with adjectives modifying common nouns</summary>
+In the first of these examples, the nominative plural common noun ***daoine*** ‘men’ is modified by the adjective ***treuna*** ‘strong’ – ***daoine treuna*** ‘strong men’. In the second, the dative masculine common noun ***leanabh*** ‘an infant’ is modified by the adjective ***beag*** ‘little’ – ***leanabh beag*** ‘a little infant’. 
 
-> Bha eagal air a mhathair gun tigeadh naimhdean athar air tòir an leinibh, agus mar sin chuir i e a mach do na <mark title="The dative plural common noun ‘coilltean’ [forests] is modified by the adjective ‘fàsail’ [desolate] – ‘desolate forests’.">coilltean fàsail</mark> air chùram dithis <mark title="The genitive plural common noun ‘mhnathan’ [women] is modified by the adjective ‘eòlach’ [wise] – ‘wise women’.">mhnathan eòlach</mark>.
->
-> Phòs a mhàthair <mark title="The nominative masculine common noun ‘rìgh’ [king] is modified by the adjective ‘àraidh’ [worthy] – ‘a worthy king’.">rìgh àraidh</mark> an déidh sin, ach cha do leig i Fionn beag as a h-aire.
-> 
-> Dh’fhalbh i <mark title="The nominative masculine common noun ‘astar’ [distance] is modified by the adjective ‘fada’ [long] – ‘long distance’.">astar fada</mark> troimh <mark title="The dative feminine common noun ‘tìr’ [land] is modified by the adjective ‘fhàsail’ [desolate] – ‘desolate land’.">thìr fhàsail</mark> gus an do lorg i an t-àite anns an robh an leanabh.
->
-> Bha aige ri an cumail ’nan <mark title="The dative masculine common noun ‘cròileagan’ [group] is modified by the adjective ‘cruinn’ [round] – ‘round group’.">cròileagan cruinn</mark> ann am <mark title="The dative masculine common noun ‘badan’ [thicket] is modified by the adjective ‘àraidh’ [special] – ‘special thicket’.">badan àraidh</mark>, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
-</details>
+In the third example, the nominative masculine common noun ***crònan*** ‘tune’ has not one but *two* adjective modifiers, ***milis*** ‘sweet’ and ***binn*** ‘melodious’ – ***crònan milis binn*** ‘a sweet melodious tune’. 
 
 #### Genitive nouns as modifiers of other nouns
 
 A noun can have a genitive noun modifier.
 
-Common nouns can be modified by non-plural (feminine or masculine) genitive nouns –
+*Common nouns* can be modified by *non-plural* (feminine or masculine) genitive nouns.
 
 > Fhuair i e ’na <mark title="The dative feminine common noun ‘shuain’ [slumber] is modified by the masculine genitive noun ‘chadail’ [sleep] – ‘slumber of sleep, sleepy slumber’.">shuain chadail</mark>, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
 
-Common nouns can also be modified by plural genitive nouns –
+In this example, the dative feminine common noun ***shuain*** ‘slumber’ is modified by the masculine genitive noun ***chadail*** ‘sleep’ – ***shuain chadail*** ‘slumber of sleep, sleepy slumber’.
 
-> Bha an <mark title="The nominative feminine common noun ‘dithis’ [group of two people] is modified by the plural genitive noun ‘mhnathan’ [women] – ‘group of two women’.">dithis mhnathan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
+Common nouns can also be modified by *plural* genitive nouns.
 
-Proper nouns can also be modified by genitive nouns, though there are no examples in our text.
+> Bha an <mark title="The nominative feminine common noun ‘dithis’ [group of two people] is modified by the plural genitive noun ‘mhnathan’ [women] – ‘group of two women’.">dithis bhan</mark> ud a’ toirt an aire air gus an d’ fhàs e suas.
+
+The nominative feminine common noun ***dithis*** ‘a group of two people’ is modified by the plural genitive noun ***bhan*** ‘women’ – ***dithis mhnathan*** ‘a group of two women’.
+
+It is not clear whether *proper nouns* can also be modified by genitive nouns, since there are no examples in the current text being analysed.
 
 #### Prepositions as modifiers of nouns
 
