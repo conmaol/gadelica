@@ -1,3 +1,25 @@
+# Nouns
+
+## Semantic characteristics of nouns
+
+[See here](nouns.md)
+
+## Grammatical categories of nouns
+
+[See here](nouns-grammatical_categories.md)
+
+## More examples of nouns
+
+[See here](nouns-more_examples.md)
+
+## Dependents of nouns
+
+A noun can have zero or more dependents, for example modifiers, specifiers, complements, and other nouns standing in apposition.
+
+### Bare nouns
+
+[See here](nouns-dependents.md)
+
 ### Modifiers of nouns
 
 A noun can have one or more modifiers, all of which follow the noun. Modifiers can be –
@@ -100,4 +122,14 @@ far –
 
 > Rachadh e a-mach don <mark title="The dative masculine common noun ‘achadh’ [field] is modified by the relative particle ‘far an’ [where] – ‘the place where plenty of hares were running from hill to hill’."><ins>achadh</ins> <ins>far</ins> an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc</mark>.
 
+### Specifiers of nouns
 
+[See here](nouns-dependents-specifiers.md)
+
+### Nouns in apposition
+
+[See here](nouns-dependents-apposition.md)
+
+## Functions of nouns
+
+[See here](nouns-functions.md)
