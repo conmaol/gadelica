@@ -70,32 +70,37 @@ It is not clear whether *proper nouns* can also be modified by genitive nouns, s
 
 A noun can have one or more prepositions as modifiers.
 
-Common nouns can be modified by prepositions –
+*Common nouns* can be modified by prepositions (which themselves take other nouns as their complements).
 
-> B’ e Cumhal a b’ <mark title="The nominative masculine common noun ‘ainm’ [name] is modified by the preposition ‘air’ [on] – ‘the name on/of one of these men’."><ins>ainm</ins> <ins>air</ins> aon de na daoine seo</mark>, agus bha mac aige air an robh Fionn.
+> B’ e Cumhal a b’ <mark title="The nominative masculine common noun ‘ainm’ [name] is modified by the preposition ‘air’ [on] – ‘the name on/of one of these men’.">ainm air</mark> aon de na daoine seo, agus bha mac aige air an robh Fionn.
 >
-> Dh’fhalbh i <mark title="The nominative masculine common noun ‘astar’ [distance] is modified by the preposition ‘tro’ [through] – ‘long distance through desolate land’."><ins>astar</ins> fada <ins>tro</ins> thìr fhàsail</mark> gus an do lorg i an t-àite anns an robh an leanabh.
+> Dh’fhalbh i <mark title="The nominative masculine common noun ‘astar’ [distance] is modified by the preposition ‘tro’ [through] – ‘long distance through desolate land’.">astar</mark> fada <mark>tro</mark> thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
 >
-> Rachadh e a-mach don achadh far an robh <mark title="The nominative plural common noun ‘gearrain’ [hares] is modified by the preposition ‘gu’ [to] – ‘hares to sufficiency, enough hares’."><ins>gearrain</ins> <ins>gu</ins> leòr</mark> a’ ruith bho chnoc</mark> gu cnoc.
+> Rachadh e a-mach don achadh far an robh <mark title="The nominative plural common noun ‘gearrain’ [hares] is modified by the preposition ‘gu’ [to] – ‘hares to sufficiency, enough hares’.">gearrain gu</mark> leòr a’ ruith bho chnoc gu cnoc.
 
-This includes prepositional pronouns –
+In the first example, the nominative masculine common noun ***ainm*** ‘name’ is modified by the preposition ***air*** ‘on’ (which itself has the complement *aon* ‘one’) – ***ainm air aon de na daoine seo*** ‘a name on (of) one of these men’. In the second, the common noun ***astar*** ‘distance’ is modified by the preposition ***tro*** ‘through’ – ***astar fada tro thìr fhàsail*** ‘a long distance through desolate land’.
+
+In the third example, the nominative plural common noun ***gearrain*** ‘hares’ is modified by the preposition ***gu*** ‘to’ (which itself has the complement *leòr* ‘sufficiency’) – ***gearrain gu leòr*** ‘hares to sufficiency, enough hares’.
+
+Prepositional pronouns can be modifiers of nouns all on their own.
 
 > Thilg e urchair oirre, agus gheàrr sin na <mark title="The nominative plural common noun ‘sgiathan’ [wing] is modified by the prepositional pronoun ‘aice’ [at her] – ‘wings at her, her wings’.">sgiathan aice</mark>.
->
 
-As well as the progressive particle ***ag*** –
+Here, the nominative plural common noun ***sgiathan*** ‘wings’ is modified by the prepositional pronoun ***aice*** ‘at her’ – ***sgiathan aice*** ‘wings at her, her wings’.
 
-> Latha de na làithean chaidh e mach agus chunnaic e <mark title="The nominative feminine common noun ‘lach’ [duck] is modified by the particle ‘ag’ – ‘duck swimming on a lake’."><ins>lach</ins> <ins>a’</ins> snàmh air loch</mark>.
->
+Also, the progressive particle ***ag*** counts as a preposition in this respect.
 
-[Verbal nouns - a’ ruith bho ?]
+> Latha de na làithean chaidh e mach agus chunnaic e <mark title="The nominative feminine common noun ‘lach’ [duck] is modified by the particle ‘ag’ – ‘duck swimming on a lake’.">lach a’</mark> snàmh air loch.
 
-[Proper nouns?]
+In this examples, the nominative feminine common noun ***lach*** ‘duck’ is modified by the particle ***a’*** (which itself takes the verbal noun *snàmh* ‘swimming’ as its complement) – ***lach a’ snàmh*** ‘a duck swimming’.
+
+It is not clear whether *proper nouns* can also be modified by prepositions, since there are no examples in the current text being analysed.
 
 <details>
   <summary>Notes</summary>
-
-- Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun, and not the whole prepositional phrase, since grammatical relations are between individual words and not between words and phrases.
+  
+- Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
+  
 </details>
 
 #### Relative particles as modifiers of nouns
