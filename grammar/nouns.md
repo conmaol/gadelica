@@ -50,7 +50,7 @@ The abstract nouns are
 <details>
   <summary>Notes</summary>
 
-- Some readers might be uncomfortable seeing words like ***measg***, ***tòir*** and perhaps even ***chùram*** classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are **both** components of prepositional compounds **and** (perhaps fossilised) nouns.
+- Some readers might be uncomfortable seeing words like ***measg***, ***tòir*** and perhaps even ***chùram*** classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are **both** components of (lexicalised) prepositional compounds **and** (perhaps fossilised) nouns.
   
 - The (concrete) noun ***dithis*** ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 
@@ -65,8 +65,10 @@ The abstract nouns are
 ### Proper nouns and common nouns
 
 Nouns can be further classified according to the nature of their denotation – the way in which they relate to entities in the world:
-- *proper nouns* are names of particular entities
-- *common nouns* denote classes of entity
+
+**Proper nouns** are names of particular entities
+
+**Common nouns** denote classes of entity
 
 In the passage from the previous section, there are two proper nouns – ***Cumhal*** ‘Cumhall’ and ***Fionn*** ‘Finn’. 
 
@@ -103,7 +105,7 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
   >
   > **noun**: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
   
-- Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*), quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*), abstract nouns (*ainmear eas-cruthach* – see above), compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*), verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
+- Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*), quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*), abstract nouns (*ainmear eas-cruthach* – see above), compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*), and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 </details>
 
 ## Grammatical categories of nouns
