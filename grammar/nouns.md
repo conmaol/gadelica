@@ -343,15 +343,28 @@ Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [M
 
 ### Specifiers of nouns
 
-[See here](nouns-dependents-specifiers.md)
+naimhdean athar
+
+tòir an leinibh
+
+cùram dithis
+
+dithis mhnathan
+
+déidh sin
 
 ### Apposition
 
-[See here](nouns-dependents-apposition.md)
+Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such as the definite article (‘the’), [...]. [...] As the head of a noun phrase, nouns maye be modified by adjectives, with which they share several properties. Adjectives modify a noun within a noun phrase or provide additional information about it, such as serving to restrict possible reference.”
+
+Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, [...].”
 
 ## Functions of nouns
 
-[See here](nouns-functions.md)
+Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
+
+Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
+
 
 
 
