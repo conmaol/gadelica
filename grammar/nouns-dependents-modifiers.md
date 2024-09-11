@@ -103,13 +103,19 @@ It is not clear whether *proper nouns* can also be modified by prepositions, sin
   
 </details>
 
-#### Relative particles as modifiers of nouns
+#### Relative clause particles as modifiers of nouns
 
-A noun can have a relative particle as modifier.
+A noun can have a relative clause particle as a modifier.
 
-> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na <mark title="The dative plural common noun ‘blàraibh’ [battles] is modified by the relative article ‘a’ [which] – ‘the battles which sent the Fianna among themselves’."><ins>blàraibh</ins> <ins>a</ins> chuir an Fhiann ’nam measg fhéin</mark>.
+*Common nouns* can be modified by the positive particle ***a*** ‘who(m), which, that’.
+
+> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na <mark title="The dative plural common noun ‘blàraibh’ [battles] is modified by the relative particle ‘a’ [which] – ‘the battles which sent the Fianna among themselves’.">blàraibh a</mark> chuir an Fhiann ’nam measg fhéin.
 > 
-> Is i sud a’ cheud <mark title="The nominative feminine common noun ‘shealg’ [hunt] is modified by the relatove particle ‘a’ [which] – ‘the first hunt which Finn did’."><ins>shealg</ins> <ins>a</ins> rinn Fionn</mark>.
+> Is i sud a’ cheud <mark title="The nominative feminine common noun ‘shealg’ [hunt] is modified by the relative particle ‘a’ [which] – ‘the first hunt which Finn did’.">shealg a</mark> rinn Fionn.
+
+In the first example, the dative plural common noun ***blàraibh*** ‘battles’ is modified by the positive relative clause particle ***a*** ‘which, that’ (which itself has the verb *chuir* as complement) – ***blàraibh a chuir an Fhiann ’nam measg fhéin*** ‘battles which sent the Fianna among themselves’.
+
+In the second example, The nominative feminine common noun ***shealg*** ‘hunt’ is also modified by ***a*** (which takes the verb ***rinn*** ‘did’ as its own complement) – ***shealg a rinn Fionn*** ‘hunt which Finn did’.
 
 Prepositional relatives –
 
