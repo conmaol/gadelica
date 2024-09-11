@@ -313,9 +313,9 @@ A noun can have a relative clause particle as a modifier.
 
 *Common nouns* can be modified by the positive particle *a* ‘who(m), which, that’.
 
-> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na <mark title="The dative plural common noun ‘blàraibh’ [battles] is modified by the relative particle ‘a’ [which] – ‘the battles which sent the Fianna among themselves’.">blàraibh a</mark> chuir an Fhiann ’nam measg fhéin.
+> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na **blàraibh a** chuir an Fhiann ’nam measg fhéin.
 > 
-> Is i siud a’ chiad <mark title="The nominative feminine common noun ‘shealg’ [hunt] is modified by the relative particle ‘a’ [which] – ‘the first hunt which Finn did’.">shealg a</mark> rinn Fionn.
+> Is i siud a’ chiad **shealg a** rinn Fionn.
 
 In the first example, the dative plural common noun *blàraibh* ‘battles’ is modified by the positive relative clause particle *a* ‘which, that’ (which itself has the verb *chuir* as complement) – *blàraibh a chuir an Fhiann ’nam measg fhéin* ‘battles which sent the Fianna among themselves’.
 
