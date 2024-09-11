@@ -116,7 +116,7 @@ Notes:
   
 - Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*); quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
-Back up to: [Nouns](#nouns) | [Semantic characteristics of nouns](#semantic-characteristics-of-nouns) | [Proper nouns and common nouns](#proper-nouns-and-common-nouns)
+Back up to: [Nouns](#nouns) | [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
 
 ## Grammatical categories of nouns
 
@@ -179,7 +179,7 @@ Notes:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
-Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-categories-of-nouns) | [Nominative nouns, dative nouns and genitive nouns](#nominative-nouns-dative-nouns-and-genitive-nouns)
+Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 
 ## More examples of nouns
 
