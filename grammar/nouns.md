@@ -119,10 +119,10 @@ Back up to: [Nouns](#nouns), [Semantic characteristics of nouns](#semantic-chara
 
 ## Grammatical categories of nouns
 
-- Feminine, masculine and plural nouns
-- [Nominative, dative and genitive nouns](#nominative-dative-and-genitive-nouns)
+- Feminine nouns, masculine nouns and plural nouns
+- [Nominative nouns, dative nouns and genitive nouns](#nominative-nouns-dative-nouns-and-genitive-nouns)
 
-### Feminine, masculine and plural nouns
+### Feminine nouns, masculine nouns and plural nouns
 
 Nouns in Gaelic have *gender* – every noun is either **feminine** or **masculine** or **plural**.
 
@@ -158,7 +158,7 @@ Notes:
 
 Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 
-### Nominative, dative and genitive nouns
+### Nominative nouns, dative nouns and genitive nouns
 
 Nouns in Gaelic have *case* – every noun is either **nominative** or **dative** or **genitive**.
 
@@ -178,7 +178,7 @@ Notes:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
-Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns), [Nominative, dative and genitive nouns](#nominative-dative-and-genitive-nouns)
+Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns), [Nominative nouns, dative nouns and genitive nouns](#nominative-nouns-dative-nouns-and-genitive-nouns)
 
 ## More examples of nouns
 
