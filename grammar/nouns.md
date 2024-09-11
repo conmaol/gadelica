@@ -69,7 +69,7 @@ Notes:
   >
   > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
 
-Back up to: [Nouns](#nouns) | [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
 
 ### Proper nouns and common nouns
 
@@ -116,7 +116,7 @@ Notes:
   
 - Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*); quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
-Back up to: [Nouns](#nouns) | [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
 
 ## Grammatical categories of nouns
 
@@ -157,7 +157,7 @@ Notes:
   > 
   > Faodaidh ainmearan a bhith aon chuid fireann no boireann; aon chuid singilte, deise no iolra. (Cox 2017: §55)
 
-Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-categories-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 
 ### Nominative nouns, dative nouns and genitive nouns
 
@@ -179,7 +179,7 @@ Notes:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
-Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-categories-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 
 ## More examples of nouns
 
@@ -216,7 +216,7 @@ In these two examples, the nominative masculine proper nouns *Cumhal* and both i
 
 All three of the common nouns highlighted here lack any dependents, although they are all dependents of other words in the sentence. The dative masculine noun *loch* ‘a lake’ is the complement of the preposition *air* ‘on’; the nominative feminine noun *urchair* ‘a shot, a stone’ is the object of the verb *thilg* ‘threw’; and the genitive masculine noun *féidh* ‘a deer’ is the specifier of the plural common noun *casan* ‘feet’.
 
-Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns)
+Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns)
 
 ### Modifiers of nouns
 
@@ -249,7 +249,7 @@ In the first of these examples, the nominative plural common noun ***daoine*** �
 
 In the third example, the nominative masculine common noun ***crònan*** ‘tune’ has not one but *two* adjective modifiers, ***milis*** ‘sweet’ and ***binn*** ‘melodious’ – ***crònan milis binn*** ‘a sweet melodious tune’. 
 
-Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Genitive nouns as modifiers of other nouns
 
@@ -269,7 +269,7 @@ The nominative feminine common noun ***dithis*** ‘a group of two people’ is 
 
 It is not clear whether *proper nouns* can also be modified by genitive nouns, since there are no examples in the current text being analysed.
 
-Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Prepositions as modifiers of nouns
 
@@ -305,7 +305,7 @@ Notes:
   
 - Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
 
-Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Relative clause particles as modifiers of nouns
 
@@ -339,7 +339,7 @@ In this example, the dative masculine common noun ***achadh*** ‘a field’ is 
 
 It is not clear whether *proper nouns* can also be modified by relative clause particles, since there are no examples in the current text being analysed.
 
-Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 ### Specifiers of nouns
 
