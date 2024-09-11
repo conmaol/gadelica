@@ -1,5 +1,11 @@
 # Nouns
 
+- [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+- [Grammatical categories of nouns](#grammatical-categories-of-nouns)
+- [More examples of nouns](#more-examples-of-nouns)
+- [Dependents of nouns](#dependents-of-nouns)
+- [Functions of nouns](#functions-of-nouns)
+
 ## Semantic characteristics of nouns
 
 ### Concrete and abstract nouns
@@ -12,47 +18,46 @@ Every word that denotes a material entity is a noun (or a [pronoun](pronouns.md)
 
 However, not every noun denotes a material entity. Some nouns denote *non-material* entities, which are not made out of matter. Non-material entities include spaces (places and paths) and situations (states, processes, events and actions).
 
-Nouns that denote material entities are known as **concrete** nouns, and nouns that denote non-material entities are known as **abstract** nouns. 
+Nouns that denote material entities are known as *concrete* nouns, and nouns that denote non-material entities are known as *abstract* nouns. 
 
 The following passage is adapted from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
 
-> Nuair a bha an <mark title="concrete: ‘a world’">saoghal</mark> òg bha <mark title="concrete: ‘men’">daoine</mark> treuna ann, ris an canadh iad an <mark title="concrete: ‘warriors’">Fhiann</mark>.
+> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
-> B’ e <mark title="concrete: ‘Cumhal’">Cumhal</mark> a b’ <mark title="abstract: ‘a name’">ainm</mark> air aon de na <mark title="concrete: ‘men’">daoine</mark> seo, agus bha <mark title="concrete: ‘a son’">mac</mark> aige air an robh <mark title="concrete: ‘Finn’">Fionn</mark>.
+> B’ e **Cumhal** a b’ **ainm** air aon de na **daoine** seo, agus bha **mac** aige air an robh **Fionn**.
 >
-> Nuair a bha <mark title="concrete: ‘Finn’">Fionn</mark> ’na <mark title="concrete: ‘an infant’">leanabh</mark> beag, mharbhadh ’<mark title="concrete: ‘a father’">athair</mark> ann an aon de na <mark title="abstract: ‘battles’">blàraibh</mark> a chuir an <mark title="concrete: ‘warriors’">Fhiann</mark> ’nam <mark title="abstract: ‘midst’">measg</mark> fhéin.
+> Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
 >
-> Bha <mark title="abstract: ‘fear’">eagal</mark> air a <mark title="concrete: ‘a mother’">mhàthair</mark> gun tigeadh <mark title="concrete: ‘enemies’">naimhdean</mark> ’<mark title="concrete: ‘a father’">athar</mark> air <mark title="abstract: ‘a pursuit’">tòir</mark> an <mark title="concrete: ‘an infant’">leinibh</mark>, agus mar sin chuir i e a-mach do na <mark title="concrete: ‘forests’">coilltean</mark> fàsail air <mark title="abstract: ‘care’">chùram</mark> <mark title="concrete: ‘a group of two people’">dithis</mark> <mark title="concrete: ‘women’">bhan</mark> eòlach. 
+> Bha **eagal** air a **mhàthair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
 
 The concrete nouns in this passage are
-***saoghal*** ‘a world’,
-***daoine*** ‘men’,
-***Fhiann*** ‘warriors’,
-***Cumhall*** ‘Cumhall’,
-***mac*** ‘a son’,
-***Fionn*** ‘Finn’,
-***leanabh*** (*leinibh*) ‘an infant’,
-***athair*** (*athar*) ‘a father’,
-***mhàthair*** ‘a mother’,
-***naimhdean*** ‘enemies’,
-***coilltean*** ‘forests’,
-***dithis*** ‘a group of two people’, and
-***bhan*** ‘women’.
+*saoghal* ‘a world’,
+*daoine* ‘men’,
+*Fhiann* ‘warriors’,
+*Cumhall* ‘Cumhall’,
+*mac* ‘a son’,
+*Fionn* ‘Finn’,
+*leanabh* (*leinibh*) ‘an infant’,
+*athair* (*athar*) ‘a father’,
+*mhàthair* ‘a mother’,
+*naimhdean* ‘enemies’,
+*coilltean* ‘forests’,
+*dithis* ‘a group of two people’ and
+*bhan* ‘women’.
 
-The abstract nouns are 
-***ainm*** ‘a name’,
-***blàraibh*** ‘battles’,
-***measg*** ‘midst’,
-***eagal*** ‘fear’,
-***tòir*** ‘a pursuit’, and
-***chùram*** ‘care’.
+The abstract nouns in the passage are 
+*ainm* ‘a name’,
+*blàraibh* ‘battles’,
+*measg* ‘midst’,
+*eagal* ‘fear’,
+*tòir* ‘a pursuit’ and
+*chùram* ‘care’.
 
-<details>
-  <summary>Notes</summary>
+Notes:
 
-- Some readers might be uncomfortable seeing words like ***measg***, ***tòir*** and perhaps even ***chùram*** classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are **both** components of (lexicalised) prepositional compounds **and** (perhaps fossilised) nouns.
+- Some readers might be uncomfortable seeing words like *measg*, *tòir* and perhaps even *chùram* classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are *both* components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
   
-- The (concrete) noun ***dithis*** ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
+- The (concrete) noun *dithis* ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 
 - Nouns have been defined in broadly similar terms by other grammarians of Gaelic:
   > Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’. (Lamb 2024: 37)
@@ -60,7 +65,6 @@ The abstract nouns are
   > Tha ainmear ’na ainm air duine no air nì, m.e. *boireannach*; *balach*; *bòrd*; *doras*. (Cox 2017: §55)
   >
   > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
-</details>
 
 ### Proper nouns and common nouns
 
