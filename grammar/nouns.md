@@ -119,15 +119,10 @@ Back up to: [Nouns](#nouns), [Semantic characteristics of nouns](#semantic-chara
 
 ## Grammatical categories of nouns
 
-[See here](nouns-grammatical_categories.md)
+- Gender: feminine, masculine and plural nouns
+- [Case: nominative, dative and genitive nouns](#case-nominative-dative-and-genitive-nouns)
 
-## Grammatical categories of nouns
-
-There are two grammatical categories associated with nouns in Gaelic:
-- **gender** – feminine, masculine, plural
-- **case** – nominative, dative, genitive
-
-### Gender – feminine, masculine and plural nouns
+### Gender: feminine, masculine and plural nouns
 
 Nouns in Gaelic have *gender* – every noun is either **feminine** or **masculine** or **plural**.
 
@@ -147,8 +142,7 @@ The plural nouns are ***daoine*** ‘men’, ***blàraibh*** ‘battles’, ***n
 
 All the other nouns in the passage, whether proper or common, are masculine nouns – ***saoghal*** ‘a world’, ***Cumhall*** ‘Cumhal’, ***ainm*** ‘a name’, ***mac*** ‘a son’, ***Fionn*** ‘Finn’, ***leanamh***/***leinibh*** ‘an infant’, ***athair***/***athar*** ‘a father’, ***measg*** ‘midst’, ***eagal*** ‘fear’, and ***chùram*** ‘care’.
 
-<details>
-  <summary>Notes</summary>
+Notes:
   
 - Traditional descriptions of Gaelic grammar usually distinguish between the two, allegedly orthogonal, grammatical categories of *gender* (feminine or masculine) and *number* (singular or plural). However, these categories are clearly *not* orthogonal in modern Gaelic, since there is no gender distinction whatsoever in the plural – plural nouns derived from feminine singulars behave in exactly the same way as those derived from masculine singulars. Therefore, it seems clear that ‘plural number’ in modern Gaelic is more accurately treated as a third (non-sex-based) grammatical gender.
   
@@ -161,9 +155,10 @@ All the other nouns in the passage, whether proper or common, are masculine noun
   > In Gaelic, [nouns] can inflect for case and number. Gaelic nouns are grammatically gendered; they are inherently either masculine or feminine. (Lamb 2024: 37)
   > 
   > Faodaidh ainmearan a bhith aon chuid fireann no boireann; aon chuid singilte, deise no iolra. (Cox 2017: §55)
-</details>
 
-### Case – nominative, dative and genitive nouns
+Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns)
+
+### Case: nominative, dative and genitive nouns
 
 Nouns in Gaelic have *case* – every noun is either **nominative** or **dative** or **genitive**.
 
@@ -173,8 +168,7 @@ The genitive nouns are ***athar*** ‘a father’, ***leinibh*** ‘an infant’
 
 All the other nouns in the passage are nominative nouns – ***saoghal*** ‘a world’, ***daoine*** ‘men’ (the first occurence), ***Fhiann*** ‘warriors’ (both occurences), ***Cumhal*** ‘Cumhal’, ***ainm*** ‘a name’, ***mac*** ‘a son’, ***Fionn*** ‘Finn’ (both occurences), ***athair*** ‘a father’, ***eagal*** ‘fear’, and ***naimhdean*** ‘enemies’.
 
-<details>
-  <summary>Notes</summary>
+Notes:
 
 - Traditional descriptions of Gaelic grammar commonly mention the ‘vocative’ as a fourth case. However, the vocative is not strictly speaking a grammatical case since it does not mark a syntactic relation between the noun and another verb, preposition, adjective or noun in the same sentence. For this reason, we will treat the vocative as a handful of inflectional idiosyncracies conditioned by the vocative particle ***a***.
 
@@ -183,9 +177,8 @@ All the other nouns in the passage are nominative nouns – ***saoghal*** ‘a w
 - Some other definitions of case:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
-</details>
 
-
+Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns), [Case: nominative, dative and genitive nouns](#case-nominative-dative-and-genitive-nouns)
 
 ## More examples of nouns
 
