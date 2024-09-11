@@ -365,7 +365,88 @@ Lamb (2024:37): “The main function of a noun is to act as a verbal argument.�
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
 
+### Subject of a verb
 
+Subject of *bi*:
 
+> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an Fhiann.
+>
+> B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha **mac** aige air an robh **Fionn**.
+>
+> Nuair a bha **Fionn** ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+>
+> Bha **eagal** air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
+>
+> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an **leanabh**.
+> 
+
+Subject of *is*:
+
+> B’ e **Cumhal** a b’ **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
+> 
+
+Subject of another verb:
+
+> Bha eagal air a mhathair gun tigeadh **naimhdean** ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
+>
+> Phòs a **mhàthair** rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
+> 
+
+### Object of a verb
+
+Object of an active verb:
+
+> Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an **Fhiann**.
+>
+> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an **Fhiann** ’nam measg fhéin.
+>
+> Phòs a mhàthair **rìgh** àraidh an déidh sin, ach cha do leig i **Fionn** beag às a h-aire.
+>
+> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an **t-àite** anns an robh an leanabh.
+>
+> Sheinn i **crònan** milis binn dha, agus an sin thog i oirre.
+> 
+
+Object of a passive verb:
+
+> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’**athair** ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+>
+
+Edge cases:
+
+> Dh’fhalbh i **astar** fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
+> 
+
+### Complement of a preposition
+
+> B’ e Cumhal a b’ ainm air aon de na **daoine** seo, agus bha mac aige air an robh Fionn.
+>
+> Nuair a bha Fionn ’na **leanabh** beag, mharbhadh ’athair ann an aon de na **blàraibh** a chuir an Fhiann ’nam **measg** fhéin.
+>
+> Bha eagal air a **mhathair** gun tigeadh naimhdean ’athar air **tòir** an leinibh, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** dithis bhan eòlach.
+>
+> Phòs a mhàthair rìgh àraidh an **déidh** sin, ach cha do leig i Fionn beag às a **h-aire**.
+>
+> Dh’fhalbh i astar fada troimh **thìr** fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
+>
+> Fhuair i e ’na shuain chadail, agus thog i e ’na **làmhan** gu sèimh socrach, agus phòg i e.
+> 
+
+Verbal nouns:
+
+> Fhuair i e ’na **shuain** chadail, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
+>   
+
+### Specifier of another noun
+
+> Bha eagal air a mhathair gun tigeadh naimhdean ’**athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram **dithis** bhan eòlach.
+> 
+
+### Modifier of another noun
+
+> Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis **bhan** eòlach.
+>
+> Fhuair i e ’na shuain **chadail**, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
+> 
 
 
