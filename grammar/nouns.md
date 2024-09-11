@@ -1,6 +1,6 @@
 # Nouns
 
-- [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+- Semantic characteristics of nouns
 - [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 - [More examples of nouns](#more-examples-of-nouns)
 - [Dependents of nouns](#dependents-of-nouns)
@@ -8,7 +8,10 @@
 
 ## Semantic characteristics of nouns
 
-### Concrete and abstract nouns
+- Concrete nouns and abstract nouns
+- [Proper nouns and common nouns](#proper-nouns-and-common-nouns)
+
+### Concrete nouns and abstract nouns
 
 Nouns are words that typically denote *material* entities.
 
@@ -66,39 +69,40 @@ Notes:
   >
   > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
 
+Back up to: [Nouns](#nouns), [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+
 ### Proper nouns and common nouns
 
-Nouns can be further classified according to the nature of their denotation – the way in which they relate to entities in the world.
+Nouns can be further classified according to the nature of their denotation, or the way in which they relate to entities in the world.
 
-**Proper nouns** are names of particular entities
+*Proper nouns* are names of particular entities
 
-**Common nouns** denote classes of entity
+*Common nouns* denote classes of entity
 
-In the passage from the previous section, there are two proper nouns – ***Cumhal*** ‘Cumhall’ and ***Fionn*** ‘Finn’. 
+In the passage from the previous section, there are two proper nouns – *Cumhal* ‘Cumhall’ and *Fionn* ‘Finn’. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns – 
-***saoghal*** ‘a world’,
-***daoine*** ‘men’,
-***Fhiann*** ‘warriors’,
-***ainm*** ‘a name’,
-***mac*** ‘a son’,
-***leanabh*** (*leinibh*) ‘an infant’,
-***athair*** (*athar*) ‘a father’,
-***blàraibh*** ‘battles’,
-***measg*** ‘midst’,
-***eagal*** ‘fear’,
-***mhàthair*** ‘a mother’,
-***naimhdean*** ‘enemies’,
-***tòir*** ‘a pursuit’,
-***coilltean*** ‘forests’,
-***chùram*** ‘care’.
-***dithis*** ‘a group of two people’, and
-***bhan*** ‘women’.
+*saoghal* ‘a world’,
+*daoine* ‘men’,
+*Fhiann* ‘warriors’,
+*ainm* ‘a name’,
+*mac* ‘a son’,
+*leanabh* (*leinibh*) ‘an infant’,
+*athair* (*athar*) ‘a father’,
+*blàraibh* ‘battles’,
+*measg* ‘midst’,
+*eagal* ‘fear’,
+*mhàthair* ‘a mother’,
+*naimhdean* ‘enemies’,
+*tòir* ‘a pursuit’,
+*coilltean* ‘forests’,
+*chùram* ‘care’.
+*dithis* ‘a group of two people’, and
+*bhan* ‘women’.
 
-<details>
-  <summary>Notes</summary>
+Notes:
 
-- Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, ***Fhiann*** ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase, ***an Fhiann*** ‘the Warriors’, which is being presented as the name of a particular group of men (cf. ‘the Fenians’). Moreover, even though ***an Fhiann*** is a name, it would be incorrect to characterise it as a proper noun, since it is not a noun.
+- Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, *Fhiann* ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase, *an Fhiann* ‘the Warriors’, which is being presented as the name of a particular group of men (cf. ‘the Fenians’). Moreover, even though *an Fhiann* is a name, it would be incorrect to characterise it as a proper noun, since it is not a noun.
   
 - The dimensions of concrete vs. abstract and proper vs. common are not truly orthogonal. It seems that all proper nouns are concrete, and hence that all abstract nouns are common.
 
@@ -107,10 +111,11 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
   > 
   > Tha diofar sheòrsaichean ainmearan ann: (i) Ainmear cumanta, a tha na ainm air rudeigin bitheanta, m.e. *boireannach*; *cat*; *bròg*; *sùil*; *aran*; *taigh*. (ii) Ainmear sònraichte, a tha na ainm air duine, air àite no air rudeigin àraidh, m.e. *Mòrag*; *Seumas*; *Glaschu*; *BBC ALBA*; *an Gearasdan*. (iii) [...] (Cox 2017: §56)
   >
-  > **noun**: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
+  > *noun*: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
   
-- Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*), quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*), abstract nouns (*ainmear eas-cruthach* – see above), compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*), and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
-</details>
+- Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*); quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
+
+Back up to: [Nouns](#nouns), [Semantic characteristics of nouns](#semantic-characteristics-of-nouns), [Proper nouns and common nouns](#proper-nouns-and-common-nouns)
 
 ## Grammatical categories of nouns
 
