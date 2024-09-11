@@ -188,11 +188,9 @@ Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-cat
 ## Dependents of nouns
 
 - Bare nouns
-- Modifiers of nouns
-- Subjects of nouns
-- Apposition
-
-A noun can have zero or more dependents, for example modifiers, specifiers, complements, and other nouns standing in apposition.
+- [Modifiers of nouns](#modifiers-of-nouns)
+- [Specifiers of nouns](#specifiers-of-nouns)
+- [Apposition](#apposition)
 
 ### Bare nouns
 
@@ -222,7 +220,10 @@ Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns)
 
 ### Modifiers of nouns
 
-A noun can have one or more modifiers, all of which must follow the noun. There are four kinds of word that can be used to modify a noun – *adjectives*, *genitive nouns*, *prepositions* or *relative clause particles*.
+- Adjectives as modifiers of nouns
+- [Genitive nouns as modifiers of other nouns](genitive-nouns-as-modifiers-of-other-nouns)
+- [Prepositions as modifiers of nouns](prepositions-as-modifiers-of-nouns)
+- [Relative clause particles as modifiers of nouns](#relative-clause-particles-as-modifiers-of-nouns)
 
 #### Adjectives as modifiers of nouns
 
@@ -248,6 +249,8 @@ In the first of these examples, the nominative plural common noun ***daoine*** �
 
 In the third example, the nominative masculine common noun ***crònan*** ‘tune’ has not one but *two* adjective modifiers, ***milis*** ‘sweet’ and ***binn*** ‘melodious’ – ***crònan milis binn*** ‘a sweet melodious tune’. 
 
+Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
+
 #### Genitive nouns as modifiers of other nouns
 
 A noun can have a genitive noun modifier.
@@ -265,6 +268,8 @@ Common nouns can also be modified by *plural* genitive nouns.
 The nominative feminine common noun ***dithis*** ‘a group of two people’ is modified by the plural genitive noun ***bhan*** ‘women’ – ***dithis bhan*** ‘a group of two women’.
 
 It is not clear whether *proper nouns* can also be modified by genitive nouns, since there are no examples in the current text being analysed.
+
+Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Prepositions as modifiers of nouns
 
@@ -296,12 +301,11 @@ In this examples, the nominative feminine common noun ***lach*** ‘duck’ is m
 
 It is not clear whether *proper nouns* can also be modified by prepositions, since there are no examples in the current text being analysed.
 
-<details>
-  <summary>Notes</summary>
+Notes:
   
 - Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
-  
-</details>
+
+Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Relative clause particles as modifiers of nouns
 
@@ -334,6 +338,8 @@ Common nouns can also be modified by the locative relative clause particle ***fa
 In this example, the dative masculine common noun ***achadh*** ‘a field’ is modified by the locative relative clause particle ***far*** ‘where’ (which takes as its complement the positive interrogative verb particle *an*, which itself takes the verb *robh* ‘was’ as its complement) – ***achadh far an robh gearrain a’ ruith*** ‘field where hares were running’.
 
 It is not clear whether *proper nouns* can also be modified by relative clause particles, since there are no examples in the current text being analysed.
+
+Back up to: [Nouns](#nouns) | [Dependents of nouns](#dependents-of-nouns) | [Modifiers of nouns](#modifiers-of-nouns)
 
 ### Specifiers of nouns
 
