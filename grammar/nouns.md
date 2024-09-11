@@ -69,7 +69,7 @@ Notes:
   >
   > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
 
-Back up to: [Nouns](#nouns), [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+Back up to: [Nouns](#nouns) | [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
 
 ### Proper nouns and common nouns
 
@@ -107,6 +107,7 @@ Notes:
 - The dimensions of concrete vs. abstract and proper vs. common are not truly orthogonal. It seems that all proper nouns are concrete, and hence that all abstract nouns are common.
 
 - The distinction between proper and common nouns is familiar from the work of other grammarians of Gaelic (even if they typically confuse proper nouns with names in general):
+  
   >  Gaelic has two broad noun categories: common nouns and proper nouns. Common nouns are the physical and abstract entities that we discuss regularly in language, such as ‘bird’, ‘mountain’ or ‘philosophy’. Proper nouns are those items that we normally capitalise in writing, such as persons (‘Donald’) and places (‘Cape Breton’).” (Lamb 2024: 46)
   > 
   > Tha diofar sheòrsaichean ainmearan ann: (i) Ainmear cumanta, a tha na ainm air rudeigin bitheanta, m.e. *boireannach*; *cat*; *bròg*; *sùil*; *aran*; *taigh*. (ii) Ainmear sònraichte, a tha na ainm air duine, air àite no air rudeigin àraidh, m.e. *Mòrag*; *Seumas*; *Glaschu*; *BBC ALBA*; *an Gearasdan*. (iii) [...] (Cox 2017: §56)
@@ -115,7 +116,7 @@ Notes:
   
 - Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*); quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
-Back up to: [Nouns](#nouns), [Semantic characteristics of nouns](#semantic-characteristics-of-nouns), [Proper nouns and common nouns](#proper-nouns-and-common-nouns)
+Back up to: [Nouns](#nouns) | [Semantic characteristics of nouns](#semantic-characteristics-of-nouns) | [Proper nouns and common nouns](#proper-nouns-and-common-nouns)
 
 ## Grammatical categories of nouns
 
@@ -156,7 +157,7 @@ Notes:
   > 
   > Faodaidh ainmearan a bhith aon chuid fireann no boireann; aon chuid singilte, deise no iolra. (Cox 2017: §55)
 
-Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns)
+Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 
 ### Nominative nouns, dative nouns and genitive nouns
 
@@ -178,7 +179,7 @@ Notes:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
-Back up to: [Nouns](#nouns), [Grammatical categories of nouns](#grammatical-categories-of-nouns), [Nominative nouns, dative nouns and genitive nouns](#nominative-nouns-dative-nouns-and-genitive-nouns)
+Back up to: [Nouns](#nouns) | [Grammatical categories of nouns](#grammatical-categories-of-nouns) | [Nominative nouns, dative nouns and genitive nouns](#nominative-nouns-dative-nouns-and-genitive-nouns)
 
 ## More examples of nouns
 
