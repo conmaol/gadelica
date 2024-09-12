@@ -364,10 +364,11 @@ Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify
 
 - Subject of a verb
 - [Object of a verb](#object-of-a-verb)
+- Argument of copula
 
 #### Subject of a verb
 
-A nominative noun can function as the subject of a verb.
+The most common use of nominative nouns is to function as the subject of a verb.
 
 In the following example, a nominative *proper noun* is being used as the subject of (a form of) the predicative verb *bi*: 
 
@@ -381,59 +382,32 @@ And in these examples, it is a nominative *common noun* that is being used in th
 >
 > Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an **robh** an **leanabh**.
 
-Subject of *bi*:
+Here are some examples of both proper and common nominative nouns being used as the subject of other verbs:
 
-> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an Fhiann.
+> Bha eagal air a mhathair gun **tigeadh** **naimhdean** ’athar air tòir an leinibh.
 >
-> B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha **mac** aige air an robh **Fionn**.
+> **Phòs** a **mhàthair** rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
 >
-> Nuair a bha **Fionn** ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
->
-> Bha **eagal** air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
->
-> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an **leanabh**.
->
-> Bha an **dithis** bhan ud a’ toirt an aire air gus an d’ fhàs e suas.
->
-> Ged nach robh e a-riamh ann an sgoil mar a tha na **gillean** an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
->
-> Rachadh e a-mach don achadh far an robh **gearrain** gu leòr a’ ruith bho chnoc gu cnoc.
->
-> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a **chasan** mu dheireadh cho luath ri casan féidh.
-
-Subject of *is*:
-
-> B’ e **Cumhal** a b’ **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
->
-> Is i siud a’ chiad **shealg** a rinn Fionn.
-
-Subject of another verb:
-
-> Bha eagal air a mhathair gun tigeadh **naimhdean** ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
->
-> Phòs a **mhàthair** rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
->
-> Is i siud a’ chiad shealg a rinn **Fionn**.
->
-> Chuireadh na **mnathan** a-mach air an loch e, agus leigeadh iad leis tighinn gu tìr mar a b’ fheàrr a dh’fhaodadh e.
+> Is i siud a’ chiad shealg a **rinn** **Fionn**.
 
 #### Object of a verb
 
-Object of an active verb:
+Nominative nouns can also be *objects* of a verb.
 
-> Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an **Fhiann**.
+Here are an example with a nominative *proper* noun as object of the active verb *leig* ‘allow’:
+
+> Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** i **Fionn** beag às a h-aire.
+
+And here are some examples where a nominative common noun functions as the object of an active verb:
+
+> **Phòs** a mhàthair **rìgh** àraidh an déidh sin.
 >
-> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an **Fhiann** ’nam measg fhéin.
+> Latha de na làithean chaidh e a-mach agus **chunnaic** e **lach** a’ snàmh air loch.
 >
-> Phòs a mhàthair **rìgh** àraidh an déidh sin, ach cha do leig i **Fionn** beag às a h-aire.
->
-> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an **t-àite** anns an robh an leanabh.
->
-> Sheinn i **crònan** milis binn dha, agus an sin thog i oirre.
->
-> Latha de na làithean chaidh e a-mach agus chunnaic e **lach** a’ snàmh air loch.
->
-> Thilg e **urchair** oirre, agus gheàrr sin na **sgiathan** aice.
+> **Thilg** e **urchair** oirre, agus **gheàrr** sin na **sgiathan** aice.
+
+----
+
 
 Verbal nouns:
 
@@ -448,6 +422,15 @@ Edge cases:
 
 > Dh’fhalbh i **astar** fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
 > 
+
+#### Copula
+
+Subject of *is*:
+
+> B’ e **Cumhal** a b’ **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
+>
+> Is i siud a’ chiad **shealg** a rinn Fionn.
+
 
 ### Functions of dative nouns
 
