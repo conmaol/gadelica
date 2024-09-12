@@ -364,7 +364,7 @@ Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify
 
 - Subject of a verb
 - [Object of a verb](#object-of-a-verb)
-- Argument of copula
+- [Argument of the copula](#argument-of-the-copula)
 
 #### Subject of a verb
 
@@ -426,13 +426,23 @@ In the first example, the nominative common noun *shealg* ‘hunt’ is one of t
 
 In the second example the nominative proper noun *Cumhal* is one of the arguments of the first (copula form) *b’*, and the nominative common noun *ainm* ‘name’ is one of the arguments of the second.
 
+Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
+
 ### Functions of dative nouns
 
-#### Complement of a preposition
+The sole function of a dative noun is to mark the complement of a preposition.
+
+Here are an example where a dative common noun is used as the complement of a preposition: 
+
+> Nuair a bha Fionn **’na** **leanabh** beag, mharbhadh ’athair ann an aon **de** na **blàraibh** a chuir an Fhiann **’nam** **measg** fhéin.
+
+Here, ...
+
+----
 
 > B’ e Cumhal a b’ ainm air aon de na **daoine** seo, agus bha mac aige air an robh Fionn.
 >
-> Nuair a bha Fionn ’na **leanabh** beag, mharbhadh ’athair ann an aon de na **blàraibh** a chuir an Fhiann ’nam **measg** fhéin.
+
 >
 > Bha eagal air a **mhathair** gun tigeadh naimhdean ’athar air **tòir** an leinibh, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** dithis bhan eòlach.
 >
