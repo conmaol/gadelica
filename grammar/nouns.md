@@ -394,7 +394,7 @@ Here are some examples of both proper and common nominative nouns being used as 
 
 Nominative nouns can also be *objects* of a verb.
 
-Here are an example with a nominative *proper* noun as object of the active verb *leig* ‘allow’:
+Here is an example with a nominative *proper* noun as object of the active verb *leig* ‘allow’:
 
 > Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** i **Fionn** beag às a h-aire.
 
