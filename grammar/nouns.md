@@ -384,7 +384,8 @@ Subject of *bi*:
 > Ged nach robh e a-riamh ann an sgoil mar a tha na **gillean** an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
 >
 > Rachadh e a-mach don achadh far an robh **gearrain** gu leòr a’ ruith bho chnoc gu cnoc.
-> 
+>
+> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a **chasan** mu dheireadh cho luath ri casan féidh.
 
 Subject of *is*:
 
@@ -456,7 +457,9 @@ Edge cases:
 >
 > Chuireadh na mnathan a-mach air an loch e, agus leigeadh iad leis tighinn gu **tìr** mar a b’ fheàrr a dh’fhaodadh e.
 >
-> > Rachadh e a-mach don **achadh** far an robh gearrain gu **leòr** a’ ruith bho **chnoc** gu **cnoc**.
+> Rachadh e a-mach don **achadh** far an robh gearrain gu **leòr** a’ ruith bho **chnoc** gu **cnoc**.
+>
+> Bha aige ri an cumail ’nan **cròileagan** cruinn ann am **badan** àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu **dheireadh** cho luath ri **casan** féidh.
 
 Verbal nouns:
 
@@ -471,10 +474,14 @@ Verbal nouns:
 > Bhiodh e a’ **snàmh** gach dàrna latha.
 >
 > Rachadh e a-mach don achadh far an robh gearrain gu leòr a’ **ruith** bho chnoc gu cnoc.
+>
+> Bha aige ri an **cumail** ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor **ruith** timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
 
 ### Specifier of another noun
 
 > Bha eagal air a mhathair gun tigeadh naimhdean ’**athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram **dithis** bhan eòlach.
+>
+> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan **féidh**.
 
 Of a verbal noun:
 
@@ -498,4 +505,4 @@ Of a verbal noun:
 
 
 
-> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
+
