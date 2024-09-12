@@ -406,31 +406,25 @@ And here are some examples where a nominative common noun functions as the objec
 >
 > **Thilg** e **urchair** oirre, agus **gheàrr** sin na **sgiathan** aice.
 
-----
+In the next example, it is the (nominative) *verbal* noun *tighinn* ‘coming’ which is functioning as the object of the verb *leigeadh* ‘would allow’:
 
+> Chuireadh na mnathan a-mach air an loch e, agus **leigeadh** iad leis **tighinn** gu tìr mar a b’ fheàrr a dh’fhaodadh e.
 
-Verbal nouns:
+Finally, a nominative common noun can also function as the object of a (subject-less) passive verb:
 
-> Chuireadh na mnathan a-mach air an loch e, agus leigeadh iad leis **tighinn** gu tìr mar a b’ fheàrr a dh’fhaodadh e.
+> Nuair a bha Fionn ’na leanabh beag, **mharbhadh** ’**athair** ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 
-Object of a passive verb:
+#### Argument of the copula
 
-> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’**athair** ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
->
+A nominative noun, whether proper or common, can play the role of either of the arguments equated by a form of the copula.
 
-Edge cases:
-
-> Dh’fhalbh i **astar** fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
+> **Is** i siud a’ chiad **shealg** a rinn Fionn.
 > 
+> **B’** e **Cumhal** a **b’** **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
 
-#### Copula
+In the first example, the nominative common noun *shealg* ‘hunt’ is one of the arguments of the copula form *is*.
 
-Subject of *is*:
-
-> B’ e **Cumhal** a b’ **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
->
-> Is i siud a’ chiad **shealg** a rinn Fionn.
-
+In the second example the nominative proper noun *Cumhal* is one of the arguments of the first (copula form) *b’*, and the nominative common noun *ainm* ‘name’ is one of the arguments of the second.
 
 ### Functions of dative nouns
 
