@@ -23,7 +23,7 @@ However, not every noun denotes a material entity. Some nouns denote *non-materi
 
 Nouns that denote material entities are known as *concrete* nouns, and nouns that denote non-material entities are known as *abstract* nouns. 
 
-The following passage is adapted from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
+The following passage is adapted from the story *[Fionn](Fionn.md)* in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
