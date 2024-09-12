@@ -14,7 +14,7 @@
 
 Nouns are words that typically denote *material* entities.
 
-Material entities are those individuals, substances, aggregates and groups which are literally *made of matter*, consisting of atoms, organised into molecules, crystals, and so on. 
+Material entities are those individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules and crystals etc. 
 
 Every word that denotes a material entity is a noun (or a [pronoun](pronouns.md)). 
 
@@ -57,7 +57,7 @@ The abstract nouns in the passage are
 
 Notes:
 
-- Some readers might be uncomfortable seeing words like *measg*, *tòir* and perhaps even *chùram* classified as (abstract) nouns in the above, preferring to think of them as parts of (complex) *prepositions* rather than words in and of themselves. This is a false binary – *measg*, *tòir* and *chùram* are *both* components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
+- Some readers might be uncomfortable seeing words like *measg*, *tòir* and perhaps even *chùram* classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – *measg*, *tòir* and *chùram* are *both* components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
   
 - The (concrete) noun *dithis* ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 
@@ -72,13 +72,13 @@ Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-cha
 
 ### Proper nouns and common nouns
 
-Nouns can be further classified according to the nature of their denotation, or the way in which they relate to entities in the world.
+Parallel to the disctinction between concrete and abstract nouns, nouns can be further sub-classified according to the nature of their denotation, or the way in which they relate to entities in the world.
 
 *Proper nouns* are names of particular entities
 
 *Common nouns* denote classes of entity
 
-In the passage from the previous section, there are two proper nouns – *Cumhal* ‘Cumhall’ and *Fionn* ‘Finn’. 
+In the ‘Fionn’ passage from the previous section, there are two proper nouns – *Cumhal* ‘Cumhall’ and *Fionn* ‘Finn’. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns – 
 *saoghal* ‘a world’,
@@ -95,8 +95,8 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 *naimhdean* ‘enemies’,
 *tòir* ‘a pursuit’,
 *coilltean* ‘forests’,
-*chùram* ‘care’.
-*dithis* ‘a group of two people’, and
+*chùram* ‘care’,
+*dithis* ‘a group of two people’ and
 *bhan* ‘women’.
 
 Notes:
@@ -113,7 +113,7 @@ Notes:
   >
   > *noun*: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
   
-- Note that Cox (2017: §56) lists five other classes of noun in addition to common and proper nouns – collective nouns (*ainmear trusaidh* eg. *clann*, *muinntir*, *òigridh*, *crodh*, *dream*, *eunlaith*, *gràisg*); quantity nouns (*ainmear meud* eg. *falt*, *feur*, *bainne*, *uisge*, *gainmheach*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*, *trom-laighe*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *iarraidh*, *ithe*, *tuigsinn*, *bruidhinn*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
+- Note that Cox (2017: §56) lists five other classes of noun in addition to (and seemingly independent of) common and proper nouns: collective nouns (*ainmear trusaidh* eg. *clann*, *crodh*); quantity nouns (*ainmear meud* eg. *falt*, *bainne*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *ithe*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
 Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
 
