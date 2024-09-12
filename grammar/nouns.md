@@ -362,10 +362,6 @@ Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify
 
 ### Functions of nominative nouns
 
-- Subject of a verb
-- [Object of a verb](#object-of-a-verb)
-- [Argument of the copula](#argument-of-the-copula)
-
 #### Subject of a verb
 
 The most common use of nominative nouns is to function as the subject of a verb.
