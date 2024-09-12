@@ -356,11 +356,30 @@ Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify
 
 ## Functions of nouns
 
-Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
+- Functions of nominative nouns
+- [Functions of dative nouns](#functions-of-dative-nouns)
+- [Functions of genitive nouns](#functions-of-genitive-nouns)
 
-Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
+### Functions of nominative nouns
 
-### Subject of a verb
+- Subject of a verb
+- [Object of a verb](#object-of-a-verb)
+
+#### Subject of a verb
+
+A nominative noun can function as the subject of a verb.
+
+In the following example, a nominative *proper noun* is being used as the subject of (a form of) the predicative verb *bi*: 
+
+> Nuair a **bha** **Fionn** ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+
+And in these examples, it is a nominative *common noun* that is being used in the same role:
+
+> **Bha** **eagal** air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh.
+>
+> Ged nach robh e a-riamh ann an sgoil mar a **tha** na **gillean** an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
+>
+> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an **robh** an **leanabh**.
 
 Subject of *bi*:
 
@@ -398,7 +417,7 @@ Subject of another verb:
 >
 > Chuireadh na **mnathan** a-mach air an loch e, agus leigeadh iad leis tighinn gu tìr mar a b’ fheàrr a dh’fhaodadh e.
 
-### Object of a verb
+#### Object of a verb
 
 Object of an active verb:
 
@@ -430,7 +449,9 @@ Edge cases:
 > Dh’fhalbh i **astar** fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
 > 
 
-### Complement of a preposition
+### Functions of dative nouns
+
+#### Complement of a preposition
 
 > B’ e Cumhal a b’ ainm air aon de na **daoine** seo, agus bha mac aige air an robh Fionn.
 >
@@ -472,7 +493,9 @@ Verbal nouns:
 >
 > Bha aige ri an **cumail** ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor **ruith** timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
 
-### Specifier of another noun
+### Functions of genitive nouns
+
+#### Specifier of another noun
 
 > Bha eagal air a mhathair gun tigeadh naimhdean ’**athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram **dithis** bhan eòlach.
 >
@@ -483,7 +506,7 @@ Of a verbal noun:
 > Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a **làithean** ’na thàmh.
 > 
 
-### Modifier of another noun
+#### Modifier of another noun
 
 > Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis **bhan** eòlach.
 >
@@ -495,7 +518,14 @@ Of a verbal noun:
 
 > Bhiodh e a’ snàmh gach dàrna **latha**. [hidden preposition?]
 
+
 ----
+Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
+
+Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
+
+Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
+
 
 
 
