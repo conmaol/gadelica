@@ -2,7 +2,6 @@
 
 - Semantic characteristics of nouns
 - [Grammatical categories of nouns](#grammatical-categories-of-nouns)
-- [More examples of nouns](#more-examples-of-nouns)
 - [Dependents of nouns](#dependents-of-nouns)
 - [Functions of nouns](#functions-of-nouns)
 
@@ -180,10 +179,6 @@ Notes:
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
 Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-categories-of-nouns)
-
-## More examples of nouns
-
-[See here](nouns-more_examples.md)
 
 ## Dependents of nouns
 
