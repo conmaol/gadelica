@@ -378,19 +378,29 @@ Subject of *bi*:
 > Bha **eagal** air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
 >
 > Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an robh an **leanabh**.
+>
+> Bha an **dithis** bhan ud a’ toirt an aire air gus an d’ fhàs e suas.
+>
+> Ged nach robh e a-riamh ann an sgoil mar a tha na **gillean** an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
+>
+> Rachadh e a-mach don achadh far an robh **gearrain** gu leòr a’ ruith bho chnoc gu cnoc.
 > 
 
 Subject of *is*:
 
 > B’ e **Cumhal** a b’ **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
-> 
+>
+> Is i siud a’ chiad **shealg** a rinn Fionn.
 
 Subject of another verb:
 
 > Bha eagal air a mhathair gun tigeadh **naimhdean** ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
 >
 > Phòs a **mhàthair** rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
-> 
+>
+> Is i siud a’ chiad shealg a rinn **Fionn**.
+>
+> Chuireadh na **mnathan** a-mach air an loch e, agus leigeadh iad leis tighinn gu tìr mar a b’ fheàrr a dh’fhaodadh e.
 
 ### Object of a verb
 
@@ -405,7 +415,14 @@ Object of an active verb:
 > Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an **t-àite** anns an robh an leanabh.
 >
 > Sheinn i **crònan** milis binn dha, agus an sin thog i oirre.
-> 
+>
+> Latha de na làithean chaidh e a-mach agus chunnaic e **lach** a’ snàmh air loch.
+>
+> Thilg e **urchair** oirre, agus gheàrr sin na **sgiathan** aice.
+
+Verbal nouns:
+
+> Chuireadh na mnathan a-mach air an loch e, agus leigeadh iad leis **tighinn** gu tìr mar a b’ fheàrr a dh’fhaodadh e.
 
 Object of a passive verb:
 
@@ -430,16 +447,38 @@ Edge cases:
 > Dh’fhalbh i astar fada troimh **thìr** fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
 >
 > Fhuair i e ’na shuain chadail, agus thog i e ’na **làmhan** gu sèimh socrach, agus phòg i e.
-> 
+>
+> Bha an dithis bhan ud a’ toirt an **aire** air gus an d’ fhàs e suas.
+>
+> **Latha** de na **làithean** chaidh e a-mach agus chunnaic e lach a’ snàmh air **loch**.
+>
+> Ged nach robh e a-riamh ann an **sgoil** mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a làithean ’na **thàmh**.
+>
+> Chuireadh na mnathan a-mach air an loch e, agus leigeadh iad leis tighinn gu **tìr** mar a b’ fheàrr a dh’fhaodadh e.
+>
+> > Rachadh e a-mach don **achadh** far an robh gearrain gu **leòr** a’ ruith bho **chnoc** gu **cnoc**.
 
 Verbal nouns:
 
 > Fhuair i e ’na **shuain** chadail, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
->   
+>
+> Bha an dithis bhan ud a’ **toirt** an aire air gus an d’ fhàs e suas.
+>
+> Latha de na làithean chaidh e a-mach agus chunnaic e lach a’ **snàmh** air loch.
+>
+> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ **cur** seachad a làithean ’na thàmh.
+>
+> Bhiodh e a’ **snàmh** gach dàrna latha.
+>
+> Rachadh e a-mach don achadh far an robh gearrain gu leòr a’ **ruith** bho chnoc gu cnoc.
 
 ### Specifier of another noun
 
 > Bha eagal air a mhathair gun tigeadh naimhdean ’**athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram **dithis** bhan eòlach.
+
+Of a verbal noun:
+
+> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a **làithean** ’na thàmh.
 > 
 
 ### Modifier of another noun
@@ -447,6 +486,16 @@ Verbal nouns:
 > Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis **bhan** eòlach.
 >
 > Fhuair i e ’na shuain **chadail**, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
-> 
+>
+> Bha an dithis **bhan** ud a’ toirt an aire air gus an d’ fhàs e suas.
+
+Of a verbal noun:
+
+> Bhiodh e a’ snàmh gach dàrna **latha**. [hidden preposition?]
+
+----
 
 
+
+
+> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
