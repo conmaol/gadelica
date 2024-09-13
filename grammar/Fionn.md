@@ -91,7 +91,7 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 > Sheinn i <mark title="nominative, masculine, common, abstract: ‘tune’">crònan</mark> – *nominative masculine*  
 > milis binn dha, agus an sin thog i oirre.  
 >
-> Bha an <mark title="nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive|nominative (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ <mark title="dative (?), feminine, common, abstract: ‘giving’">toirt</mark> an <mark title="dative|genitive (?), feminine, common, abstract: ‘attention’">aire</mark> air gus an d’ fhàs e suas.
+> Bha an <mark title="nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive|nominative (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ <mark title="dative (?), feminine, common, abstract: ‘giving’">toirt</mark> an <mark title="dative|genitive (?), feminine, common, abstract: ‘attention’">aire</mark> air gus an do dh’fhàs e suas.
 >
 > <mark title="nominative|dative (?), masculine, common, abstract: ‘day’">Latha</mark> de na <mark title="dative, plural, common, abstract: ‘days’">làithean</mark> chaidh e a-mach agus chunnaic e <mark title="nominative, feminine, common, concrete: ‘duck’">lach</mark> a’ <mark title="dative (?), masculine, common, abstract: ‘swimming’">snàmh</mark> air <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark>.
 >
@@ -113,39 +113,64 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 
 ## Verbs
 
-> Nuair a bha  
-> an saoghal òg bha  
-> daoine treuna ann, ris an canadh  
+> Nuair a **bha**  
+> an saoghal òg **bha**  
+> daoine treuna ann, ris an **canadh**  
 > iad an Fhiann.  
 >
-> B’  
-> e Cumhal a  
-> b’  
-> ainm air aon de na daoine seo, agus bha  
-> mac aige air an robh  
+> **B’**  
+> e Cumhal a **b’**    
+> ainm air aon de na daoine seo, agus **bha**  
+> mac aige air an **robh**  
 > Fionn  
 >  
-> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+> Nuair a **bha**  
+> Fionn ’na leanabh beag, **mharbhadh**  
+> ’athair ann an aon de na blàraibh a **chuir**  
+> an Fhiann ’nam measg fhéin.
 >
-> Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
+> **Bha**  
+> eagal air a mhathair gun **tigeadh**  
+> naimhdean ’athar air tòir an leinibh, agus mar sin **chuir**  
+> i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
 >
-> Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
+> **Phòs**  
+> a mhàthair rìgh àraidh an déidh sin, ach cha do **leig**  
+> i Fionn beag às a h-aire.
 >
-> Dh’fhalbh i astar fada tro thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
+> **Dh’fhalbh**  
+> i astar fada tro thìr fhàsail gus an do **lorg**  
+> i an t-àite anns an **robh**  
+> an leanabh.
 >
-> Fhuair i e ’na shuain chadail, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.  
+> **Fhuair**  
+> i e ’na shuain chadail, agus **thog**  
+> i e ’na làmhan gu sèimh socrach, agus **phòg**  
+> i e.  
 >
-> Sheinn i crònan milis binn dha, agus an sin thog i oirre.  
+> **Sheinn**  
+> i crònan milis binn dha, agus an sin **thog**  
+> i oirre.  
 > 
-> Bha an dithis mhnathan ud a’ toirt an aire air gus an d’ fhàs e suas.
+> **Bha**  
+> an dithis mhnathan ud a’ toirt an aire air gus an do **dh’fhàs**  
+> e suas.
 >
-> Latha de na làithean chaidh e a-mach agus chunnaic e lach a’ snàmh air loch.
+> Latha de na làithean **chaidh**  
+> e a-mach agus **chunnaic**  
+> e lach a’ snàmh air loch.
 >
-> Thilg e urchair oirre, agus gheàrr sin na sgiathan aice.
+> **Thilg**  
+> e urchair oirre, agus **gheàrr**  
+> sin na sgiathan aice.
 >
-> Rug e oirre agus thug e leis dhachaidh i.
+> **Rug**  
+> e oirre agus **thug**  
+> e leis dhachaidh i.
 >
-> Is i siud a’ chiad shealg a rinn Fionn.
+> **Is**  
+> i siud a’ chiad shealg a **rinn**  
+> Fionn.
 >
 > Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
 >
