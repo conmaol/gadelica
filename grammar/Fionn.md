@@ -113,73 +113,86 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 
 ## Verbs
 
-> Nuair a **bha**  
-> an saoghal òg **bha**  
-> daoine treuna ann, ris an **canadh**  
+> Nuair a **bha** – independent past  
+> an saoghal òg **bha** – independent past  
+> daoine treuna ann, ris an **canadh** – dependent conditional  
 > iad an Fhiann.  
 >
-> **B’**  
-> e Cumhal a **b’**    
-> ainm air aon de na daoine seo, agus **bha**  
-> mac aige air an **robh**  
+> **B’** – independent past   
+> e Cumhal a **b’** – independent past    
+> ainm air aon de na daoine seo, agus **bha** – independent past  
+> mac aige air an **robh** – dependent past  
 > Fionn  
 >  
-> Nuair a **bha**  
-> Fionn ’na leanabh beag, **mharbhadh**  
-> ’athair ann an aon de na blàraibh a **chuir**  
+> Nuair a **bha** – independent past  
+> Fionn ’na leanabh beag, **mharbhadh** – independent past passive  
+> ’athair ann an aon de na blàraibh a **chuir** – independent past  
 > an Fhiann ’nam measg fhéin.
 >
-> **Bha**  
-> eagal air a mhathair gun **tigeadh**  
-> naimhdean ’athar air tòir an leinibh, agus mar sin **chuir**  
+> **Bha** – independent past  
+> eagal air a mhathair gun **tigeadh** – dependent conditional  
+> naimhdean ’athar air tòir an leinibh, agus mar sin **chuir** – independent past  
 > i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
 >
-> **Phòs**  
-> a mhàthair rìgh àraidh an déidh sin, ach cha do **leig**  
+> **Phòs** – independent past    
+> a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** – independent past  
 > i Fionn beag às a h-aire.
 >
-> **Dh’fhalbh**  
-> i astar fada tro thìr fhàsail gus an do **lorg**  
-> i an t-àite anns an **robh**  
+> **Dh’fhalbh** – independent past  
+> i astar fada tro thìr fhàsail gus an do **lorg** – independent past  
+> i an t-àite anns an **robh** – dependent past  
 > an leanabh.
 >
-> **Fhuair**  
-> i e ’na shuain chadail, agus **thog**  
-> i e ’na làmhan gu sèimh socrach, agus **phòg**  
+> **Fhuair** – independent past  
+> i e ’na shuain chadail, agus **thog** – independent past  
+> i e ’na làmhan gu sèimh socrach, agus **phòg** – independent past  
 > i e.  
 >
-> **Sheinn**  
-> i crònan milis binn dha, agus an sin **thog**  
+> **Sheinn** – independent past  
+> i crònan milis binn dha, agus an sin **thog** – independent past  
 > i oirre.  
 > 
-> **Bha**  
-> an dithis mhnathan ud a’ toirt an aire air gus an do **dh’fhàs**  
+> **Bha** – independent past  
+> an dithis mhnathan ud a’ toirt an aire air gus an do **dh’fhàs** – independent past  
 > e suas.
 >
-> Latha de na làithean **chaidh**  
-> e a-mach agus **chunnaic**  
+> Latha de na làithean **chaidh** – independent past  
+> e a-mach agus **chunnaic** – independent past  
 > e lach a’ snàmh air loch.
 >
-> **Thilg**  
-> e urchair oirre, agus **gheàrr**  
+> **Thilg** – independent past  
+> e urchair oirre, agus **gheàrr** – independent past  
 > sin na sgiathan aice.
 >
-> **Rug**  
-> e oirre agus **thug**  
+> **Rug** – independent past  
+> e oirre agus **thug** – independent past  
 > e leis dhachaidh i.
 >
-> **Is**  
-> i siud a’ chiad shealg a **rinn**  
+> **Is** – independent future  
+> i siud a’ chiad shealg a **rinn** – independent past  
 > Fionn.
 >
-> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
+> Ged nach **robh** – dependent past  
+> e a-riamh ann an sgoil mar a **tha** – independent present  
+> na gillean an-diugh, cha **robh** – dependent past  
+> e idir a’ cur seachad a làithean ’na thàmh.
 >
-> Bhiodh e a’ snàmh gach dàrna latha.
+> **Bhiodh** – independent conditional  
+> e a’ snàmh gach dàrna latha.
 >
-> Chuireadh na mnathan a-mach air an loch e, agus leigeadh iad leis tighinn gu tìr mar a b’ fheàrr a dh’fhaodadh e.
+> **Chuireadh** – independent conditional  
+> na mnathan a-mach air an loch e, agus **leigeadh** – independent conditional  
+> iad leis tighinn gu tìr mar a **b’** – independent past  
+> fheàrr a **dh’fhaodadh** – independent conditional  
+> e.
 >
-> Rachadh e a-mach don achadh far an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
+> **Rachadh** – independent conditional  
+> e a-mach don achadh far an **robh** – dependent past  
+> gearrain gu leòr a’ ruith bho chnoc gu cnoc.
 >
-> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
+> **Bha** – independent past  
+> aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus **is** – independent future  
+> ann le bhith sìor ruith timcheall orra a **bha** – independent past  
+> a chasan mu dheireadh cho luath ri casan féidh.
 
 
