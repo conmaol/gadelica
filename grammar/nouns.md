@@ -456,16 +456,19 @@ Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
 
 #### Specifier of another noun
 
-One of the two main functions of a genitive noun, whether proper of common, is to mark the specifier of another, preceding, noun.
+One of the main functions of a genitive noun, whether proper of common, is to mark the specifier of another, preceding, noun:
 
-> Bha eagal air a mhathair gun tigeadh naimhdean ’**athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram **dithis** bhan eòlach.
+> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri **casan féidh**.
 >
-> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan **féidh**.
+> Bha eagal air a mhathair gun tigeadh **naimhdean ’athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air **chùram dithis** bhan eòlach.
 
-Of a verbal noun:
+In the first example, the genitive masculine noun *féidh* ‘deer’ is functioning as the specifier of the plural noun *casan* ‘feet’. In the second example, masculine *athar* ‘father’ is the specifier of *naimhdean* ‘enemies’, *leinibh* ‘an infant’ is the specifier of *tòir* ‘a pursuit’, and *dithis* ‘a group of two people’ is the specifier of *chùram* ‘care’.
 
-> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a **làithean** ’na thàmh.
-> 
+In the following example, the genitive plural noun *làithean* ‘days’ is the specifier of the verbal noun *cur* ‘sending’:
+
+> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ **cur** seachad a **làithean** ’na thàmh.
+
+Note that the genitive specifier of a verbal noun typically marks what would be the *object* of the underlying verb (which would have nominative case of course).
 
 #### Modifier of another noun
 
@@ -481,6 +484,7 @@ Of a verbal noun:
 
 > Bhiodh e a’ snàmh gach dàrna **latha**. [hidden preposition?]
 
+no specifier!
 
 ----
 Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
