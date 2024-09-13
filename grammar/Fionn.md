@@ -113,17 +113,17 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 
 ## Verbs
 
-> Nuair a bha
-> an saoghal òg bha
-> daoine treuna ann, ris an canadh
-> iad an Fhiann.
+> Nuair a bha  
+> an saoghal òg bha  
+> daoine treuna ann, ris an canadh  
+> iad an Fhiann.  
 >
-> B’
-> e Cumhal a
-> b’
-> ainm air aon de na daoine seo, agus bha
-> mac aige air an robh
-> Fionn
+> B’  
+> e Cumhal a  
+> b’  
+> ainm air aon de na daoine seo, agus bha  
+> mac aige air an robh  
+> Fionn  
 >  
 > Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 >
