@@ -442,7 +442,7 @@ A few more examples of dative nouns as complements of prepositions are as follow
 > 
 > Bha aige **ri** an **cumail** **’nan cròileagan** cruinn **ann am badan** àraidh, agus is ann **le bhith** sìor ruith timcheall orra a bha a chasan **mu dheireadh** cho luath **ri casan** féidh.
 
-In the last example here, note that the complement of the preposition *ri* is *cumail* ‘keeping’, a verbal noun. Similarly, the complement of *le* ‘with’ is the verbal noun *bhith* ‘being’. Here are a few more examples of prepsitions being used with verbal noun complements:
+In the last example here, note that the complement of the preposition *ri* is *cumail* ‘keeping’, a verbal noun. Similarly, the complement of *le* ‘with’ is the verbal noun *bhith* ‘being’. Here are a few more examples of prepositions being used with verbal noun complements:
  
 Verbal nouns:
 
