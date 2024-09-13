@@ -113,43 +113,43 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 
 ## Verbs
 
-> Nuair a **bha** – independent past  
-> an saoghal òg **bha** – independent past  
-> daoine treuna ann, ris an **canadh** – dependent conditional  
+> Nuair a **bha** – *independent past*  
+> an saoghal òg **bha** – *independent past*  
+> daoine treuna ann, ris an **canadh** – *dependent conditional*  
 > iad an Fhiann.  
 >
-> **B’** – independent past   
-> e Cumhal a **b’** – independent past    
-> ainm air aon de na daoine seo, agus **bha** – independent past  
-> mac aige air an **robh** – dependent past  
+> **B’** – *independent past*   
+> e Cumhal a **b’** – *independent past*    
+> ainm air aon de na daoine seo, agus **bha** – *independent past*  
+> mac aige air an **robh** – *dependent past*  
 > Fionn  
 >  
-> Nuair a **bha** – independent past  
-> Fionn ’na leanabh beag, **mharbhadh** – independent past passive  
-> ’athair ann an aon de na blàraibh a **chuir** – independent past  
+> Nuair a **bha** – *independent past*  
+> Fionn ’na leanabh beag, **mharbhadh** – *independent past passive*  
+> ’athair ann an aon de na blàraibh a **chuir** – *independent past*  
 > an Fhiann ’nam measg fhéin.
 >
-> **Bha** – independent past  
-> eagal air a mhathair gun **tigeadh** – dependent conditional  
-> naimhdean ’athar air tòir an leinibh, agus mar sin **chuir** – independent past  
+> **Bha** – *independent past*  
+> eagal air a mhathair gun **tigeadh** – *dependent conditional*  
+> naimhdean ’athar air tòir an leinibh, agus mar sin **chuir** – *independent past*  
 > i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
 >
-> **Phòs** – independent past    
-> a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** – independent past  
+> **Phòs** – *independent past*    
+> a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** – *independent past*  
 > i Fionn beag às a h-aire.
 >
-> **Dh’fhalbh** – independent past  
-> i astar fada tro thìr fhàsail gus an do **lorg** – independent past  
-> i an t-àite anns an **robh** – dependent past  
+> **Dh’fhalbh** – *independent past*  
+> i astar fada tro thìr fhàsail gus an do **lorg** – *independent past*  
+> i an t-àite anns an **robh** – *dependent past*  
 > an leanabh.
 >
-> **Fhuair** – independent past  
-> i e ’na shuain chadail, agus **thog** – independent past  
-> i e ’na làmhan gu sèimh socrach, agus **phòg** – independent past  
+> **Fhuair** – *independent past*  
+> i e ’na shuain chadail, agus **thog** – *independent past*  
+> i e ’na làmhan gu sèimh socrach, agus **phòg** – *independent past*  
 > i e.  
 >
-> **Sheinn** – independent past  
-> i crònan milis binn dha, agus an sin **thog** – independent past  
+> **Sheinn** – *independent past*  
+> i crònan milis binn dha, agus an sin **thog** – *independent past*  
 > i oirre.  
 > 
 > **Bha** – independent past  
