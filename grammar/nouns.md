@@ -364,7 +364,12 @@ The grammatical functions that nouns can have in a Gaelic sentence are the diffe
 
 ### Grammatical functions of nominative nouns
 
-#### Subject of a verb
+Nominative nouns can have three main kinds of grammatical function in a sentence of Gaelic: 
+- subject of a verb
+- object of a verb
+- argument of the copula
+
+#### Nominative nouns as subject of a verb
 
 The most common grammatical function of nominative nouns is to serve as the subject of a verb.
 
@@ -388,7 +393,7 @@ Here are some examples of both proper and common nominative nouns being used as 
 >
 > Is i siud a’ chiad shealg a **rinn** **Fionn**.
 
-#### Object of a verb
+#### Nominative nouns as object of a verb
 
 Nominative nouns can also be *objects* of a verb.
 
@@ -412,7 +417,7 @@ Finally, a nominative common noun can also function as the object of a (subject-
 
 > Nuair a bha Fionn ’na leanabh beag, **mharbhadh** ’**athair** ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 
-#### Argument of the copula
+#### Nominative nouns as arguments of the copula
 
 A nominative noun, whether proper or common, can play the role of either of the arguments equated by a form of the copula.
 
