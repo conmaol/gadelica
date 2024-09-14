@@ -395,13 +395,13 @@ Here are some examples of both proper and common nominative nouns being used as 
 
 #### Nominative nouns as object of a verb
 
-Nominative nouns can also be *objects* of a verb.
+Nominative nouns can also be grammatical *objects* of a verb.
 
-Here is an example with a nominative *proper* noun as object of the active verb *leig* ‘allow’:
+Here is an example with the nominative proper noun *Fionn* as object of the active verb *leig* ‘allow’:
 
 > Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** i **Fionn** beag às a h-aire.
 
-And here are some examples where a nominative common noun functions as the object of an active verb:
+Some corresponding examples with common nouns are as follows:
 
 > **Phòs** a mhàthair **rìgh** àraidh an déidh sin.
 >
@@ -409,13 +409,15 @@ And here are some examples where a nominative common noun functions as the objec
 >
 > **Thilg** e **urchair** oirre, agus **gheàrr** sin na **sgiathan** aice.
 
-In the next example, it is the (nominative) *verbal* noun *tighinn* ‘coming’ which is functioning as the object of the verb *leigeadh* ‘would allow’:
+In the next example, it is the (nominative) *verbal* noun *tighinn* ‘coming’ which is functioning as the grammatical object of the verb *leigeadh* ‘would allow’:
 
 > Chuireadh na mnathan a-mach air an loch e, agus **leigeadh** iad leis **tighinn** gu tìr mar a b’ fheàrr a dh’fhaodadh e.
 
-Finally, a nominative common noun can also function as the object of a (subject-less) passive verb:
+Finally, a nominative noun can also function as the grammatical object of a (subject-less) *passive* verb:
 
 > Nuair a bha Fionn ’na leanabh beag, **mharbhadh** ’**athair** ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+
+Here the nominative noun *athair* ‘father’ functions as the grammatical object of the passive verb *mharbhadh* ‘someone killed’ – *mharbhadh ’athair* ‘someone killed his father, ie. his father was killed’.
 
 #### Nominative nouns as arguments of the copula
 
