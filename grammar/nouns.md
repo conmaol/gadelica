@@ -367,7 +367,7 @@ The grammatical functions that nouns can have in a Gaelic sentence are the diffe
 Nominative nouns can have three main kinds of grammatical function in a sentence of Gaelic: 
 - subject of a verb
 - object of a verb
-- argument of the copula
+- dependent of the copula
 
 #### Nominative nouns as subject of a verb
 
@@ -419,9 +419,9 @@ Finally, a nominative noun can also function as the grammatical object of a (sub
 
 Here the nominative noun *athair* ‘father’ functions as the grammatical object of the passive verb *mharbhadh* ‘someone killed’ – *mharbhadh ’athair* ‘someone killed his father, ie. his father was killed’.
 
-#### Nominative nouns as arguments of the copula
+#### Nominative nouns as dependent of the copula
 
-A nominative noun, whether proper or common, can play the role of either of the arguments equated by a form of the copula.
+A nominative noun, whether proper or common, can play the role of either of the dependents identified by (a form of) the copula.
 
 > **Is** i siud a’ chiad **shealg** a rinn Fionn.
 > 
