@@ -3,7 +3,7 @@
 - Semantic characteristics of nouns
 - [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 - [Dependents of nouns](#dependents-of-nouns)
-- [Functions of nouns](#functions-of-nouns)
+- [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
 ## Semantic characteristics of nouns
 
@@ -354,23 +354,25 @@ Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such a
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, [...].”
 
-## Functions of nouns
+## Grammatical functions of nouns
 
-- Functions of nominative nouns
-- [Functions of dative nouns](#functions-of-dative-nouns)
-- [Functions of genitive nouns](#functions-of-genitive-nouns)
+- Grammatical functions of nominative nouns
+- [Grammatical functions of dative nouns](#grammatical-functions-of-dative-nouns)
+- [Grammatical functions of genitive nouns](#grammatical-functions-of-genitive-nouns)
 
-### Functions of nominative nouns
+The grammatical functions that nouns can have in a Gaelic sentence are the different ways in which they can serve as a dependent of some other word in the sentence, whether that other word is a verb, preposition or even another noun. These grammatical functions depend crucially on the *case* of the noun – whether it is nominative, dative or genitive.
+
+### Grammatical functions of nominative nouns
 
 #### Subject of a verb
 
-The most common use of nominative nouns is to function as the subject of a verb.
+The most common grammatical function of nominative nouns is to serve as the subject of a verb.
 
-In the following example, a nominative *proper noun* is being used as the subject of (a form of) the predicative verb *bi*: 
+In the following example, the nominative proper noun *Fionn* is being used as the grammatical subject of the verb *bha* ‘was’, which is itself a form of the predicative verb *bi*: 
 
 > Nuair a **bha** **Fionn** ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 
-And in these examples, it is a nominative *common noun* that is being used in the same role:
+And in these examples, it is the nominative common nouns *eagal* ‘fear’, *gillean* ‘boys’ and *leanabh* ‘an infant’ that are being used in the same way:
 
 > **Bha** **eagal** air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh.
 >
@@ -378,7 +380,7 @@ And in these examples, it is a nominative *common noun* that is being used in th
 >
 > Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an **robh** an **leanabh**.
 
-Here are some examples of both proper and common nominative nouns being used as the subject of other verbs:
+Here are some examples of both proper and common nominative nouns being used as the grammatical subjects of other verbs:
 
 > Bha eagal air a mhathair gun **tigeadh** **naimhdean** ’athar air tòir an leinibh.
 >
@@ -424,7 +426,7 @@ In the second example the nominative proper noun *Cumhal* is one of the argument
 
 Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
 
-### Functions of dative nouns
+### Grammatical functions of dative nouns
 
 The sole function of a dative noun is to mark the complement of a preposition.
 
@@ -452,7 +454,7 @@ Verbal nouns:
 
 Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
 
-### Functions of genitive nouns
+### Grammatical functions of genitive nouns
 
 #### Specifier of another noun
 
