@@ -421,17 +421,17 @@ Here the nominative noun *athair* ‘father’ functions as the grammatical obje
 
 #### Nominative nouns as dependent of the copula
 
-A nominative noun, whether proper or common, can play the role of either of the dependents identified by (a form of) the copula.
+Closely related to their use as subject and object of a verb, nominative nouns can function as either of the two dependents identified by (a form of) the copula.
 
 > **Is** i siud a’ chiad **shealg** a rinn Fionn.
 > 
 > **B’** e **Cumhal** a **b’** **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
 
-In the first example, the nominative common noun *shealg* ‘hunt’ is one of the arguments of the copula form *is*.
+In the first example, the nominative common noun *shealg* ‘hunt’ is one of the dependents of the copula form *is* (the other depedent being the demonstrative pronoun *siud*).
 
-In the second example the nominative proper noun *Cumhal* is one of the arguments of the first (copula form) *b’*, and the nominative common noun *ainm* ‘name’ is one of the arguments of the second.
+In the second example, the nominative proper noun *Cumhal* is a dependent of the first instance of the copula form *b’*, and the nominative common noun *ainm* ‘name’ is one of the dependents of the second instance.
 
-Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
 ### Grammatical functions of dative nouns
 
@@ -459,7 +459,7 @@ Verbal nouns:
 >
 > Latha de na làithean chaidh e a-mach agus chunnaic e lach **a’ snàmh** air loch.
 
-Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
 ### Grammatical functions of genitive nouns
 
@@ -500,7 +500,7 @@ Lamb (2024:37): “The main function of a noun is to act as a verbal argument.�
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
 
-Back up to: [Nouns](#nouns) \| [Functions of nouns](#functions-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
 
 
