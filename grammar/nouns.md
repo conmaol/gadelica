@@ -126,7 +126,7 @@ Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-cha
 
 Nouns in Gaelic have *gender* – every noun is either *feminine* or *masculine* or *plural*.
 
-Recall the example passage from the previous section, reproduced below for convenience.
+Recall the *[Fionn](Fionn.md)* example passage from the previous section, reproduced below for convenience.
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
@@ -162,7 +162,17 @@ Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-ca
 
 Nouns in Gaelic have *case* – every noun is either *nominative* or *dative* or *genitive*.
 
-In the passage from the previous section, the dative nouns are *daoine* ‘men’ (the second occurence), *leanabh* ‘an infant’, *blàraibh* ‘battles’, *measg* ‘midst’, *mhàthair* ‘a mother’, *tòir* ‘a pursuit’, *coilltean* ‘forests’ and *chùram* ‘care’.
+Coming back to this:
+
+> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
+>
+> B’ e **Cumhal** a b’ **ainm** air aon de na **daoine** seo, agus bha **mac** aige air an robh **Fionn**.
+>
+> Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
+>
+> Bha **eagal** air a **mhathair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
+
+In this passage, the dative nouns are *daoine* ‘men’ (the second occurence), *leanabh* ‘an infant’, *blàraibh* ‘battles’, *measg* ‘midst’, *mhàthair* ‘a mother’, *tòir* ‘a pursuit’, *coilltean* ‘forests’ and *chùram* ‘care’.
 
 The genitive nouns are *athar* ‘a father’, *leinibh* ‘an infant’, *dithis* ‘a group of two people’ and *bhan* ‘women’.  
 
