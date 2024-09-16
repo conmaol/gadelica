@@ -2,7 +2,7 @@
 
 - Semantic characteristics of nouns
 - [Grammatical categories of nouns](#grammatical-categories-of-nouns)
-- [Dependents of nouns](#dependents-of-nouns)
+- [Grammatical dependents of nouns](#grammatical-dependents-of-nouns)
 - [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
 ## Semantic characteristics of nouns
@@ -190,7 +190,7 @@ Notes:
 
 Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-categories-of-nouns)
 
-## Dependents of nouns
+## Grammatical dependents of nouns
 
 - Bare nouns
 - [Modifiers of nouns](#modifiers-of-nouns)
@@ -199,7 +199,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-ca
 
 ### Bare nouns
 
-If a noun has no dependents of any kind, it is known as a ‘bare’ noun.
+If a noun has no grammatical dependents of any kind, it is known as a ‘bare’ noun.
 
 *Proper nouns* usually occur bare.
 
@@ -221,7 +221,7 @@ In these two examples, the nominative masculine proper nouns *Cumhal* and both i
 
 All three of the common nouns highlighted here lack any dependents, although they are all dependents of other words in the sentence. The dative masculine noun *loch* ‘a lake’ is the complement of the preposition *air* ‘on’; the nominative feminine noun *urchair* ‘a shot, a stone’ is the object of the verb *thilg* ‘threw’; and the genitive masculine noun *féidh* ‘a deer’ is the specifier of the plural common noun *casan* ‘feet’.
 
-Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns)
 
 ### Modifiers of nouns
 
@@ -254,7 +254,7 @@ In the first of these examples, the nominative plural common noun *daoine* ‘me
 
 In the third example, the nominative masculine common noun *crònan* ‘tune’ has not one but *two* adjective modifiers, *milis* ‘sweet’ and *binn* ‘melodious’ – *crònan milis binn* ‘a sweet melodious tune’. 
 
-Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatial-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Genitive nouns as modifiers of other nouns
 
@@ -274,7 +274,7 @@ The nominative feminine common noun *dithis* ‘a group of two people’ is modi
 
 It is not clear whether *proper nouns* can also be modified by genitive nouns, since there are no examples in the current text being analysed.
 
-Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Prepositions as modifiers of nouns
 
@@ -310,7 +310,7 @@ Notes:
   
 - Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
 
-Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Relative clause particles as modifiers of nouns
 
@@ -344,7 +344,7 @@ In this example, the dative masculine common noun *achadh* ‘a field’ is modi
 
 It is not clear whether *proper nouns* can also be modified by relative clause particles, since there are no examples in the current text being analysed.
 
-Back up to: [Nouns](#nouns) \| [Dependents of nouns](#dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 ### Specifiers of nouns
 
