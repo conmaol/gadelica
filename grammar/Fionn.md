@@ -2,6 +2,18 @@
 
 This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81–82).
 
+- [The story](#the-story)
+- [Nouns](#nouns)
+- [Verbs](#verbs)
+- [Adjectives](#adjectives)
+
+```
+Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann.
+B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn
+Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
+Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
+```
+
 ## The story
 
 > Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann.
@@ -42,22 +54,22 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 
 ## Nouns
 
-> Nuair a bha an <mark title="nominative, masculine, common, concrete: ‘world’">saoghal</mark> – *nominative masculine*  
-> òg bha <mark title="nominative, plural, common, concrete: ‘men’">daoine</mark> – *nominative plural*  
-> treuna ann, ris an canadh iad an <mark title="nominative, feminine, common, concrete: ‘warriors’">Fhiann</mark>. – *nominative feminine*  
+> Nuair a bha an **saoghal** – *nominative masculine*  
+> òg bha **daoine** – *nominative plural*  
+> treuna ann, ris an canadh iad an **Fhiann**. – *nominative feminine*  
 >
-> B’ e <mark title="nominative, masculine, proper, concrete: ‘Cumhal’">Cumhal</mark> – *nominative masculine*  
-> a b’ <mark title="nominative, masculine, common, abstract: ‘name’">ainm</mark> – *nominative masculine*  
-> air aon de na <mark title="dative, plural, common, concrete: ‘men’">daoine</mark> – *dative plural*  
-> seo, agus bha <mark title="nominative, masculine, common, concrete: ‘son’">mac</mark> – *nominative masculine*    
-> aige air an robh <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark>. – *nominative masculine*  
+> B’ e **Cumhal** – *nominative masculine proper*  
+> a b’ **ainm** – *nominative masculine abstract*  
+> air aon de na **daoine** – *dative plural*  
+> seo, agus bha **mac** – *nominative masculine*    
+> aige air an robh **Fionn**. – *nominative masculine proper*  
 >  
-> Nuair a bha <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> – *nominative masculine*  
-> ’na <mark title="dative, masculine, common, concrete: ‘infant’">leanabh</mark> – *dative masculine*  
-> beag, mharbhadh ’<mark title="nominative, masculine, common, concrete: ‘father’">athair</mark> – *nominative masculine*  
-> ann an aon de na <mark title="dative, plural, common, abstract: ‘battles’">blàraibh</mark> – *dative plural*  
-> a chuir an <mark title="nominative, feminine, common, concrete: ‘warrior class’">Fhiann</mark> – *nominative feminine*  
-> ’nam <mark title="dative, masculine, common, abstract: ‘midst’">measg</mark> – *dative masculine*  
+> Nuair a bha **Fionn** – *nominative masculine proper*  
+> ’na **leanabh** – *dative masculine*  
+> beag, mharbhadh ’**athair** – *nominative masculine*  
+> ann an aon de na **blàraibh**– *dative plural abstract*  
+> a chuir an **Fhiann** – *nominative feminine*  
+> ’nam **measg** – *dative masculine abstract*  
 > fhéin.
 >
 > Bha <mark title="nominative, masculine, common, abstract: ‘fear’">eagal</mark> – *nominative masculine*  
@@ -171,7 +183,11 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 > **Is** – independent future  
 > i siud a’ chiad shealg a **rinn** – independent past  
 > Fionn.
->
+
+## Adjectives
+
+
+
 > Ged nach **robh** – dependent past  
 > e a-riamh ann an sgoil mar a **tha** – independent present  
 > na gillean an-diugh, cha **robh** – dependent past  
