@@ -11,7 +11,7 @@ This story is taken from Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leug
 
 ```
 Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann.
-B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn
+B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.
 Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
 Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.
 Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
