@@ -64,44 +64,77 @@ Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is an
 > **bhan** – *genitive plural*   
 > eòlach.  
 >
-> Phòs a <mark title="nominative, feminine, common, concrete: ‘mother’">mhàthair</mark> – *nominative feminine*  
-> <mark title="nominative, masculine, common, concrete: ‘king’">rìgh</mark> – *nominative masculine*  
-> àraidh an <mark title="dative, feminine, common, abstract: ‘wish, desire’ (?)">déidh</mark> – *dative feminine*  
-> sin, ach cha do leig i <mark title="nominative, masculine, proper, concrete: ‘Finn’">Fionn</mark> – *nominative masculine*  
-> beag às a <mark title="dative, feminine, common, abstract: ‘attention’">h-aire</mark>. – *dative feminine*  
+> Phòs a **mhàthair** – *nominative feminine*  
+> **rìgh** – *nominative masculine*  
+> àraidh an **déidh** – *dative feminine abstract*  
+> sin, ach cha do leig i **Fionn** – *nominative masculine proper*  
+> beag às a **h-aire**. – *dative feminine abstract*  
 >
-> Dh’fhalbh i <mark title="nominative, masculine, common, abstract: ‘distance’">astar</mark> – *nominative masculine*  
-> fada troimh <mark title="dative, feminine, common, concrete: ‘land’">thìr</mark> – *dative feminine*  
-> fhàsail gus an do lorg i an <mark title="nominative, masculine, common, abstract: ‘place’">t-àite</mark> – *nominative masculine*  
-> anns an robh an <mark title="nominative, masculine, common, concrete: ‘infant’">leanabh</mark>. – *nominative masculine*  
+> Dh’fhalbh i **astar** – *nominative masculine abstract*  
+> fada troimh **thìr** – *dative feminine*  
+> fhàsail gus an do lorg i an **t-àite** – *nominative masculine abstract*  
+> anns an robh an **leanabh**. – *nominative masculine*  
 >
-> Fhuair i e ’na <mark title="dative, feminine, common, abstract: ‘slumber’">shuain</mark> – *dative feminine*  
-> <mark title="genitive, masculine, common, abstract: ‘sleeping’">chadail</mark>, – *genitive masculine*  
-> agus thog i e ’na <mark title="dative, plural, common, concrete: ‘hands’">làmhan</mark> – *dative plural*  
+> Fhuair i e ’na **shuain** – *dative feminine abstract*  
+> **chadail**, – *genitive masculine abstract*  
+> agus thog i e ’na **làmhan** – *dative plural*  
 > gu sèimh socrach, agus phòg i e.  
 >
-> Sheinn i <mark title="nominative, masculine, common, abstract: ‘tune’">crònan</mark> – *nominative masculine*  
+> Sheinn i **crònan** – *nominative masculine abstract*  
 > milis binn dha, agus an sin thog i oirre.  
 >
-> Bha an <mark title="nominative, feminine, common, concrete: ‘(group of) two people’">dithis</mark> <mark title="genitive|nominative (?), plural, common, concrete: ‘women’">mhnathan</mark> ud a’ <mark title="dative (?), feminine, common, abstract: ‘giving’">toirt</mark> an <mark title="dative|genitive (?), feminine, common, abstract: ‘attention’">aire</mark> air gus an do dh’fhàs e suas.
+> Bha an **dithis** – *nominative feminine*  
+> **bhan** – *genitive plural*  
+> ud a’ **toirt** – *dative feminine abstract*  
+> an **aire** – *dative feminine abstract*  
+> air gus an do dh’fhàs e suas.
 >
-> <mark title="nominative|dative (?), masculine, common, abstract: ‘day’">Latha</mark> de na <mark title="dative, plural, common, abstract: ‘days’">làithean</mark> chaidh e a-mach agus chunnaic e <mark title="nominative, feminine, common, concrete: ‘duck’">lach</mark> a’ <mark title="dative (?), masculine, common, abstract: ‘swimming’">snàmh</mark> air <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark>.
+> **Latha** – *nominative masculine abstract*  
+> de na **làithean** – *dative plural abstract*  
+> chaidh e a-mach agus chunnaic e **lach** – *nominative feminine*  
+> a’ **snàmh** – *dative masculine abstract*  
+> air **loch**. – *dative masculine*  
 >
-> Thilg e <mark title="nominative, feminine, common, concrete: ‘shot, stone’">urchair</mark> oirre, agus gheàrr sin na <mark title="nominative, plural, common, concrete: ‘wings’">sgiathan</mark> aice.
+> Thilg e **urchair** – *nominative feminine*  
+> oirre, agus gheàrr sin na **sgiathan** – *nominative plural*  
+> aice.
 >
 > Rug e oirre agus thug e leis dhachaidh i.
 >
-> Is i siud a’ chiad <mark title="nominative, feminine, common, abstract: ‘hunt(ing)’">shealg</mark> a rinn <mark title="nominative, masculine, common, concrete: ‘Finn’">Fionn</mark>.
+> Is i siud a’ chiad **shealg** – *nominative feminine abstract*  
+> a rinn **Fionn**. – *nominative masculine*  
 >
-> Ged nach robh e a-riamh ann an <mark title="dative, feminine, common, concrete: ‘school’">sgoil</mark> mar a tha na <mark title="nominative, plural, common, concrete: ‘boys’">gillean</mark> an-diugh, cha robh e idir a’ <mark title="dative (?), masculine, common, abstract: ‘putting, sending’">cur</mark> seachad a <mark title="nominative, plural, common, abstract: ‘days’">làithean</mark> ’na <mark title="dative, masculine, common, abstract: ‘repose’">thàmh</mark>.
+> Ged nach robh e a-riamh ann an **sgoil** – *dative feminine*  
+> mar a tha na **gillean** – *nominative plural*  
+> an-diugh, cha robh e idir a’ **cur** – *dative masculine abstract*  
+> seachad a **làithean** – *nominative plural abstract*  
+> ’na **thàmh**. – *dative masculine abstract*
 >
-> Bhiodh e a’ <mark title="dative, masculine, common, abstract: ‘swimming’">snàmh</mark> gach dàrna <mark title="nominative, masculine, common, abstract: ‘day’">latha</mark>.
+> Bhiodh e a’ **snàmh** – *dative masculine abstract*  
+> gach dàrna **latha**. – *nominative masculine abstract*  
 >
-> Chuireadh na <mark title="nominative, plural, common, concrete: ‘women’">mnathan</mark> a-mach air an <mark title="dative, masculine, common, concrete: ‘lake’">loch</mark> e, agus leigeadh iad leis <mark title="nominative, feminine, common, abstract: ‘coming’">tighinn</mark> gu <mark title="dative, feminine, common, concrete: ‘land’">tìr</mark> mar a b’ fheàrr a dh’fhaodadh e.
+> Chuireadh na **mnathan** – *nominative plural*  
+> a-mach air an **loch** – *dative masculine*  
+> e, agus leigeadh iad leis **tighinn** – *nominative feminine abstract*  
+> gu **tìr** – *dative feminine*  
+> mar a b’ fheàrr a dh’fhaodadh e.
 >
-> Rachadh e a-mach don <mark title="dative, masculine, common, concrete: ‘field’">achadh</mark> far an robh <mark title="nominative, plural, common, concrete: ‘hares’">gearrain</mark> gu <mark title="dative, feminine, common, abstract: ‘sufficiency’">leòr</mark> a’ <mark title="dative, feminine, common, abstract: ‘running’">ruith</mark> bho <mark title="dative, masculine, common, concrete: ‘hill’">chnoc</mark> gu <mark title="dative, masculine, common, concrete: ‘hill’">cnoc</mark>.
+> Rachadh e a-mach don **achadh** – *dative masculine*  
+> far an robh **gearrain** – *nominative plural*  
+> gu **leòr** – *dative feminine abstract*  
+> a’ **ruith** – *dative feminine abstract*  
+> bho **chnoc** – *dative masculine*  
+> gu **cnoc**. – *dative masculine*  
 >
-> Bha aige ri an <mark title="dative, feminine, common, abstract: ‘restraining’">cumail</mark> ’nan <mark title="dative, masculine, common, concrete?: ‘ring of people’">cròileagan</mark> cruinn ann am <mark title="dative, masculine, common, concrete: ‘thicket’">badan</mark> àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan féidh.
+> Bha aige ri an **cumail** – *dative feminine abstract*  
+> ’nan **cròileagan** – *dative masculine*  
+> cruinn ann am **badan** – *dative masculine*  
+> àraidh, agus is ann le **bhith** – *dative feminine abstract*  
+> sìor **ruith** – *dative feminine abstract*  
+> timcheall orra a bha a **chasan** – *nominative plural*  
+> mu **dheireadh** – *dative masculine abstract*  
+> cho luath ri **casan** – *dative plural*  
+> **féidh**. – *genitive masculine*  
 
 [Back to top](#sample-text-fionn)
 
