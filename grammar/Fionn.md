@@ -226,4 +226,56 @@ Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is an
 
 ## Adjectives
 
+> Nuair a bha an saoghal **òg**  
+> bha daoine **treuna**  
+> ann, ris an canadh iad an Fhiann.  
+> 
+> B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.  
+> 
+> Nuair a bha Fionn ’na leanabh **beag**,  
+> mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.  
+> 
+> Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean **fàsail**  
+> air chùram dithis bhan **eòlach**.
+> 
+> Phòs a mhàthair rìgh **àraidh**  
+> an déidh sin, ach cha do leig i Fionn **beag**  
+> às a h-aire.
+> 
+> Dh’fhalbh i astar **fada**  
+> tro thìr **fhàsail**  
+> gus an do lorg i an t-àite anns an robh an leanabh.
+>
+> Fhuair i e ’na shuain chadail, agus thog i e ’na làmhan gu **sèimh**  
+> **socrach**,  
+> agus phòg i e.
+> 
+> Sheinn i crònan **milis**  
+> **binn**  
+> dha, agus an sin thog i oirre.  
+> 
+> Bha an dithis bhan ud a’ toirt an aire air gus an d’ fhàs e suas.  
+> 
+> Latha de na làithean chaidh e a-mach agus chunnaic e lach a’ snàmh air loch.  
+> 
+> Thilg e urchair oirre, agus gheàrr sin na sgiathan aice.  
+> 
+> Rug e oirre agus thug e leis dhachaidh i.  
+> 
+> Is i siud a’ chiad shealg a rinn Fionn.  
+> 
+> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.  
+> 
+> Bhiodh e a’ snàmh gach dàrna latha.  
+> 
+> Chuireadh na mnathan a-mach air an loch e, agus leigeadh iad leis tighinn gu tìr mar a b’ **fheàrr**  
+> a dh’fhaodadh e.  
+> 
+> Rachadh e a-mach don achadh far an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.  
+> 
+> Bha aige ri an cumail ’nan cròileagan **cruinn**  
+> ann am badan **àraidh**,
+> agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho **luath**  
+> ri casan féidh.
+
 [Back to top](#sample-text-fionn)
