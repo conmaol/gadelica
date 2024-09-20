@@ -340,13 +340,17 @@ In the first example, the nominative masculine proper noun `Cumhal` is modified 
 
 In the second example, the nominative masculine common noun `balach` is similarly modified by the particle `a` (which here takes the verb `deach` as its complement) – `am balach nach deach a-mach don achadh` ‘the boy who didn’t go out to the field’.
 
-##### far
+##### The locative relative clause particle *far*
 
-Common nouns can also be modified by the locative relative clause particle `far` ‘where’.
+The locative relative clause particle `far` ‘where’ can also be used to modify both common and proper nouns (specifically placenames).
 
-> Rachadh e a-mach don **achadh far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
+> Rachadh e a-mach don **achadh** **far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
+>
+> 🧩 Bha Fionn ann an **Glaschu**, **far** an do mharbhadh ’athair.
 
-In this example, the dative masculine common noun `achadh` ‘a field’ is modified by the locative relative clause particle `far` ‘where’ (which takes as its complement the positive interrogative verb particle `an`, which itself takes the verb `robh` ‘was’ as its complement) – `achadh far an robh gearrain a’ ruith` ‘a field where hares were running’.
+In the first example, the dative masculine common noun `achadh` is modified by the particle `far` (which takes as its complement the positive interrogative verb particle `an`) – `an t-achadh far an robh gearrain a’ ruith` ‘the field where hares were running’.
+
+In the second example, it is the proper noun `Glaschu` which is modified by `far` – `Glasgow, where his father was killed`.
 
 ##### Prepositional relative clause particles
 
