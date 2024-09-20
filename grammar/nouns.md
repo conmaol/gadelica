@@ -33,33 +33,33 @@ The following passage is adapted from the story *[Fionn](Fionn.md)* in Lachlann 
 > Bha **eagal** air a **mhàthair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
 
 The concrete nouns in this passage are
-*saoghal* ‘a world’,
-*daoine* ‘men’,
-*Fhiann* ‘warriors’,
-*Cumhall* ‘Cumhall’,
-*mac* ‘a son’,
-*Fionn* ‘Finn’,
-*leanabh* (*leinibh*) ‘an infant’,
-*athair* (*athar*) ‘a father’,
-*mhàthair* ‘a mother’,
-*naimhdean* ‘enemies’,
-*coilltean* ‘forests’,
-*dithis* ‘a group of two people’ and
-*bhan* ‘women’.
+`saoghal` ‘a world’,
+`daoine` ‘men’,
+`Fhiann` ‘warriors’,
+`Cumhall` ‘Cumhall’,
+`mac` ‘a son’,
+`Fionn` ‘Finn’,
+`leanabh / leinibh` ‘an infant’,
+`athair / athar` ‘a father’,
+`mhàthair` ‘a mother’,
+`naimhdean` ‘enemies’,
+`coilltean` ‘forests’,
+`dithis` ‘a group of two people’ and
+`bhan` ‘women’.
 
 The abstract nouns in the passage are 
-*ainm* ‘a name’,
-*blàraibh* ‘battles’,
-*measg* ‘midst’,
-*eagal* ‘fear’,
-*tòir* ‘a pursuit’ and
-*chùram* ‘care’.
+`ainm` ‘a name’,
+`blàraibh` ‘battles’,
+`measg` ‘midst’,
+`eagal` ‘fear’,
+`tòir` ‘a pursuit’ and
+`chùram` ‘care’.
 
 Notes:
 
-- Some readers might be uncomfortable seeing words like *measg*, *tòir* and perhaps even *chùram* classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – *measg*, *tòir* and *chùram* are *both* components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
+- Some readers might be uncomfortable seeing words like `measg`, `tòir` and perhaps even `chùram` classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – `measg`, `tòir` and `chùram` are *both* components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
   
-- The (concrete) noun *dithis* ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
+- The (concrete) noun `dithis` ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 
 - Nouns have been defined in broadly similar terms by other grammarians of Gaelic:
   > Nouns are a time-stable class denoting entities, places and objects, as well as concepts that have similar grammatical behaviour. Examples of nouns are *ubhal* ‘apple’, *nighean* ‘girl’, *clann* ‘children’, *beachd* ‘opinion’, *astar* ‘distance’, *Dòmhnall* ‘Donald’ and *Glaschu* ‘Glasgow’. (Lamb 2024: 37)
@@ -72,36 +72,36 @@ Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-cha
 
 ### Proper nouns and common nouns
 
-Parallel to the disctinction between concrete and abstract nouns, nouns can be further sub-classified according to the nature of their denotation, or the way in which they relate to entities in the world.
+Alongside the distinction between concrete and abstract nouns, nouns can be further sub-classified according to the nature of their denotation, or the way in which they relate to entities in the world.
 
 *Proper nouns* are names of particular entities
 
 *Common nouns* denote classes of entity
 
-In the ‘Fionn’ passage from the previous section, there are two proper nouns – *Cumhal* ‘Cumhall’ and *Fionn* ‘Finn’. 
+In the ‘Fionn’ passage from the previous section, there are two proper nouns – `Cumhal` ‘Cumhall’ and `Fionn` ‘Finn’. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns – 
-*saoghal* ‘a world’,
-*daoine* ‘men’,
-*Fhiann* ‘warriors’,
-*ainm* ‘a name’,
-*mac* ‘a son’,
-*leanabh* (*leinibh*) ‘an infant’,
-*athair* (*athar*) ‘a father’,
-*blàraibh* ‘battles’,
-*measg* ‘midst’,
-*eagal* ‘fear’,
-*mhàthair* ‘a mother’,
-*naimhdean* ‘enemies’,
-*tòir* ‘a pursuit’,
-*coilltean* ‘forests’,
-*chùram* ‘care’,
-*dithis* ‘a group of two people’ and
-*bhan* ‘women’.
+`saoghal` ‘a world’,
+`daoine` ‘men’,
+`Fhiann` ‘warriors’,
+`ainm` ‘a name’,
+`mac` ‘a son’,
+`leanabh / leinibh` ‘an infant’,
+`athair / athar` ‘a father’,
+`blàraibh` ‘battles’,
+`measg` ‘midst’,
+`eagal` ‘fear’,
+`mhàthair` ‘a mother’,
+`naimhdean` ‘enemies’,
+`tòir` ‘a pursuit’,
+`coilltean` ‘forests’,
+`chùram` ‘care’,
+`dithis` ‘a group of two people’ and
+`bhan` ‘women’.
 
 Notes:
 
-- Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, *Fhiann* ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase, *an Fhiann* ‘the Warriors’, which is being presented as the name of a particular group of men (cf. ‘the Fenians’). Moreover, even though *an Fhiann* is a name, it would be incorrect to characterise it as a proper noun, since it is not a noun.
+- Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, `Fhiann` ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase, `an Fhiann` ‘the Warriors’, which is being presented as the name of a particular group of men (cf. ‘the Fenians’). Moreover, even though `an Fhiann` is a name, it would be incorrect to characterise it as a proper noun, since it is not a noun.
   
 - The dimensions of concrete vs. abstract and proper vs. common are not truly orthogonal. It seems that all proper nouns are concrete, and hence that all abstract nouns are common.
 
@@ -113,7 +113,7 @@ Notes:
   >
   > *noun*: the name of a thing or concept (e.g. “train”, “beauty”) or of a person or place (i.e. proper nouns, e.g. “Dr Who”, “Italy”). (Byrne 2002: 15)
   
-- Note that Cox (2017: §56) lists five other classes of noun in addition to (and seemingly independent of) common and proper nouns: collective nouns (*ainmear trusaidh* eg. *clann*, *crodh*); quantity nouns (*ainmear meud* eg. *falt*, *bainne*); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. *taigh-beag*, *cailleach-dhubh*); and verbal nouns (*ainmear gnìomhaireach* eg. *dèanamh*, *ithe*). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
+- Note that Cox (2017: §56) lists five other classes of noun in addition to (and seemingly independent of) common and proper nouns: collective nouns (*ainmear trusaidh* eg. `clann`, `crodh`); quantity nouns (*ainmear meud* eg. `falt`, `bainne`); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. `taigh-beag`, `cailleach-dhubh`); and verbal nouns (*ainmear gnìomhaireach* eg. `dèanamh`, `ithe`). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
 Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
 
@@ -136,17 +136,17 @@ Recall the *[Fionn](Fionn.md)* example passage from the previous section, reprod
 >
 > Bha **eagal** air a **mhathair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
 
-The feminine nouns in this passage are *Fhiann* ‘warriors’, *mhàthair* ‘a mother’, *tòir* ‘a pursuit’ and *dithis* ‘a group of two people’.
+The feminine nouns in this passage are `Fhiann` ‘warriors’, `mhàthair` ‘a mother’, `tòir` ‘a pursuit’ and `dithis` ‘a group of two people’.
 
-The plural nouns are *daoine* ‘men’, *blàraibh* ‘battles’, *naimhdean* ‘enemies’, *coilltean* ‘forests’ and *bhan* ‘women’.
+The plural nouns are `daoine` ‘men’, `blàraibh` ‘battles’, `naimhdean` ‘enemies’, `coilltean` ‘forests’ and `bhan` ‘women’.
 
-All the other nouns in the passage, whether proper or common, are masculine nouns – *saoghal* ‘a world’, *Cumhall* ‘Cumhal’, *ainm* ‘a name’, *mac* ‘a son’, *Fionn* ‘Finn’, *leanamh*/*leinibh* ‘an infant’, *athair*/*athar* ‘a father’, *measg* ‘midst’, *eagal* ‘fear’ and *chùram* ‘care’.
+All the other nouns in the passage, whether proper or common, are masculine nouns – `saoghal` ‘a world’, `Cumhall` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’, `leanabh / leinibh` ‘an infant’, `athair / athar` ‘a father’, `measg` ‘midst’, `eagal` ‘fear’ and `chùram` ‘care’.
 
 Notes:
   
 - Traditional descriptions of Gaelic grammar usually distinguish between the two, allegedly orthogonal, grammatical categories of *gender* (feminine or masculine) and *number* (singular or plural). However, these categories are clearly *not* orthogonal in modern Gaelic, since there is no gender distinction whatsoever in the plural – plural nouns derived from feminine singulars behave in exactly the same way as those derived from masculine singulars. Therefore, it seems clear that ‘plural number’ in modern Gaelic is more accurately treated as a third (non-sex-based) grammatical gender.
   
-- It is an exaggeration to claim that modern Gaelic has a third grammatical number – the ‘dual’. The relevant phenomena are more realistically explained as involving a handful of legacy inflectional peculiarities conditioned by the cardinal numeral *dà* ‘two’.
+- It is an exaggeration to claim that modern Gaelic has a third grammatical number – the ‘dual’. The relevant phenomena are more realistically explained as involving a handful of legacy inflectional peculiarities conditioned by the cardinal numeral `dà` ‘two’.
 
 - Gender (in the sense assumed here) is only partially orthogonal to the distinction between proper and common nouns. While proper nouns can be either feminine or masculine, there appear to be no grammatically plural proper nouns. However, common nouns can be either feminine or masculine or plural.
 
@@ -172,15 +172,15 @@ Coming back to this:
 >
 > Bha **eagal** air a **mhathair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
 
-In this passage, the dative nouns are *daoine* ‘men’ (the second occurence), *leanabh* ‘an infant’, *blàraibh* ‘battles’, *measg* ‘midst’, *mhàthair* ‘a mother’, *tòir* ‘a pursuit’, *coilltean* ‘forests’ and *chùram* ‘care’.
+In this passage, the dative nouns are `daoine` ‘men’ (the second occurence), `leanabh` ‘an infant’, `blàraibh` ‘battles’, `measg` ‘midst’, `mhàthair` ‘a mother’, `tòir` ‘a pursuit’, `coilltean` ‘forests’ and `chùram` ‘care’.
 
-The genitive nouns are *athar* ‘a father’, *leinibh* ‘an infant’, *dithis* ‘a group of two people’ and *bhan* ‘women’.  
+The genitive nouns are `athar` ‘a father’, `leinibh` ‘an infant’, `dithis` ‘a group of two people’ and `bhan` ‘women’.  
 
-All the other nouns in the passage are nominative nouns – *saoghal* ‘a world’, *daoine* ‘men’ (the first occurence), *Fhiann* ‘warriors’ (both occurences), *Cumhal* ‘Cumhal’, *ainm* ‘a name’, *mac* ‘a son’, *Fionn* ‘Finn’ (both occurences), *athair* ‘a father’, *eagal* ‘fear’ and *naimhdean* ‘enemies’.
+All the other nouns in the passage are nominative nouns – `saoghal` ‘a world’, `daoine` ‘men’ (the first occurence), `Fhiann` ‘warriors’ (both occurences), `Cumhal` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’ (both occurences), `athair` ‘a father’, `eagal` ‘fear’ and `naimhdean` ‘enemies’.
 
 Notes:
 
-- Traditional descriptions of Gaelic grammar commonly mention the ‘vocative’ as a fourth case. However, the vocative is not strictly speaking a grammatical case since it does not mark a syntactic relation between the noun and another verb, preposition, adjective or noun in the same sentence. For this reason, we will treat the vocative as a handful of inflectional idiosyncracies conditioned by the vocative particle *a*.
+- Traditional descriptions of Gaelic grammar commonly mention the ‘vocative’ as a fourth case. However, the vocative is not strictly speaking a grammatical case since it does not mark a syntactic relation between the noun and another verb, preposition, adjective or noun in the same sentence. For this reason, we will treat the vocative as a handful of inflectional idiosyncracies conditioned by the vocative particle `a`.
 
 - Case is fully orthogonal to the other noun categories discussed thus far – proper vs. common nouns, and feminine vs. masculine vs. plural nouns.
 
