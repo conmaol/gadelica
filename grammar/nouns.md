@@ -370,15 +370,41 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 
 ### Specifiers of nouns
 
+A noun can have exactly one specifier. 
+
+#### Determiners
+
+A common noun can have a pre-specifier, which must be either a form of the definite article, or another determiner.
+
+> Nuair a bha **an saoghal** òg bha daoine treuna ann, ris an canadh iad **an Fhiann**.
+
+> Nuair a bha Fionn ’n**a** leanabh beag, mharbhadh **’** athair ann an aon de na blàraibh a chuir an Fhiann ’n**am** measg fhéin.
+
+> Bhiodh e a’ snàmh **gach** dàrna **latha**.
+
+#### Post-specifiers
+
 naimhdean athar
 
 tòir an leinibh
 
 cùram dithis
 
-dithis mhnathan
-
 déidh sin
+
+casan féidh
+
+bean/mac Cumhaill
+
+
+
+
+Proper nouns
+
+Fionn Chumhaill?
+
+Cumhall na Féinne
+
 
 ### Apposition
 
