@@ -306,6 +306,8 @@ In this examples, the nominative feminine common noun `lach` ‘duck’ is modif
 
 It is not clear whether *proper nouns* can also be modified by prepositions, since there are no examples in the current text being analysed.
 
+(Cumhall à Glaschu)
+
 Notes:
   
 - Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
