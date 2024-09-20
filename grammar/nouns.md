@@ -207,7 +207,7 @@ If a noun has no grammatical dependents of any kind, it is known as a ‘bare’
 >
 > Is i siud a’ chiad shealg a rinn **Fionn**.
 
-Note that unless otherwise specified all examples are taken from the *[Fionn](Fionn.md)* text.
+Note that unless otherwise specified all examples are adapted from the *[Fionn](Fionn.md)* text. Invented examples are marked as 🧩.
 
 In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects) of verbs, respectively `b’`, `robh` and `rinn`. 
 
@@ -314,17 +314,41 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 
 #### Relative clause particles as modifiers of nouns
 
-A noun can have a relative clause particle as a modifier.
+A noun can have one of the relative clause particles as a modifier.
 
-*Common nouns* can be modified by the positive particle `a` ‘who(m), which, that’.
+##### The positive relative clause particle *a*
 
-> Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na **blàraibh a** chuir an Fhiann ’nam measg fhéin.
+Both proper and common nouns can be modified by the positive relative clause particle `a`.
+
+> 🧩 Mharbhadh **Cumhal**, **a** bha ’na rìgh àraidh.
 > 
 > Is i siud a’ chiad **shealg a** rinn Fionn.
 
-In the first example, the dative plural common noun `blàraibh` ‘battles’ is modified by the positive relative clause particle `a` ‘which, that’ (which itself has the verb `chuir` as complement) – `blàraibh a chuir an Fhiann ’nam measg fhéin` ‘battles which sent the Fianna among themselves’.
+In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `a` (which itself has the verb `bha` as its complement) – `Cumhal, a bha ’na rìgh àraidh` ‘Cumhal, who was an exceptional king’
 
-In the second example, The nominative feminine common noun `shealg` ‘hunt’ is also modified by `a` (which takes the verb `rinn` ‘did’ as its own complement) – `shealg a rinn Fionn` ‘hunt which Finn did’.
+In the second example, the nominative feminine common noun `shealg` is similarly modified by the particle `a` (which here takes the verb `rinn` as its complement) – `a’ chiad shealg a rinn Fionn` ‘the first hunt that Finn did’.
+
+##### The negative relative clause particle *nach*
+
+Similarly, both proper and common nouns can be modified by the negative relative clause particle `nach`.
+
+> 🧩 Mharbhadh **Cumhal**, **nach** robh ’na rìgh àraidh.
+>
+> 🧩 Is e siud am **balach** **nach** deach a-mach don achadh.
+
+In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `nach` (which itself has the verb `robh` as its complement) – `Cumhal, nach robh ’na rìgh àraidh` ‘Cumhal, who was not an exceptional king’
+
+In the second example, the nominative masculine common noun `balach` is similarly modified by the particle `a` (which here takes the verb `deach` as its complement) – `am balach nach deach a-mach don achadh` ‘the boy who didn’t go out to the field’.
+
+##### far
+
+Common nouns can also be modified by the locative relative clause particle `far` ‘where’.
+
+> Rachadh e a-mach don **achadh far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
+
+In this example, the dative masculine common noun `achadh` ‘a field’ is modified by the locative relative clause particle `far` ‘where’ (which takes as its complement the positive interrogative verb particle `an`, which itself takes the verb `robh` ‘was’ as its complement) – `achadh far an robh gearrain a’ ruith` ‘a field where hares were running’.
+
+##### Prepositional relative clause particles
 
 Common nouns can also be modified by prepositional relative clause particles.
 
@@ -336,11 +360,7 @@ In the first example here, the nominative plural common noun `daoine` ‘men’ 
 
 In the second example, the nominative masculine common noun `t-àite` ‘place’ is modified by the prepositional relative clause particle `anns` ‘in which’ (which also takes as complement the positive interrogative verb particle `an`, which itself takes as complement the verb `robh` ‘was’) – `àite anns an robh an leanabh` ‘place in which the infant was’.
 
-Common nouns can also be modified by the locative relative clause particle `far` ‘where’.
 
-> Rachadh e a-mach don **achadh far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
-
-In this example, the dative masculine common noun `achadh` ‘a field’ is modified by the locative relative clause particle `far` ‘where’ (which takes as its complement the positive interrogative verb particle `an`, which itself takes the verb `robh` ‘was’ as its complement) – `achadh far an robh gearrain a’ ruith` ‘a field where hares were running’.
 
 It is not clear whether *proper nouns* can also be modified by relative clause particles, since there are no examples in the current text being analysed.
 
