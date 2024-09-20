@@ -350,7 +350,7 @@ The locative relative clause particle `far` ‘where’ can also be used to modi
 
 In the first example, the dative masculine common noun `achadh` is modified by the particle `far` (which takes as its complement the positive interrogative verb particle `an`) – `an t-achadh far an robh gearrain a’ ruith` ‘the field where hares were running’.
 
-In the second example, it is the proper noun `Glaschu` which is modified by `far` – `Glasgow, where his father was killed`.
+In the second example, it is the proper noun `Glaschu` which is modified by `far` – ‘Glasgow, where his father was killed’.
 
 ##### Prepositional relative clause particles
 
