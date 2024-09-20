@@ -207,7 +207,7 @@ If a noun has no grammatical dependents of any kind, it is known as a ‘bare’
 >
 > Is i siud a’ chiad shealg a rinn **Fionn**.
 
-Note that unless otherwise specified all examples are adapted from the *[Fionn](Fionn.md)* text. Invented examples are marked as 🧩.
+Note that unless otherwise specified all examples are adapted from the *[Fionn](Fionn.md)* text. Invented examples are marked as ♾️.
 
 In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects) of verbs, respectively `b’`, `robh` and `rinn`. 
 
@@ -322,7 +322,7 @@ A noun can have one of the relative clause particles as a modifier.
 
 Both proper and common nouns can be modified by the positive relative clause particle `a`.
 
-> 🧩 Mharbhadh **Cumhal**, **a** bha ’na rìgh àraidh.
+> ♾️ Mharbhadh **Cumhal**, **a** bha ’na rìgh àraidh.
 > 
 > Is i siud a’ chiad **shealg a** rinn Fionn.
 
@@ -334,9 +334,9 @@ In the second example, the nominative feminine common noun `shealg` is similarly
 
 Similarly, both proper and common nouns can be modified by the negative relative clause particle `nach`.
 
-> 🧩 Mharbhadh **Cumhal**, **nach** robh ’na rìgh àraidh.
+> ♾️ Mharbhadh **Cumhal**, **nach** robh ’na rìgh àraidh.
 >
-> 🧩 Is e siud am **balach** **nach** deach a-mach don achadh.
+> ♾️ Is e siud am **balach** **nach** deach a-mach don achadh.
 
 In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `nach` (which itself has the verb `robh` as its complement) – `Cumhal, nach robh ’na rìgh àraidh` ‘Cumhal, who was not an exceptional king’
 
@@ -348,7 +348,7 @@ The locative relative clause particle `far` ‘where’ can also be used to modi
 
 > Rachadh e a-mach don **achadh** **far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
 >
-> 🧩 Bha Fionn ann an **Glaschu**, **far** an do mharbhadh ’athair.
+> ♾️ Bha Fionn ann an **Glaschu**, **far** an do mharbhadh ’athair.
 
 In the first example, the dative masculine common noun `achadh` is modified by the particle `far` (which takes as its complement the positive interrogative verb particle `an`) – `an t-achadh far an robh gearrain a’ ruith` ‘the field where hares were running’.
 
@@ -358,7 +358,7 @@ In the second example, it is the proper noun `Glaschu` which is modified by `far
 
 Both proper nouns and common nouns can also be modified by prepositional relative clause particles.
 
-> 🧩 Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
+> ♾️ Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
 >
 > Nuair a bha an saoghal òg bha **daoine** treuna ann, **ris** an canadh iad an Fhiann.
 
@@ -394,16 +394,16 @@ déidh sin
 
 casan féidh
 
-bean/mac Cumhaill
+♾️ bean/mac Cumhaill
 
 
 
 
 Proper nouns
 
-Fionn Chumhaill?
+♾️ Fionn Chumhaill?
 
-Cumhall na Féinne
+♾️ Cumhall na Féinne
 
 
 ### Apposition
