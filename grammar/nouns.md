@@ -342,7 +342,7 @@ In the second example, the nominative masculine common noun `balach` is similarl
 
 ##### The locative relative clause particle *far*
 
-The locative relative clause particle `far` ‘where’ can also be used to modify both common and proper nouns (specifically placenames).
+The locative relative clause particle `far` ‘where’ can also be used to modify both common and proper nouns (specifically those denoting places).
 
 > Rachadh e a-mach don **achadh** **far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
 >
@@ -354,19 +354,15 @@ In the second example, it is the proper noun `Glaschu` which is modified by `far
 
 ##### Prepositional relative clause particles
 
-Common nouns can also be modified by prepositional relative clause particles.
+Both proper nouns and common nouns can also be modified by prepositional relative clause particles.
 
-> Nuair a bha an saoghal òg bha **daoine** treuna ann, **ris** an canadh iad an Fhiann.
+> 🧩 Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
 >
-> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an **t-àite anns** an robh an leanabh.
+> Nuair a bha an saoghal òg bha **daoine** treuna ann, **ris** an canadh iad an Fhiann.
 
-In the first example here, the nominative plural common noun `daoine` ‘men’ is modified by the prepositional relative clause particle `ris` ‘against whom’ (which takes as complement the positive interrogative verb particle `an`, which itself takes as complement the verb `canadh` ‘would say’) – `daoine ris an canadh iad an Fhiann` ‘men against whom they would say the Fianna (ie. men whom they would call the Fianna)’.
+In the first example here, the nominative masculine proper noun `Cumhall` is modified by the prepositional relative `aig` – `Cumhall, aig an robh dithis bhan` ‘Cumhall, who had two wives’.
 
-In the second example, the nominative masculine common noun `t-àite` ‘place’ is modified by the prepositional relative clause particle `anns` ‘in which’ (which also takes as complement the positive interrogative verb particle `an`, which itself takes as complement the verb `robh` ‘was’) – `àite anns an robh an leanabh` ‘place in which the infant was’.
-
-
-
-It is not clear whether *proper nouns* can also be modified by relative clause particles, since there are no examples in the current text being analysed.
+In the second example here, the nominative plural common noun `daoine` is modified by the prepositional relative clause particle `ris` – `na daoine ris an canadh iad an Fhiann` ‘the men against whom they would say the Fenians (ie. the men whom they would call the Fenians)’.
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
