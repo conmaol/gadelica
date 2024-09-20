@@ -226,7 +226,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 ### Modifiers of nouns
 
 - Adjectives as modifiers of nouns
-- [Genitive nouns as modifiers of other nouns](genitive-nouns-as-modifiers-of-other-nouns)
+- [Genitive common nouns as modifiers of other nouns](genitive-common-nouns-as-modifiers-of-other-nouns)
 - [Prepositions as modifiers of nouns](prepositions-as-modifiers-of-nouns)
 - [Relative clause particles as modifiers of nouns](#relative-clause-particles-as-modifiers-of-nouns)
 
@@ -256,23 +256,23 @@ In the third example, the nominative masculine common noun `crònan` ‘tune’ 
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatial-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
-#### Genitive nouns as modifiers of other nouns
+#### Genitive common nouns as modifiers of other nouns
 
-A noun can have a genitive noun modifier.
+A noun can have a genitive common noun modifier.
 
-*Common nouns* can be modified by *non-plural* (feminine or masculine) genitive nouns.
+*Common nouns* can be modified by *non-plural* (feminine or masculine) genitive common nouns.
 
 > Fhuair i e ’na **shuain chadail**, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.
 
-In this example, the dative feminine common noun `shuain` ‘slumber’ is modified by the masculine genitive noun `chadail` ‘sleep’ – `shuain chadail` ‘slumber of sleep, sleepy slumber’.
+In this example, the dative feminine common noun `shuain` ‘slumber’ is modified by the masculine genitive common noun `chadail` ‘sleep’ – `shuain chadail` ‘slumber of sleep, sleepy slumber’.
 
-Common nouns can also be modified by *plural* genitive nouns.
+Common nouns can also be modified by *plural* genitive common nouns.
 
 > Bha an **dithis bhan** ud a’ toirt an aire air gus an do dh’fhàs e suas.
 
-The nominative feminine common noun `dithis` ‘a group of two people’ is modified by the plural genitive noun `bhan` ‘women’ – `dithis bhan` ‘a group of two women’.
+The nominative feminine common noun `dithis` ‘a group of two people’ is modified by the plural genitive common noun `bhan` ‘women’ – `dithis bhan` ‘a group of two women’.
 
-It is not clear whether *proper nouns* can also be modified by (singular or plural) genitive nouns, since there are no examples in the current text being analysed.
+It is not clear whether *proper nouns* can also be modified by (singular or plural) genitive common nouns, since there are no examples in the current text being analysed.
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
@@ -288,21 +288,21 @@ A noun can have one or more prepositions as modifiers.
 >
 > Rachadh e a-mach don achadh far an robh **gearrain gu** leòr a’ ruith bho chnoc gu cnoc.
 
-In the first example, the nominative masculine common noun *ainm* ‘name’ is modified by the preposition *air* ‘on’ (which itself has the complement *aon* ‘one’) – *ainm air aon de na daoine seo* ‘a name on (of) one of these men’. In the second, the common noun *astar* ‘distance’ is modified by the preposition *tro* ‘through’ – *astar fada tro thìr fhàsail* ‘a long distance through desolate land’.
+In the first example, the nominative masculine common noun `ainm` ‘name’ is modified by the preposition `air` ‘on’ (which itself has the complement `aon` ‘one’) – `ainm air aon de na daoine seo` ‘a name on (of) one of these men’. In the second example, the common noun `astar` ‘distance’ is modified by the preposition `tro` ‘through’ – `astar fada tro thìr fhàsail` ‘a long distance through desolate land’.
 
-In the third example, the nominative plural common noun *gearrain* ‘hares’ is modified by the preposition *gu* ‘to’ (which itself has the complement *leòr* ‘sufficiency’) – *gearrain gu leòr* ‘hares to sufficiency, enough hares’.
+In the third example, the nominative plural common noun `gearrain` ‘hares’ is modified by the preposition `gu` ‘to’ (which itself has the complement `leòr` ‘sufficiency’) – `gearrain gu leòr` ‘hares to sufficiency, enough hares’.
 
-Prepositional pronouns can be modifiers of nouns all on their own.
+Prepositional pronouns can be modifiers of common nouns all on their own.
 
 > Thilg e urchair oirre, agus gheàrr sin na **sgiathan aice**.
 
-Here, the nominative plural common noun *sgiathan* ‘wings’ is modified by the prepositional pronoun *aice* ‘at her’ – *sgiathan aice* ‘wings at her, her wings’.
+Here, the nominative plural common noun `sgiathan` ‘wings’ is modified by the prepositional pronoun `aice` ‘at her’ – `sgiathan aice` ‘wings at her, her wings’.
 
-Also, the progressive particle *ag* counts as a preposition in this respect.
+Also, the progressive particle `ag` counts as a preposition in this respect.
 
 > Latha de na làithean chaidh e mach agus chunnaic e **lach a’** snàmh air loch.
 
-In this examples, the nominative feminine common noun *lach* ‘duck’ is modified by the particle *a’* (which itself takes the verbal noun *snàmh* ‘swimming’ as its complement) – *lach a’ snàmh* ‘a duck swimming’.
+In this examples, the nominative feminine common noun `lach` ‘duck’ is modified by the particle `a’` (which itself takes the dative noun `snàmh` ‘swimming’ as its complement) – `lach a’ snàmh` ‘a duck swimming’.
 
 It is not clear whether *proper nouns* can also be modified by prepositions, since there are no examples in the current text being analysed.
 
