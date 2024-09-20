@@ -34,13 +34,13 @@ Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is an
 
 ## Nouns
 
-> Nuair a bha an **saoghal** – *nominative masculine*  
-> òg bha **daoine** – *nominative plural*  
-> treuna ann, ris an canadh iad an **Fhiann**. – *nominative feminine*  
+> Nuair a bha an **saoghal** – *nominative masculine: subject*  
+> òg bha **daoine** – *nominative plural: subject*  
+> treuna ann, ris an canadh iad an **Fhiann**. – *nominative feminine: object*  
 >
-> B’ e **Cumhal** – *nominative masculine proper*  
-> a b’ **ainm** – *nominative masculine abstract*  
-> air aon de na **daoine** – *dative plural*  
+> B’ e **Cumhal** – *nominative masculine proper: subject*  
+> a b’ **ainm** – *nominative masculine abstract: subject*  
+> air aon de na **daoine** – *dative plural: complement*  
 > seo, agus bha **mac** – *nominative masculine*    
 > aige air an robh **Fionn**. – *nominative masculine proper*  
 >  
@@ -55,12 +55,12 @@ Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is an
 > Bha **eagal** – *nominative masculine abstract*  
 > air a **mhathair** – *dative feminine*  
 > gun tigeadh **naimhdean** – *nominative plural*  
-> ’**athar** – *genitive masculine*   
+> ’**athar** – *genitive masculine: specifier*   
 > air **tòir** – *dative feminine abstract*   
-> an **leinibh**, – *genitive masculine*   
+> an **leinibh**, – *genitive masculine: specifier*   
 > agus mar sin chuir i e a-mach do na **coilltean** – *dative plural*   
 > fàsail air **chùram** – *dative masculine abstract*   
-> **dithis** – *genitive feminine*   
+> **dithis** – *genitive feminine: specifier*   
 > **bhan** – *genitive plural*   
 > eòlach.  
 >
