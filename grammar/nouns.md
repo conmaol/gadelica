@@ -229,6 +229,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 - [Genitive common nouns as modifiers of other nouns](genitive-common-nouns-as-modifiers-of-other-nouns)
 - [Prepositions as modifiers of nouns](prepositions-as-modifiers-of-nouns)
 - [Relative clause particles as modifiers of nouns](#relative-clause-particles-as-modifiers-of-nouns)
+- [Lenition of noun modifiers](#lenition-of-noun-modifiers)
 
 #### Adjectives as modifiers of nouns
 
@@ -367,6 +368,48 @@ In the first example here, the nominative masculine proper noun `Cumhall` is mod
 In the second example here, the nominative plural common noun `daoine` is modified by the prepositional relative clause particle `ris` – `na daoine ris an canadh iad an Fhiann` ‘the men against whom they would say the Fenians (ie. the men whom they would call the Fenians)’.
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+
+#### Lenition of noun modifiers
+
+Prepositions and relative clause particles are grammatical function words, hence no lenition is possible.
+
+But adjectives and genitive common nouns are lenitable, and whether or not they are lenited depends on the gender and case of the noun they modify.
+
+Not all consonants are (orthographically) lenitable, hence not all adjectives and nouns are (orthographically) lenitable.
+
+##### no lenition
+
+nominative masculine:
+
+> Cha do leig i **Fionn beag** às a h-aire.
+>
+> Dh’fhalbh i **astar fada** tro thìr fhàsail.
+>
+> Sheinn i **crònan milis binn** dha.
+
+nominative plural:
+
+> Nuair a bha an saoghal òg bha **daoine treuna** ann.
+
+dative plural:
+
+> Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na **coilltean fàsail**.
+
+dative masculine:
+
+> Nuair a bha Fionn ’na **leanabh beag**, mharbhadh ’athair.
+>
+> Bha aige ri an cumail ’nan **cròileagan cruinn** ann am badan àraidh, 
+
+##### lenition
+
+dative feminine:
+
+> Dh’fhalbh i astar fada tro **thìr fhàsail**.
+
+
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+
 
 ### Specifiers of nouns
 
