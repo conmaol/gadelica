@@ -323,7 +323,7 @@ A noun can have one of the relative clause particles as a modifier.
 
 Both proper and common nouns can be modified by the positive relative clause particle `a`.
 
-> ♾️ Mharbhadh **Cumhal**, **a** bha ’na rìgh àraidh.
+> ◊ Mharbhadh **Cumhal**, **a** bha ’na rìgh àraidh.
 > 
 > Is i siud a’ chiad **shealg a** rinn Fionn.
 
