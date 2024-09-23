@@ -78,7 +78,7 @@ Alongside the distinction between concrete and abstract nouns, nouns can be furt
 
 *Common nouns* denote classes of entity
 
-In the ‘Fionn’ passage from the previous section, there are two proper nouns – `Cumhal` ‘Cumhall’ and `Fionn` ‘Finn’. 
+In the [Fionn](Fionn.md) passage from the previous section, there are two proper nouns – `Cumhal` ‘Cumhall’ and `Fionn` ‘Finn’. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns – 
 `saoghal` ‘a world’,
@@ -162,7 +162,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-ca
 
 Nouns in Gaelic have *case* – every noun is either *nominative* or *dative* or *genitive*.
 
-Coming back to this:
+Coming back to this passage from before:
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
