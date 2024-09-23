@@ -377,36 +377,44 @@ A noun can have exactly one specifier.
 A common noun can have a pre-specifier, which must be either a form of the definite article, or another determiner.
 
 > Nuair a bha **an saoghal** òg bha daoine treuna ann, ris an canadh iad **an Fhiann**.
-
+>
 > Nuair a bha Fionn ’n**a** leanabh beag, mharbhadh **’** athair ann an aon de na blàraibh a chuir an Fhiann ’n**am** measg fhéin.
-
+>
 > Bhiodh e a’ snàmh **gach** dàrna **latha**.
+
+In the first example here, the definite article form `an` is the specifier of the common nouns `saoghal` and `Fhiann` respectively – `an saoghal` ‘the world’, `an Fhiann` ‘the Fenians’.
+
+In the second example, things are a bit more complicated:
+- The fused preposition `’na` is a shortened version of `ann an a` ‘in his’, so the incorporated personal determiner `a` is the specifier of the common noun `leanabh` – `’na leanabh beag` ‘in his little infant’.
+- The ellided form `’athair` is a shortened version of `a athair` ‘his father’, so here the elided personal determiner `a` is the specifier of the common noun `athair` – `’athair` ‘his father’.
+- The fused preposition `’nam` is a shortened version of `ann an am` ‘in their’, so the incorporated personal determiner `am` is the specifier of the common noun `measg` – `’nam measg fhèin` ‘in their own midst’.
+
+In the third example, the determiner `gach` is the specifier of the common noun `latha` – `gach dàrna latha` ‘every second day’.
 
 #### Post-specifiers
 
-naimhdean athar
+A *common* noun can have a post-specifier, usually a genitive noun.
 
-tòir an leinibh
+> Bha eagal air a mhathair gun tigeadh **naimhdean ’athar** air **tòir** an **leinibh**.
+> 
+> ♾️ Phòs **màthair** Fhinn rìgh àraidh.
 
-cùram dithis
+In the first example, ...
 
-déidh sin
+A *proper* noun can also have a post-specifier.
 
-casan féidh
-
-♾️ bean/mac Cumhaill
-
-
-
-
-Proper nouns
-
-♾️ Fionn Chumhaill?
-
-♾️ Cumhall na Féinne
+> ♾️ Nuair a bha **Fionn Chumhaill** ’na leanabh beag, mharbhadh ’athair.
+>
+> ♾️ Bha mac aig **Cumhall** na **Féinne**.
 
 
 ### Apposition
+
+> ♾️ Nuair a bha **Fionn mac Chumhaill** ’na leanabh beag, mharbhadh ’athair.
+>
+> ♾️ Phòs màthair Fhinn mhic Chumhaill rìgh àraidh.
+
+----
 
 Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such as the definite article (‘the’), [...]. [...] As the head of a noun phrase, nouns maye be modified by adjectives, with which they share several properties. Adjectives modify a noun within a noun phrase or provide additional information about it, such as serving to restrict possible reference.”
 
