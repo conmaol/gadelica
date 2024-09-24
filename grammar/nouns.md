@@ -357,29 +357,27 @@ In the second example, it is the proper noun `Glaschu` ‘Glasgow’ which is mo
 
 ##### Prepositional relative clause particles
 
-<mark>Both proper nouns and common nouns can also be modified by prepositional relative clause particles.</mark>
+Both proper nouns and common nouns can also be modified by prepositional relative clause particles.
 
-> ♾️ Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
+> ◊ Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
 >
 > Nuair a bha an saoghal òg bha **daoine** treuna ann, **ris** an canadh iad an Fhiann.
 
 In the first example here, the nominative masculine proper noun `Cumhall` is modified by the prepositional relative `aig` – `Cumhall, aig an robh dithis bhan` ‘Cumhall, who had two wives’.
 
-In the second example here, the nominative plural common noun `daoine` is modified by the prepositional relative clause particle `ris` – `na daoine ris an canadh iad an Fhiann` ‘the men against whom they would say the Fenians (ie. the men whom they would call the Fenians)’.
+In the second example here, the nominative plural common noun `daoine` ‘men’ is modified by the prepositional relative clause particle `ris` – `na daoine ris an canadh iad an Fhiann` ‘the men against whom they would say the Fenians (ie. the men whom they would call the Fenians)’.
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Lenition of noun modifiers
 
-Prepositions and relative clause particles are grammatical function words, hence no lenition is possible.
+Prepositions and relative clause particles are grammatical function words, and hence are not lenitable.
 
-But adjectives and genitive common nouns are lenitable, and whether or not they are lenited depends on the gender and case of the noun they modify.
-
-Not all consonants are (orthographically) lenitable, hence not all adjectives and nouns are (orthographically) lenitable.
+However, many adjectives and genitive common nouns *are* lenitable, and those which modify nouns may or may not lenite depending (mainly) on the gender and case of the noun they modify.
 
 ##### no lenition
 
-nominative masculine:
+When an adjective or genitive noun modifies a *nominative masculine* noun, it is never lenited.
 
 > Cha do leig i **Fionn beag** às a h-aire.
 >
@@ -387,15 +385,15 @@ nominative masculine:
 >
 > Sheinn i **crònan milis binn** dha.
 
-nominative plural:
+When an adjective or genitive noun modifies a *nominative plural* noun which doesn't end with a slender consonant, it is never lenited.
 
 > Nuair a bha an saoghal òg bha **daoine treuna** ann.
 
-dative plural:
+When an adjective or genitive noun modifies a *dative plural* noun which doesn't end with a slender consonant, it is never lenited.
 
 > Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na **coilltean fàsail**.
 
-dative masculine:
+When an adjective or genitive noun modifies a *dative masculine* noun which does not have the definite article as pre-specifier, it is never lenited.
 
 > Nuair a bha Fionn ’na **leanabh beag**, mharbhadh ’athair.
 >
@@ -403,9 +401,13 @@ dative masculine:
 
 ##### lenition
 
-dative feminine:
+<mark>dative feminine:</mark>
 
 > Dh’fhalbh i astar fada tro **thìr fhàsail**.
+
+
+Not all consonants are (orthographically) lenitable, hence not all adjectives and nouns are (orthographically) lenitable.
+
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
