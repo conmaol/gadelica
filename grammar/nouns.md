@@ -317,7 +317,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 
 #### Relative clause particles as modifiers of nouns
 
-<mark>A noun can have one of the relative clause particles as a modifier.</mark>
+A noun can have one of the relative clause particles as a modifier – `a`, `nach`, `far`, `anns (an)`, etc.
 
 ##### The positive relative clause particle *a*
 
@@ -329,19 +329,19 @@ Both proper and common nouns can be modified by the positive relative clause par
 
 In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `a` (which itself has the verb `bha` as its complement) – `Cumhal, a bha ’na rìgh àraidh` ‘Cumhal, who was an exceptional king’
 
-In the second example, the nominative feminine common noun `shealg` is similarly modified by the particle `a` (which here takes the verb `rinn` as its complement) – `a’ chiad shealg a rinn Fionn` ‘the first hunt that Finn did’.
+In the second example, the nominative feminine common noun `shealg` ‘a hunt’ is similarly modified by the particle `a` (which here takes the verb `rinn` ‘did’ as its complement) – `a’ chiad shealg a rinn Fionn` ‘the first hunt that Finn did’.
 
 ##### The negative relative clause particle *nach*
 
 Similarly, both proper and common nouns can be modified by the negative relative clause particle `nach`.
 
-> ♾️ Mharbhadh **Cumhal**, **nach** robh ’na rìgh àraidh.
+> ◊ Mharbhadh **Cumhal**, **nach** robh ’na rìgh àraidh.
 >
-> ♾️ Is e siud am **balach** **nach** deach a-mach don achadh.
+> ◊ Is e siud am **balach** **nach** deach a-mach don achadh.
 
-In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `nach` (which itself has the verb `robh` as its complement) – `Cumhal, nach robh ’na rìgh àraidh` ‘Cumhal, who was not an exceptional king’
+In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `nach` (which itself has the verb `robh` ‘was’ as its complement) – `Cumhal, nach robh ’na rìgh àraidh` ‘Cumhal, who was not an exceptional king’
 
-In the second example, the nominative masculine common noun `balach` is similarly modified by the particle `a` (which here takes the verb `deach` as its complement) – `am balach nach deach a-mach don achadh` ‘the boy who didn’t go out to the field’.
+In the second example, the nominative masculine common noun `balach` ‘boy’ is similarly modified by the particle `a` (which here takes the verb `deach` ‘went’ as its complement) – `am balach nach deach a-mach don achadh` ‘the boy who did not go out to the field’.
 
 ##### The locative relative clause particle *far*
 
@@ -349,15 +349,15 @@ The locative relative clause particle `far` ‘where’ can also be used to modi
 
 > Rachadh e a-mach don **achadh** **far** an robh gearrain gu leòr a’ ruith bho chnoc gu cnoc.
 >
-> ♾️ Bha Fionn ann an **Glaschu**, **far** an do mharbhadh ’athair.
+> ◊ Bha Fionn ann an **Glaschu**, **far** an do mharbhadh ’athair.
 
-In the first example, the dative masculine common noun `achadh` is modified by the particle `far` (which takes as its complement the positive interrogative verb particle `an`) – `an t-achadh far an robh gearrain a’ ruith` ‘the field where hares were running’.
+In the first example, the dative masculine common noun `achadh` ‘field’ is modified by the particle `far` (which takes as its complement the positive interrogative verb particle `an`) – `an t-achadh far an robh gearrain a’ ruith` ‘the field where hares were running’.
 
-In the second example, it is the proper noun `Glaschu` which is modified by `far` – `Glaschu, far an do mharbhadh ’athair` ‘Glasgow, where his father was killed’.
+In the second example, it is the proper noun `Glaschu` ‘Glasgow’ which is modified by `far` – `Glaschu, far an do mharbhadh ’athair` ‘Glasgow, where his father was killed’.
 
 ##### Prepositional relative clause particles
 
-Both proper nouns and common nouns can also be modified by prepositional relative clause particles.
+<mark>Both proper nouns and common nouns can also be modified by prepositional relative clause particles.</mark>
 
 > ♾️ Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
 >
