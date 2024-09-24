@@ -14,7 +14,7 @@
 
 Nouns are words that typically denote *material* entities.
 
-Material entities are those individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules and crystals etc. 
+Material entities are those real-world individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules and crystals etc. 
 
 Every word that denotes a material entity is a noun (or a [pronoun](pronouns.md)). 
 
@@ -39,8 +39,8 @@ The concrete nouns in this passage are
 `Cumhall` ‘Cumhall’,
 `mac` ‘a son’,
 `Fionn` ‘Finn’,
-`leanabh / leinibh` ‘an infant’,
-`athair / athar` ‘a father’,
+`leanabh` / `leinibh` ‘an infant’,
+`athair` / `athar` ‘a father’,
 `mhàthair` ‘a mother’,
 `naimhdean` ‘enemies’,
 `coilltean` ‘forests’,
@@ -57,7 +57,7 @@ The abstract nouns in the passage are
 
 Notes:
 
-- Some readers might be uncomfortable seeing words like `measg`, `tòir` and perhaps even `chùram` classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – `measg`, `tòir` and `chùram` are *both* components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
+- Some readers might be uncomfortable seeing words like `measg`, `tòir` and perhaps even `chùram` classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – `measg`, `tòir` and `chùram` are, at one and the same time, both components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
   
 - The (concrete) noun `dithis` ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 
@@ -86,8 +86,8 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 `Fhiann` ‘warriors’,
 `ainm` ‘a name’,
 `mac` ‘a son’,
-`leanabh / leinibh` ‘an infant’,
-`athair / athar` ‘a father’,
+`leanabh` / `leinibh` ‘an infant’,
+`athair` / `athar` ‘a father’,
 `blàraibh` ‘battles’,
 `measg` ‘midst’,
 `eagal` ‘fear’,
@@ -140,7 +140,7 @@ The feminine nouns in this passage are `Fhiann` ‘warriors’, `mhàthair` ‘a
 
 The plural nouns are `daoine` ‘men’, `blàraibh` ‘battles’, `naimhdean` ‘enemies’, `coilltean` ‘forests’ and `bhan` ‘women’.
 
-All the other nouns in the passage, whether proper or common, are masculine nouns – `saoghal` ‘a world’, `Cumhall` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’, `leanabh / leinibh` ‘an infant’, `athair / athar` ‘a father’, `measg` ‘midst’, `eagal` ‘fear’ and `chùram` ‘care’.
+All the other nouns in the passage, whether proper or common, are masculine nouns – `saoghal` ‘a world’, `Cumhall` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’, `leanabh` / `leinibh` ‘an infant’, `athair` / `athar` ‘a father’, `measg` ‘midst’, `eagal` ‘fear’ and `chùram` ‘care’.
 
 Notes:
   
@@ -172,11 +172,11 @@ Coming back to this passage from before:
 >
 > Bha **eagal** air a **mhathair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
 
-In this passage, the dative nouns are `daoine` ‘men’ (the second occurence), `leanabh` ‘an infant’, `blàraibh` ‘battles’, `measg` ‘midst’, `mhàthair` ‘a mother’, `tòir` ‘a pursuit’, `coilltean` ‘forests’ and `chùram` ‘care’.
+In this passage, the dative nouns are `daoine` ‘men’ (in the second sentence), `leanabh` ‘an infant’, `blàraibh` ‘battles’, `measg` ‘midst’, `mhàthair` ‘a mother’, `tòir` ‘a pursuit’, `coilltean` ‘forests’ and `chùram` ‘care’.
 
 The genitive nouns are `athar` ‘a father’, `leinibh` ‘an infant’, `dithis` ‘a group of two people’ and `bhan` ‘women’.  
 
-All the other nouns in the passage are nominative nouns – `saoghal` ‘a world’, `daoine` ‘men’ (the first occurence), `Fhiann` ‘warriors’ (both occurences), `Cumhal` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’ (both occurences), `athair` ‘a father’, `eagal` ‘fear’ and `naimhdean` ‘enemies’.
+All the other nouns in the passage are nominative nouns – `saoghal` ‘a world’, `daoine` ‘men’ (in the first sentence), `Fhiann` ‘warriors’ (both occurences), `Cumhal` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’ (both occurences), `athair` ‘a father’, `eagal` ‘fear’ and `naimhdean` ‘enemies’.
 
 Notes:
 
