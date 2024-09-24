@@ -195,7 +195,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical categories of nouns](#grammatical-ca
 - Bare nouns
 - [Modifiers of nouns](#modifiers-of-nouns)
 - [Specifiers of nouns](#specifiers-of-nouns)
-- [Apposition](#apposition)
+- [Nouns in apposition](#nouns-in-apposition)
 
 ### Bare nouns
 
@@ -207,9 +207,9 @@ If a noun has no grammatical dependents of any kind, it is known as a ‘bare’
 >
 > Is i siud a’ chiad shealg a rinn **Fionn**.
 
-Note that unless otherwise specified all examples are adapted from the *[Fionn](Fionn.md)* text. Invented examples are marked as ♾️.
+Note that unless otherwise specified all examples are adapted from the *[Fionn](Fionn.md)* text. Where appropriate, invented examples are marked as ◊.
 
-In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects) of verbs, respectively `b’`, `robh` and `rinn`. 
+In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects) of verbs, respectively `b’` ‘was’, `robh` ‘was’ and `rinn` ‘did’. 
 
 *Common nouns* can also appear bare, in which case they have ‘indefinite’, unmodified meaning.
 
@@ -239,9 +239,7 @@ A noun can have one or more adjective modifiers.
 
 > Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do leig i **Fionn beag** as a h-aire.
 
-Note that unless otherwise specified all examples are taken from the same text as was analysed in previous sections.
-
-In the above example, the nominative masculine proper noun `Fionn` ‘Finn’ is modified by the adjective `beag` ‘little’ – `Fionn beag` ‘little Finn’.
+In the above example, the nominative masculine proper noun `Fionn` is modified by the adjective `beag` – `Fionn beag` ‘little Finn’.
 
 *Common nouns* can be modified by adjectives too.
 
@@ -251,11 +249,11 @@ In the above example, the nominative masculine proper noun `Fionn` ‘Finn’ is
 > 
 > Sheinn i **crònan milis binn** dha, agus an sin thog i oirre.
 
-In the first of these examples, the nominative plural common noun `daoine` ‘men’ is modified by the adjective `treuna` ‘strong’ – `daoine treuna` ‘strong men’. In the second, the dative masculine common noun `leanabh` ‘an infant’ is modified by the adjective `beag` ‘little’ – `leanabh beag` ‘a little infant’. 
+In the first of these examples, the nominative plural common noun `daoine` is modified by the adjective `treuna` – `daoine treuna` ‘strong men’. In the second example, the dative masculine common noun `leanabh` is modified by the adjective `beag` – `leanabh beag` ‘a little infant’. 
 
 In the third example, the nominative masculine common noun `crònan` ‘tune’ has not one but *two* adjective modifiers, `milis` ‘sweet’ and `binn` ‘melodious’ – `crònan milis binn` ‘a sweet melodious tune’. 
 
-Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatial-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
 #### Genitive common nouns as modifiers of other nouns
 
@@ -271,9 +269,9 @@ Common nouns can also be modified by *plural* genitive common nouns.
 
 > Bha an **dithis bhan** ud a’ toirt an aire air gus an do dh’fhàs e suas.
 
-The nominative feminine common noun `dithis` ‘a group of two people’ is modified by the plural genitive common noun `bhan` ‘women’ – `dithis bhan` ‘a group of two women’.
+The nominative feminine common noun `dithis` ‘a group of two people’ is modified by the plural genitive common noun `bhan` ‘women’ – `dithis bhan` ‘a group of two women, a female pair’.
 
-It is not clear whether *proper nouns* can also be modified by (singular or plural) genitive common nouns, since there are no examples in the current text being analysed.
+We will postpone, for now, the question of whether *proper nouns* can also be modified by (singular or plural) genitive common nouns.
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
 
@@ -303,11 +301,13 @@ Also, the progressive particle `ag` counts as a preposition in this respect.
 
 > Latha de na làithean chaidh e mach agus chunnaic e **lach a’** snàmh air loch.
 
-In this examples, the nominative feminine common noun `lach` ‘duck’ is modified by the particle `a’` (which itself takes the dative noun `snàmh` ‘swimming’ as its complement) – `lach a’ snàmh` ‘a duck swimming’.
+In this example, the nominative feminine common noun `lach` ‘duck’ is modified by the particle `a’` (which itself takes the dative noun `snàmh` ‘swimming’ as its complement) – `lach a’ snàmh air loch` ‘a duck swimming in a lake’.
 
-It is not clear whether *proper nouns* can also be modified by prepositions, since there are no examples in the current text being analysed.
+*Proper nouns* can also be modified by prepositions.
 
-(Cumhall à Glaschu)
+> ◊ Mharbhadh **Cumhall à** Glaschu.
+
+Here, the preposition `à` ‘from’ is a modifier of the proper noun `Cumhall` – `Cumhall à Glaschu` ‘Cumhall from Glasgow’.
 
 Notes:
   
@@ -317,7 +317,7 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 
 #### Relative clause particles as modifiers of nouns
 
-A noun can have one of the relative clause particles as a modifier.
+<mark>A noun can have one of the relative clause particles as a modifier.</mark>
 
 ##### The positive relative clause particle *a*
 
@@ -460,7 +460,7 @@ Note that a common noun cannot have both a pre-specifier and a post-specifier (a
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) 
 
-### Apposition
+### Nouns in apposition
 
 Two nouns (of the same case and gender) can stand in apposition with each other.
 
