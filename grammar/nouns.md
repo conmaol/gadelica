@@ -434,21 +434,32 @@ In the second example, things are a bit more complicated:
 
 In the third example, the determiner `gach` is the specifier of the common noun `latha` – `gach dàrna latha` ‘every second day’.
 
+Note that proper nouns cannot have a pre-specifier.
+
 #### Post-specifiers
 
 A *common* noun can have a post-specifier, usually a genitive noun.
 
 > Bha eagal air a mhathair gun tigeadh **naimhdean ’athar** air **tòir** an **leinibh**.
 > 
-> ♾️ Phòs **màthair** Fhinn rìgh àraidh.
+> ◊ Phòs **màthair** Fhinn rìgh àraidh.
 
-In the first example, ...
+In the first example, the genitive masculine common noun `athar` is the specifier of the nominative plural common noun `naimhdean` (and `athar` itself has the ellided pre-specifier `a`) – `naimhdean ’athar` ‘his father’s enemies’. Similarly, the genitive masculine noun `leinibh` is the specifier of the dative feminine noun `tòir` (and `leinibh` itself has the pre-specifier `an`) – `tòir an leinibh` ‘the pursuit of the infant’.
 
-A *proper* noun can also have a post-specifier.
+In the second example, the nominative feminine common noun `màthair` has as its specifier the genitive masculine proper noun `Fhinn` – `màthair Fhinn` ‘Finn’s mother’.
 
-> ♾️ Nuair a bha **Fionn Chumhaill** ’na leanabh beag, mharbhadh ’athair.
+Although a proper noun cannot have a pre-specifier, it can take a post-specifier.
+
+> ◊ Nuair a bha **Fionn Chumhaill** ’na leanabh beag, mharbhadh ’athair.
 >
-> ♾️ Bha mac aig **Cumhall** na **Féinne**.
+> ◊ Bha mac aig **Cumhall** na **Féinne**.
+
+In the first example here, the genitive masculine proper noun `Chumhaill` is the specifier of the nominative masculine proper noun `Fionn` – `Fionn Chumhaill` ‘Cumhall’s Finn’.
+
+In the second example, <mark>XXX</mark>
+
+\* na naimhdean ’athar
+
 
 
 ### Apposition
