@@ -407,9 +407,7 @@ dative feminine:
 
 > Dh’fhalbh i astar fada tro **thìr fhàsail**.
 
-
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
-
 
 ### Specifiers of nouns
 
@@ -456,23 +454,25 @@ Although a proper noun cannot have a pre-specifier, it can take a post-specifier
 
 In the first example here, the genitive masculine proper noun `Chumhaill` is the specifier of the nominative masculine proper noun `Fionn` – `Fionn Chumhaill` ‘Cumhall’s Finn’.
 
-In the second example, <mark>XXX</mark>
+In the second example, the genitive feminine common noun `Féinne` is the specifier of the dative masculine proper noun `Cumhall` (and `Féinne` itself has the prespecifier `na`) – `Cumhall na Féinne` ‘Cumhall of the Fenians’.
 
-\* na naimhdean ’athar
+Note that a common noun cannot have both a pre-specifier and a post-specifier (at the same time) – the only way of translating ‘the enemies of his father’ into Gaelic is `naimhdean a athar` and certainly not `* na naimhdean a athar`.
 
-
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) 
 
 ### Apposition
 
-> ♾️ Nuair a bha **Fionn mac Chumhaill** ’na leanabh beag, mharbhadh ’athair.
->
-> ♾️ Phòs màthair Fhinn mhic Chumhaill rìgh àraidh.
+Two nouns (of the same case and gender) can stand in apposition with each other.
 
-----
+> ◊ Nuair a bha **Fionn mac** Cumhaill ’na leanabh beag, mharbhadh ’athair.
 
-Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such as the definite article (‘the’), [...]. [...] As the head of a noun phrase, nouns maye be modified by adjectives, with which they share several properties. Adjectives modify a noun within a noun phrase or provide additional information about it, such as serving to restrict possible reference.”
+In this example, the nominative masculine proper noun `Fionn` and the nominative masculine common noun `mac` are in apposition to each other (and the proper noun `Cumhaill` is the specifier of `mac`) – `Fionn mac Cumhaill` ‘Finn, Cumhall’s son’.
 
-Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, [...].”
+> ◊ Phòs màthair **Fhinn mhic** Cumhaill rìgh àraidh.
+
+In this example, the genitive masculine proper noun `Fhinn` and the genitive masculine common noun `mhic` are in apposition to each other (while `Fhinn` is the specifier of `màthair` and `Cumhaill` is the specifier of `mhic`) – `màthair Fhinn mhic Cumhaill` ‘the mother of Finn, Cumhall’s son’.
+
+Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) 
 
 ## Grammatical functions of nouns
 
@@ -619,6 +619,10 @@ no specifier!
 Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
+
+Lamb (2024:37): “In Gaelic, most nouns can be preceded by a determiner, such as the definite article (‘the’), [...]. [...] As the head of a noun phrase, nouns maye be modified by adjectives, with which they share several properties. Adjectives modify a noun within a noun phrase or provide additional information about it, such as serving to restrict possible reference.”
+
+Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, [...].”
 
 Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
