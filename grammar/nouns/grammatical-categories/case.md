@@ -18,6 +18,12 @@ The genitive nouns are `athar` ‘a father’, `leinibh` ‘an infant’, `dithi
 
 All the other nouns in the passage are nominative nouns – `saoghal` ‘a world’, `daoine` ‘men’ (in the first sentence), `Fhiann` ‘warriors’ (both occurences), `Cumhal` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’ (both occurences), `athair` ‘a father’, `eagal` ‘fear’ and `naimhdean` ‘enemies’.
 
+----
+
+Back up to: [Grammatical categories of nouns](index.md) \| [Nouns](../index.md) 
+
+----
+
 Notes:
 
 - Traditional descriptions of Gaelic grammar commonly mention the ‘vocative’ as a fourth case. However, the vocative is not strictly speaking a grammatical case since it does not mark a syntactic relation between the noun and another verb, preposition, adjective or noun in the same sentence. For this reason, we will treat the vocative as a handful of inflectional idiosyncracies conditioned by the vocative particle `a`.
@@ -28,4 +34,3 @@ Notes:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
-Back up to: [Grammatical categories of nouns](index.md) \| [Nouns](../index.md) 
