@@ -24,7 +24,7 @@ In the last example here, note that the complement of the preposition `ri` is `c
 
 ----
 
-Back up to: [Grammatical functions of nouns](index.md) \| [Nouns](../../index.md)
+Back up to: [Grammatical functions of nouns](index.md) \| [Nouns](../index.md)
 
 ----
 
