@@ -43,4 +43,4 @@ Notes:
   
 - Note that Cox (2017: §56) lists five other classes of noun in addition to (and seemingly independent of) common and proper nouns: collective nouns (*ainmear trusaidh* eg. `clann`, `crodh`); quantity nouns (*ainmear meud* eg. `falt`, `bainne`); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. `taigh-beag`, `cailleach-dhubh`); and verbal nouns (*ainmear gnìomhaireach* eg. `dèanamh`, `ithe`). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
-Back to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+Back to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
