@@ -1,8 +1,9 @@
 # Grammatical functions of nouns
 
-- Grammatical functions of nominative nouns
-- [Grammatical functions of dative nouns](#grammatical-functions-of-dative-nouns)
-- [Grammatical functions of genitive nouns](#grammatical-functions-of-genitive-nouns)
+- [Grammatical functions of nominative nouns](nominative.md)
+- [Grammatical functions of dative nouns](dative.md)
+- [Grammatical functions of genitive nouns](genitive.md)
+- [Nouns in apposition](apposition.md)
 
 The grammatical functions that nouns can have in a Gaelic sentence are the different ways in which they can serve as a dependent of some other word in the sentence, whether that other word is a verb, preposition or even another noun. These grammatical functions depend crucially on the *case* of the noun – whether it is nominative, dative or genitive.
 
