@@ -18,7 +18,7 @@ Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às 
 Dh’fhalbh i astar fada tro thìr fhàsail gus an do lorg i an t-àite anns an robh an leanabh.
 Fhuair i e ’na shuain chadail, agus thog i e ’na làmhan gu sèimh socrach, agus phòg i e.  
 Sheinn i crònan milis binn dha, agus an sin thog i oirre.  
-Bha an dithis mhnathan ud a’ toirt an aire air gus an d’ fhàs e suas.
+Bha an dithis mhnathan ud a’ toirt an aire air gus an do dh’fhàs e suas.
 Latha de na làithean chaidh e a-mach agus chunnaic e lach a’ snàmh air loch.
 Thilg e urchair oirre, agus gheàrr sin na sgiathan aice.
 Rug e oirre agus thug e leis dhachaidh i.
