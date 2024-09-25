@@ -6,7 +6,7 @@ Alongside the distinction between concrete and abstract nouns, nouns can be furt
 
 *Common nouns* denote classes of entity
 
-In the [Fionn](Fionn.md) passage from the previous section, there are two proper nouns – `Cumhal` ‘Cumhall’ and `Fionn` ‘Finn’. 
+In the [Fionn](../../Fionn.md) passage from the previous section, there are two proper nouns – `Cumhal` ‘Cumhall’ and `Fionn` ‘Finn’. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns – 
 `saoghal` ‘a world’,
@@ -27,6 +27,12 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 `dithis` ‘a group of two people’ and
 `bhan` ‘women’.
 
+----
+
+Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
+
+----
+
 Notes:
 
 - Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, `Fhiann` ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase, `an Fhiann` ‘the Warriors’, which is being presented as the name of a particular group of men (cf. ‘the Fenians’). Moreover, even though `an Fhiann` is a name, it would be incorrect to characterise it as a proper noun, since it is not a noun.
@@ -43,4 +49,4 @@ Notes:
   
 - Note that Cox (2017: §56) lists five other classes of noun in addition to (and seemingly independent of) common and proper nouns: collective nouns (*ainmear trusaidh* eg. `clann`, `crodh`); quantity nouns (*ainmear meud* eg. `falt`, `bainne`); abstract nouns (*ainmear eas-cruthach* – see above); compound nouns (*ainmear fillte* eg. `taigh-beag`, `cailleach-dhubh`); and verbal nouns (*ainmear gnìomhaireach* eg. `dèanamh`, `ithe`). For present purposes, and with the obvious exception of his ‘compound nouns’ (many of which are not even nouns at all), these are best understood as semantic sub-classes of common noun.
 
-Back to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
+----
