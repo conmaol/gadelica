@@ -10,11 +10,11 @@ For example:
 >
 > Nuair a bha Fionn **’na leanabh** beag, mharbhadh ’athair.
 
-In the first sentence here, the dative masculine proper noun `Fionn` is the complement of the preposition `air` ‘on’ – `(bha eagal) air Fionn` ‘(a fear was) on Finn’, ie. ‘Finn was afraid’.
+In the first sentence here, the dative masculine proper noun `Fionn` is the complement of the preposition `air` ‘on’ – `(bha eagal) air Fionn` ‘(a fear was) on Finn’, ie. ‘Finn was afraid (that his father’s enemies would come)’.
 
-In the second sentence, the dative plural common noun `casan` ‘feet’ is the complement of the preposition ‘ri’ – `(cho luath) ri casan féidh` ‘(as swift) as the feet of a deer’.
+In the second sentence, the dative plural common noun `casan` ‘feet’ is the complement of the preposition ‘ri’ – `(bha a chasan cho luath) ri casan féidh` ‘(his feet were as swift) as the feet of a deer’.
 
-In the third sentence, the dative masculine common noun `leanabh` ‘an infant’ is the complement of the fused preposition `’na`, itself a contraction of `ann an a` ‘in his’ – `(bha e) ’na leanabh beag` ‘(he was) in his little infant’, ie. ‘he was a little infant’.
+In the third sentence, the dative masculine common noun `leanabh` ‘an infant’ is the complement of the fused preposition `’na`, itself a contraction of `ann an a` ‘in his’ – `(bha Fionn) ’na leanabh beag` ‘(Fionn was) in his little infant’, ie. ‘(when) Fionn was a little infant (his father was killed)’.
 
 Here are some examples involving (abstract) verbal nouns:
 
@@ -22,9 +22,9 @@ Here are some examples involving (abstract) verbal nouns:
 >
 > Fhuair i Fionn **’na shuain** chadail.
 
-In the first example, the dative masculine verbal noun `snàmh` ‘swimming’ is the complement of the progressive preposition `a’` – `a’ snàmh` ‘(in the process of) swimming’. 
+In the first example, the dative masculine verbal noun `snàmh` ‘swimming’ is the complement of the progressive preposition `a’` – `(chunnaic e lach) a’ snàmh (air loch)` ‘(he saw a duck) in the process of swimming (on a lake)’. 
 
-In the second sentence, the (lenited) dative feminine verbal noun `shuain` ‘slumber’ is the complement of the fused preposition `‘na` ‘in his’ – `‘na shuain` ‘in his slumber’, ie. ‘asleep’.
+In the second sentence, the (lenited) dative feminine verbal noun `shuain` ‘slumber’ is the complement of the fused preposition `‘na` ‘in his’ – `(fhuair i Fionn) ‘na shuain chadail` ‘(she found Finn) in his sleepy slumber’, ie. ‘asleep’.
 
 ----
 
