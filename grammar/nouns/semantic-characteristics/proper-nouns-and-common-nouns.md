@@ -1,12 +1,22 @@
 # Proper nouns and common nouns
 
-Alongside the distinction between concrete and abstract nouns, nouns can be further sub-classified according to the nature of their denotation, or the way in which they relate to entities in the world.
+Nouns can be classified according to the nature of their denotation, or the way in which they relate to entities in the world.
 
-*Proper nouns* are names of particular entities
+*Proper nouns* are names of particular entities.
 
-*Common nouns* denote classes of entity
+*Common nouns* denote classes of entity.
 
-In the [Fionn](../../Fionn.md) passage from the previous section, there are two proper nouns – `Cumhal` ‘Cumhall’ and `Fionn` ‘Finn’. 
+Recall the following short passage from the [Fionn](../../Fionn.md) story:
+
+> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
+>
+> B’ e **Cumhal** a b’ **ainm** air aon de na **daoine** seo, agus bha **mac** aige air an robh **Fionn**.
+>
+> Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
+>
+> Bha **eagal** air a **mhàthair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
+
+There are two proper nouns in this passage – `Cumhal` ‘Cumhal’ and `Fionn` ‘Finn’. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns – 
 `saoghal` ‘a world’,
