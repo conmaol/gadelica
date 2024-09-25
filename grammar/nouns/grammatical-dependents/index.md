@@ -1,9 +1,9 @@
 # Grammatical dependents of nouns
 
-- Bare nouns
-- [Modifiers of nouns](#modifiers-of-nouns)
-- [Specifiers of nouns](#specifiers-of-nouns)
-- [Nouns in apposition](#nouns-in-apposition)
+- [Bare nouns](bare-nouns.md)
+- [Modifiers of nouns](modifiers.md)
+- [Specifiers of nouns](specifiers.md)
+- [Nouns in apposition](apposition.md)
 
 ### Bare nouns
 
