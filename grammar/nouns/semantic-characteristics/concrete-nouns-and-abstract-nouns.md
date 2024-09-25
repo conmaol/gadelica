@@ -4,13 +4,13 @@ Nouns are words that typically denote *material* entities.
 
 Material entities are those real-world individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules and crystals etc. 
 
-Every word that denotes a material entity is a noun (or a [pronoun](pronouns.md)). 
+Every word that denotes a material entity is a noun (or a [pronoun](../../pronouns.md)). 
 
 However, not every noun denotes a material entity. Some nouns denote *non-material* entities, which are not made out of matter. Non-material entities include spaces (places and paths) and situations (states, processes, events and actions).
 
 Nouns that denote material entities are known as *concrete* nouns, and nouns that denote non-material entities are known as *abstract* nouns. 
 
-The following passage is adapted from the story *[Fionn](Fionn.md)* in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
+The following passage is adapted from the story *[Fionn](../../Fionn.md)* in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (p.81). All and only the nouns have been highlighted.
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
@@ -43,6 +43,12 @@ The abstract nouns in the passage are
 `tòir` ‘a pursuit’ and
 `chùram` ‘care’.
 
+----
+
+Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
+
+----
+
 Notes:
 
 - Some readers might be uncomfortable seeing words like `measg`, `tòir` and perhaps even `chùram` classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – `measg`, `tòir` and `chùram` are, at one and the same time, both components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
@@ -56,4 +62,4 @@ Notes:
   >
   > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
 
-Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
+----
