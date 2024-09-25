@@ -30,6 +30,6 @@ Back up to: [Grammatical functions of nouns](index.md) \| [Nouns](../index.md)
 
 Notes:
 
-- Unless otherwise specified, examples are adapted from the story *[Fionn](../../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–82). Examples prefixed with ◊ are more obvious inventions of the editors.
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–82). Examples prefixed with ◊ are more obvious inventions of the editors.
 
 ----
