@@ -448,13 +448,13 @@ In the second example, the nominative feminine common noun `màthair` has as its
 
 Although a proper noun cannot have a pre-specifier, it can take a post-specifier.
 
-> ◊ Nuair a bha **Fionn Chumhaill** ’na leanabh beag, mharbhadh ’athair.
+> ◊ Nuair a bha **Fionn Chumhail** ’na leanabh beag, mharbhadh ’athair.
 >
-> ◊ Bha mac aig **Cumhall** na **Féinne**.
+> ◊ Bha mac aig **Cumhal** na **Féinne**.
 
-In the first example here, the genitive masculine proper noun `Chumhaill` is the specifier of the nominative masculine proper noun `Fionn` – `Fionn Chumhaill` ‘Cumhall’s Finn’.
+In the first example here, the genitive masculine proper noun `Chumhaill` is the specifier of the nominative masculine proper noun `Fionn` – `Fionn Chumhail` ‘Cumhal’s Finn’.
 
-In the second example, the genitive feminine common noun `Féinne` is the specifier of the dative masculine proper noun `Cumhall` (and `Féinne` itself has the prespecifier `na`) – `Cumhall na Féinne` ‘Cumhall of the Fenians’.
+In the second example, the genitive feminine common noun `Féinne` is the specifier of the dative masculine proper noun `Cumhal` (and `Féinne` itself has the prespecifier `na`) – `Cumhal na Féinne` ‘Cumhal of the Fenians’.
 
 Note that a common noun cannot have both a pre-specifier and a post-specifier (at the same time) – the only way of translating ‘the enemies of his father’ into Gaelic is `naimhdean a athar` and certainly not `* na naimhdean a athar`.
 
@@ -464,13 +464,13 @@ Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-de
 
 Two nouns (of the same case and gender) can stand in apposition with each other.
 
-> ◊ Nuair a bha **Fionn mac** Cumhaill ’na leanabh beag, mharbhadh ’athair.
+> ◊ Nuair a bha **Fionn mac** Cumhail ’na leanabh beag, mharbhadh ’athair.
 
-In this example, the nominative masculine proper noun `Fionn` and the nominative masculine common noun `mac` are in apposition to each other (and the proper noun `Cumhaill` is the specifier of `mac`) – `Fionn mac Cumhaill` ‘Finn, Cumhall’s son’.
+In this example, the nominative masculine proper noun `Fionn` and the nominative masculine common noun `mac` are in apposition to each other (and the proper noun `Cumhail` is the specifier of `mac`) – `Fionn mac Cumhail` ‘Finn, Cumhal’s son’.
 
 > ◊ Phòs màthair **Fhinn mhic** Cumhaill rìgh àraidh.
 
-In this example, the genitive masculine proper noun `Fhinn` and the genitive masculine common noun `mhic` are in apposition to each other (while `Fhinn` is the specifier of `màthair` and `Cumhaill` is the specifier of `mhic`) – `màthair Fhinn mhic Cumhaill` ‘the mother of Finn, Cumhall’s son’.
+In this example, the genitive masculine proper noun `Fhinn` and the genitive masculine common noun `mhic` are in apposition to each other (while `Fhinn` is the specifier of `màthair` and `Cumhail` is the specifier of `mhic`) – `màthair Fhinn mhic Cumhail` ‘the mother of Finn, Cumhal’s son’.
 
 Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) 
 
@@ -552,6 +552,10 @@ In the first example, the nominative common noun `shealg` ‘hunt’ is the obje
 
 In the second example, the nominative common noun *ainm* ‘a name’ is the object of the second instance of the copular form `b’` ‘was’.
 
+Notes:
+- Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
+
+
 Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
 
 ### Grammatical functions of dative nouns
@@ -584,19 +588,33 @@ Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-fun
 
 #### Specifier of another noun
 
-One of the main functions of a genitive noun, whether proper of common, is to mark the specifier of another, preceding, noun:
+One of the main functions of a genitive noun, whether proper or common, is to mark the specifier of another, preceding, noun.
 
-> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri **casan féidh**.
+> Bha a chasan mu dheireadh cho luath ri **casan** **féidh**.
 >
-> Bha eagal air a mhathair gun tigeadh **naimhdean ’athar** air tòir an **leinibh**, agus mar sin chuir i e a-mach do na coilltean fàsail air **chùram dithis** bhan eòlach.
+> Bha eagal air a mhàthair gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**.
 
-In the first example, the genitive masculine noun `féidh` ‘deer’ is functioning as the specifier of the plural noun `casan` ‘feet’. In the second example, masculine `athar` ‘father’ is the specifier of `naimhdean` ‘enemies’, `leinibh` ‘an infant’ is the specifier of `tòir` ‘a pursuit’, and `dithis` ‘a group of two people’ is the specifier of `chùram` ‘care’.
+In the first example here, the genitive masculine common noun `féidh` ‘deer’ functions as the specifier of the dative plural common noun `casan` ‘feet’ – `casan féidh` ‘a deer’s feet’. 
 
-In the following example, the genitive plural noun `làithean` ‘days’ is the specifier of the verbal noun `cur` ‘sending’:
+In the second example, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’ – `naimhdean ’athar` ‘his father’s enemies’.
+
+Also in the second example, the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’ – `air tòir an leinibh` ‘in pursuit of the infant’.
+
+*Proper* nouns too can function as specifiers, of both common and proper nouns.
+
+> ◊ Phòs **màthair** Fhinn rìgh àraidh.
+>
+> ◊ Nuair a bha **Fionn Chumhail** ’na leanabh beag, mharbhadh ’athair.
+
+In the first example, the nominative feminine common noun `màthair` ‘mother’ has as its specifier the genitive masculine proper noun `Fhinn` – `màthair Fhinn` ‘Finn’s mother’.
+
+In the second example, the genitive masculine proper noun `Chumhail` is the specifier of the nominative masculine proper noun `Fionn` – `Fionn Chumhail` ‘Cumhal’s Finn’.
+
+When a genitive noun is the specifier of a *verbal* noun, it typically marks what would have been the *object* of the underlying verb:
 
 > Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ **cur** seachad a **làithean** ’na thàmh.
 
-Note that the genitive specifier of a verbal noun typically marks what would be the *object* of the underlying verb (which would have nominative case of course).
+Here, the genitive plural common noun `làithean` ‘days’ is the specifier of the dative masculine verbal noun `cur` ‘sending’ – `a’ cur seachad a làithean` ‘spending his days’. Note that bthe underlying verbal structure would be `chuir e seachad a làithean` ‘he spent his days’, where làithean is the (nominative) object of `chuir` ‘sent’. 
 
 #### Modifier of another noun
 
@@ -615,7 +633,7 @@ Of a verbal noun:
 no specifier!
 
 ----
-Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
+
 
 Lamb (2024:38): “Determiners are added to a noun phrase to restrict or specify its reference. [...] Demonstratives [...] are used to mark a noun’s position or prominence. [...] [C]ardinal numerals [...] state the count of the nouns in discussion and ordinal numerals [...] state the position of the noun in a sequence [...]. [...] Prepositions indicate relationships between nouns, as well as between nouns and verbs.”
 
