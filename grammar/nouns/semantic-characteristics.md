@@ -1,0 +1,2 @@
+# Semantic characteristics of nouns
+
