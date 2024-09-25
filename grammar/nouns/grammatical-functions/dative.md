@@ -22,5 +22,14 @@ In the last example here, note that the complement of the preposition `ri` is `c
 >
 > Latha de na làithean chaidh e a-mach agus chunnaic e lach **a’ snàmh** air loch.
 
-Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
+----
 
+Back up to: [Grammatical functions of nouns](index.md) \| [Nouns](../../index.md)
+
+----
+
+Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–82). Examples prefixed with ◊ are more obvious inventions of the editors.
+
+----
