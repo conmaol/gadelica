@@ -34,3 +34,4 @@ Notes:
   
   > Faodaidh ainmearan a bhith [...] bunasach, ginideach, tabhartach no gairmeach. (Cox 2017: §55)
 
+----
