@@ -56,4 +56,4 @@ Notes:
   >
   > Ainmear eas-cruthach, a tha ’na ainm air rudeigin nach cluinn, nach fhaic, agus ris nach bean duine, m.e. *an fhìrinn*; *an t-slàinte*; *am bàs*; *a’ bheatha*; *a’ chogais* 7c – seach *bòrd*; *doras* 7c a tha ’na ainmearan cruthach. (Cox 2017: §56(v))
 
-Back up to: [Nouns](#nouns) \| [Semantic characteristics of nouns](#semantic-characteristics-of-nouns)
+Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
