@@ -1,11 +1,10 @@
 # Grammatical functions of nominative nouns
 
-Nominative nouns can have two main kinds of grammatical function in a sentence of Gaelic: 
-- subject of a verb
-- object of a verb
+- [Subjects of verbs](subjects.md)
+- [Objects of verbs](objects.md)
 
-Notes:
-- Lamb (2024:37): “The main function of a noun is to act as a verbal argument.”
+----
 
+Back up to: [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
 
-Back up to: [Nouns](#nouns) \| [Grammatical functions of nouns](#grammatical-functions-of-nouns)
+----
