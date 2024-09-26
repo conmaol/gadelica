@@ -1,4 +1,4 @@
-# Modifier of another noun
+# Genitive nouns as modifiers of a noun
 
 Genitive common nouns (but not proper noun) have a second important function – to mark a modifier of the immediately preceding noun.
 
