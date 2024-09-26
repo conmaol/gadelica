@@ -1,4 +1,4 @@
-# Specifier of another noun
+# Genitive nouns as specifiers of a noun
 
 One of the main functions of a genitive noun, whether proper or common, is to mark the specifier of another, preceding, noun.
 
