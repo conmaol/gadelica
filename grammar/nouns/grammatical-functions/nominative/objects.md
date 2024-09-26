@@ -1,4 +1,4 @@
-# Nominative nouns as object of a verb
+# Nominative nouns as objects of a verb
 
 Nominative nouns can also be grammatical *objects* of a verb.
 
@@ -33,3 +33,9 @@ Nominative nouns can also function as the object of a form of the copula.
 In the first example, the nominative common noun `shealg` ‘hunt’ is the object of the copula form `is`.
 
 In the second example, the nominative common noun *ainm* ‘a name’ is the object of the second instance of the copular form `b’` ‘was’.
+
+----
+
+Back up to: [Grammatical functions of nominative nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
+
+----
