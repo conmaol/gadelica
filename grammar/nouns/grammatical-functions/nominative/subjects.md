@@ -1,4 +1,4 @@
-# Nominative nouns as subject of a verb
+# Nominative nouns as subjects of a verb
 
 The most common grammatical function of nominative nouns is to serve as the subject of a verb.
 
@@ -26,3 +26,11 @@ Finally, here is an example where a proper noun `Cumhal` is being used as the su
 
 > **B’** e **Cumhal** a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.
 > 
+
+----
+
+Back up to: [Grammatical functions of nominative nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
+
+See also: [Nominative nouns, dative nouns and genitive nouns](../../grammatical-categories/case.md)
+
+----
