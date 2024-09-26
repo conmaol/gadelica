@@ -34,7 +34,7 @@ Finally, here is an example involving a form of the copula:
 
 > **B’** e **Cumhal** a b’ ainm air aon de na daoine seo.
 
-Here, the nominative masculine proper noun `Cumhal` is the grammatical subject (or at least the first dependent) of the copula form `b’` ‘was, were’ – ‘It was Cumhal that was the name of one of these men’.
+Here, the nominative masculine proper noun `Cumhal` is the grammatical subject (or at least the first dependent) of the copula form `b’` ‘was, were’ – ‘it was Cumhal that was the name of one of these men’.
 
 ----
 
