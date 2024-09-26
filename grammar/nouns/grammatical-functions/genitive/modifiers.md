@@ -1,6 +1,6 @@
 # Genitive nouns as modifiers of a noun
 
-Genitive common nouns (but not proper noun) have a second important function – to mark a modifier of the immediately preceding noun.
+One of the main functions of a genitive common noun is to mark a modifier of a preceding noun.
 
 > Bha eagal air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis **bhan** eòlach.
 >
