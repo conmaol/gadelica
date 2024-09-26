@@ -16,7 +16,7 @@ In the second sentence, the dative plural common noun `casan` ‘feet’ is the 
 
 In the third sentence, the dative masculine common noun `leanabh` ‘an infant’ is the complement of the fused preposition `’na`, itself a contraction of `ann an a` ‘in his’ – ‘when Finn was in his little infant (ie. when he was a little infant) his father was killed’.
 
-Here are some examples involving (abstract) verbal nouns:
+Here are some examples where an (abstract) verbal noun is the complement of a preposition (or preposition-like verb particle):
 
 > Chunnaic e lach **a’ snàmh** air loch.
 >
@@ -36,8 +36,8 @@ See also: [Nominative nouns, dative nouns and genitive nouns](../grammatical-cat
 
 Notes:
 
-- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–82). Examples prefixed with ◊ are more obvious inventions of the editors.
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85). Examples prefixed with ◊ are more obvious inventions of the editors.
 
-- In modern Gaelic, dative nouns are almost always identical in form to the corresponding nominative noun, though they differ in terms of the articles and adjectives they combine with.
+- In modern Gaelic, dative nouns are almost always identical in form to the corresponding nominative noun, though they differ in terms of the articles and adjectives they combine with. We have decided to keep things simple by assuming that the noun complement of a (simple) preposition is always dative, even when it lacks explicit dative marking, and this is also true for verbal nouns where the preposition has a more clearly aspectual meaning.
 
 ----
