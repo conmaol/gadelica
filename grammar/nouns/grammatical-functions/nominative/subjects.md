@@ -30,12 +30,11 @@ In the second example, the nominative feminine common noun `màthair` ‘mother�
 
 In the third example, the nominative masculine proper noun `Fionn` is the subject of the verb `rinn` ‘did’ – ‘that was the first hunt that Finn did’.
 
+Finally, here is an example involving a form of the copula:
 
+> **B’** e **Cumhal** a b’ ainm air aon de na daoine seo.
 
-<mark>Finally</mark>, here is an example where a proper noun `Cumhal` is being used as the subject of a form of the copula `b’` ‘was’:
-
-> **B’** e **Cumhal** a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.
-> 
+Here, the nominative masculine proper noun `Cumhal` is the grammatical subject (or at least the first dependent) of the copula form `b’` ‘was, were’ – ‘It was Cumhal that was the name of one of these men’.
 
 ----
 
