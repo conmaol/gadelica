@@ -1,28 +1,38 @@
 # Nominative nouns as subjects of a verb
 
-The most common grammatical function of nominative nouns is to serve as the subject of a verb.
+The most common function of a nominative noun is to mark the grammatical subject of a verb.
 
-In the following example, the nominative proper noun `Fionn` is being used as the grammatical subject of the predicative verb form `bha` ‘was’: 
+Here are some examples involving forms of the predicative verb `bi`:
 
-> Nuair a **bha** **Fionn** ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.
-
-And in these examples, it is the nominative common nouns `eagal` ‘fear’, `gillean` ‘boys’ and `leanabh` ‘an infant’ that are being used in the same way:
-
-> **Bha** **eagal** air a mhathair gun tigeadh naimhdean ’athar air tòir an leinibh.
+> Nuair a **bha Fionn** ’na leanabh beag, mharbhadh ’athair.
 >
-> Ged nach robh e a-riamh ann an sgoil mar a **tha** na **gillean** an-diugh, cha robh e idir a’ cur seachad a làithean ’na thàmh.
+> Cha robh e a-riamh ann an sgoil mar a **tha** na **gillean** an-diugh.
 >
-> Dh’fhalbh i astar fada troimh thìr fhàsail gus an do lorg i an t-àite anns an **robh** an **leanabh**.
+> Lorg i an t-àite anns an **robh** an **leanabh**.
 
-Here are some examples of both proper and common nominative nouns being used as the grammatical subjects of other verbs:
+In the first sentence here, the nominative masculine proper noun `Fionn` is the grammatical subject of the predicative verb form `bha` ‘was’ – ‘when Finn was a little infant, his father was killed’.
 
-> Bha eagal air a mhathair gun **tigeadh** **naimhdean** ’athar air tòir an leinibh.
+In the second sentence, the nominative plural common noun `gillean` ‘boys’ is the subject of the predicative verb form `tha` ‘is, are’ – ‘he was never in school like the boys are today’.
+
+In the third sentence, the nominative masculine common noun `leanabh` ‘infant’ is the subject of the predicative verb form `robh` ‘was, were’ – ‘she found the place in which the infant was’.
+
+Here are some sentences involving other verbs:
+
+> Bha eagal air a mhathair gun **tigeadh naimhdean** ’athar air tòir an leinibh.
 >
-> **Phòs** a **mhàthair** rìgh àraidh an déidh sin, ach cha do leig i Fionn beag às a h-aire.
+> **Phòs** a **mhàthair** rìgh àraidh.
 >
 > Is i siud a’ chiad shealg a **rinn** **Fionn**.
 
-Finally, here is an example where a proper noun `Cumhal` is being used as the subject of a form of the copula `b’` ‘was’:
+In the first example here, the nominative plural common noun `naimhdean` ‘enemies’ is the subject of the verb `tigeadh` ‘would come’ – ‘his mother was afraid that his father’s enemies would come in pursuit of the infant’.
+
+In the second example, the nominative feminine common noun `màthair` ‘mother’ is the subject of the verb `phòs` ‘married’ – ‘his mother married an exceptional king’.
+
+In the third example, the nominative masculine proper noun `Fionn` is the subject of the verb `rinn` ‘did’ – ‘that was the first hunt that Finn did’.
+
+
+
+<mark>Finally</mark>, here is an example where a proper noun `Cumhal` is being used as the subject of a form of the copula `b’` ‘was’:
 
 > **B’** e **Cumhal** a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.
 > 
@@ -30,5 +40,11 @@ Finally, here is an example where a proper noun `Cumhal` is being used as the su
 ----
 
 Back up to: [Grammatical functions of nominative nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
+
+----
+
+Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
 ----
