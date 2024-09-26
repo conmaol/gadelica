@@ -36,7 +36,7 @@ See also: [Nominative nouns, dative nouns and genitive nouns](../grammatical-cat
 
 Notes:
 
-- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85). Examples prefixed with ◊ are more obvious inventions of the editors.
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
 - In modern Gaelic, dative nouns are almost always identical in form to the corresponding nominative noun, though they differ in terms of the articles and adjectives they combine with. We have decided to keep things simple by assuming that the noun complement of a (simple) preposition is always dative, even when it lacks explicit dative marking, and this is also true for verbal nouns where the preposition has a more clearly aspectual meaning.
 
