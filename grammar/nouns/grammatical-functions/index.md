@@ -1,10 +1,10 @@
 # Grammatical functions of nouns
 
 - [Nominative nouns](nominative/index.md)
-  - [Subjects of verbs](grammatical-functions/nominative/subjects.md)
-  - [Objects of verbs](grammatical-functions/nominative/objects.md)
+  - [Subjects of verbs](nominative/subjects.md)
+  - [Objects of verbs](nominative/objects.md)
 - [Dative nouns](dative.md)
-- [Grammatical functions of genitive nouns](genitive.md)
+- [Genitive nouns](genitive/index.md)
 - [Nouns in apposition](apposition.md)
 
 ----
