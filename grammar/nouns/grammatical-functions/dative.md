@@ -1,6 +1,6 @@
 # Grammatical functions of dative nouns
 
-The only grammatical function of a dative noun is to mark the complement of a preposition.
+The only function of a dative noun is to mark the grammatical complement of a preposition.
 
 For example:
 
