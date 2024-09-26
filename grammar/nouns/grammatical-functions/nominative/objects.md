@@ -32,11 +32,11 @@ Finally, here are some examples involving forms of the copula:
 
 > **Is** i siud a’ chiad **shealg** a rinn Fionn.
 > 
-> B’ e Cumhal a **b’** **ainm** air aon de na daoine seo, agus bha mac aige air an robh Fionn.
+> B’ e Cumhal a **b’** **ainm** air aon de na daoine seo.
 
-In the first example, the nominative common noun `shealg` ‘hunt’ is the object of the copula form `is`.
+In the first sentence, the nominative feminine common noun `shealg` ‘a hunt’ is the grammatical object (or at least the secondary dependent) of the copula form `is` – ‘that is the first hunt that Finn did’.
 
-In the second example, the nominative common noun *ainm* ‘a name’ is the object of the second instance of the copular form `b’` ‘was’.
+In the second sentence, the nominative masculine common noun `ainm` ‘a name’ is the object of the second instance of the copular form `b’` ‘was’ – ‘It was Cumhal that was [the] name of one of these men’.
 
 ----
 
