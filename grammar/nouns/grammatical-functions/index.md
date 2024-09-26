@@ -5,6 +5,8 @@
   - [Objects of verbs](nominative/objects.md)
 - [Dative nouns](dative.md)
 - [Genitive nouns](genitive/index.md)
+  - [Specifiers of nouns](genitive/specifiers.md)
+  - [Modifiers of nouns](genitive/modifiers.md)
 - [Nouns in apposition](apposition.md)
 
 ----
