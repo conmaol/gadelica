@@ -1,6 +1,6 @@
 # Genitive nouns as specifiers of a noun
 
-One of the main functions of a genitive noun, whether proper or common, is to mark the specifier of another, preceding, noun.
+One of the main functions of a genitive noun is to mark the specifier of a preceding noun.
 
 > Bha a chasan mu dheireadh cho luath ri **casan** **féidh**.
 >
