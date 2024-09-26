@@ -27,3 +27,15 @@ When a genitive noun is the specifier of a *verbal* noun, it typically marks wha
 > Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ **cur** seachad a **làithean** ’na thàmh.
 
 Here, the genitive plural common noun `làithean` ‘days’ is the specifier of the dative masculine verbal noun `cur` ‘sending’ – `a’ cur seachad a làithean` ‘spending his days’. Note that bthe underlying verbal structure would be `chuir e seachad a làithean` ‘he spent his days’, where làithean is the (nominative) object of `chuir` ‘sent’. 
+
+----
+
+Back up to: [Grammatical functions of genitive nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
+
+----
+
+Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
+
+----
