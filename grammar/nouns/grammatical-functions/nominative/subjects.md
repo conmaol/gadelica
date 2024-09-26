@@ -31,6 +31,4 @@ Finally, here is an example where a proper noun `Cumhal` is being used as the su
 
 Back up to: [Grammatical functions of nominative nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
 
-See also: [Nominative nouns, dative nouns and genitive nouns](../../grammatical-categories/case.md)
-
 ----
