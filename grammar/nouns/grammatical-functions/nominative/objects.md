@@ -1,20 +1,28 @@
 # Nominative nouns as objects of a verb
 
-Nominative nouns can also be grammatical *objects* of a verb.
+The second most common function of a nominative noun is to mark the grammatical object of a (transitive) verb.
 
-Here is an example with the nominative proper noun `Fionn` as object of the active verb `leig` ‘allow’:
+Here are some examples:
 
-> Phòs a mhàthair rìgh àraidh an déidh sin, ach cha do **leig** i **Fionn** beag às a h-aire.
-
-Some corresponding examples with common nouns are as follows:
-
-> **Phòs** a mhàthair **rìgh** àraidh an déidh sin.
+> **Phòs** a mhàthair **rìgh** àraidh.
 >
-> Latha de na làithean chaidh e a-mach agus **chunnaic** e **lach** a’ snàmh air loch.
+> Cha do **leig** i **Fionn** beag às a h-aire.
 >
-> **Thilg** e **urchair** oirre, agus **gheàrr** sin na **sgiathan** aice.
+> **Thilg** e **urchair** air an lach, agus **gheàrr** sin na **sgiathan** aice.
 
-In the next example, it is the (nominative) *verbal* noun `tighinn` ‘coming’ which is functioning as the grammatical object of the verb `leigeadh` ‘would allow’:
+In the first sentence here, the nominative masculine common noun `rìgh` ‘a king’ is the grammatical object of the transitive verb `phòs` ‘married’ – ‘his mother married an exceptional king’.
+
+In the second sentence, the nominative masculine proper noun `Fionn` is the object of the transitive verb `leig` ‘allowed’ – ‘she didn’t allow Finn out of her mind’.
+
+In the third example, the nominative feminine proper noun `urchair` ‘a stone’ is the object of the transitive verb `thilg` ‘threw’, and the nominative plural common noun `sgiathan` ‘wings’ is the object of the transitive verb `gheàrr` ‘cut’ – ‘he threw a stone at the duck, and that cut her wings’.
+
+
+
+
+
+
+
+<mark>In the next example</mark>, it is the (nominative) *verbal* noun `tighinn` ‘coming’ which is functioning as the grammatical object of the verb `leigeadh` ‘would allow’:
 
 > Chuireadh na mnathan a-mach air an loch e, agus **leigeadh** iad leis **tighinn** gu tìr mar a b’ fheàrr a dh’fhaodadh e.
 
@@ -37,5 +45,11 @@ In the second example, the nominative common noun *ainm* ‘a name’ is the obj
 ----
 
 Back up to: [Grammatical functions of nominative nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
+
+----
+
+Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
 ----
