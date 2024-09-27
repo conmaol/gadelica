@@ -2,7 +2,7 @@
 
 Nouns in Gaelic have *case* – every noun is either *nominative* or *dative* or *genitive*.
 
-Coming back to this passage from before:
+The following passage contains a range of nouns (all highlighted):
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
@@ -25,6 +25,8 @@ Back up to: [Grammatical categories of nouns](index.md) \| [Nouns](../index.md)
 ----
 
 Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
 - Traditional descriptions of Gaelic grammar commonly mention the ‘vocative’ as a fourth case. However, the vocative is not strictly speaking a grammatical case since it does not mark a syntactic relation between the noun and another verb, preposition, adjective or noun in the same sentence. For this reason, we will treat the vocative as a handful of inflectional idiosyncracies conditioned by the vocative particle `a`.
 
