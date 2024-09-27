@@ -2,13 +2,11 @@
 
 If a noun has no grammatical dependents of any kind, it is known as a ‘bare’ noun.
 
-*Proper nouns* usually occur bare.
+*Proper nouns* usually occur bare:
 
 > B’ e **Cumhal** a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh **Fionn**.
 >
 > Is i siud a’ chiad shealg a rinn **Fionn**.
-
-Note that unless otherwise specified all examples are adapted from the *[Fionn](../../Fionn.md)* text. Where appropriate, invented examples are marked as ◊.
 
 In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects) of verbs, respectively `b’` ‘was’, `robh` ‘was’ and `rinn` ‘did’. 
 
@@ -25,5 +23,11 @@ All three of the common nouns highlighted here lack any grammatical dependents, 
 ----
 
 Back up to: [Grammatical dependents of nouns](index.md) \| [Nouns](../index.md)
+
+----
+
+Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
 ----
