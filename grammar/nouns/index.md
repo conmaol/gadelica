@@ -9,7 +9,9 @@
 - [Grammatical dependents](grammatical-dependents/index.md)
   - [Bare nouns](grammatical-dependents/bare-nouns.md)
   - Modifiers of nouns
-  - Specifiers of nouns 
+  - [Specifiers of nouns](grammatical-dependents/specifiers/index.md)
+    - [Determiners](grammatical-dependents/specifiers/determiners.md)
+    - [Post-specifiers](grammatical-dependents/specifiers/post-specifiers.md) 
 - [Grammatical functions](grammatical-functions/index.md)
   - [Nominative nouns](grammatical-functions/nominative/index.md)
     - [Subjects of verbs](grammatical-functions/nominative/subjects.md)
