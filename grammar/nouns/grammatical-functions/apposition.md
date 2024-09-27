@@ -2,13 +2,17 @@
 
 A noun can stand in apposition to another noun (usually of the same case and gender).
 
+Here is an example involving nominative nouns:
+
 > Nuair a bha **Fionn mac** Cumhail ’na leanabh beag, mharbhadh ’athair.
 
-In this example, the nominative masculine proper noun `Fionn` and the nominative masculine common noun `mac` are in apposition to each other (and the proper noun `Cumhail` is the specifier of `mac`) – `Fionn mac Cumhail` ‘Finn, Cumhal’s son’.
+In this sentence, the nominative masculine proper noun `Fionn` and the nominative masculine common noun `mac` are in apposition (and the proper noun `Cumhail` is the specifier of `mac`) – ‘when Finn, Cumhal’s son, was a little infant, his father was killed’.
 
-> Phòs màthair **Fhinn mhic** Cumhaill rìgh àraidh.
+The next example involves genitive nouns:
 
-In this example, the genitive masculine proper noun `Fhinn` and the genitive masculine common noun `mhic` are in apposition to each other (while `Fhinn` is the specifier of `màthair` and `Cumhail` is the specifier of `mhic`) – `màthair Fhinn mhic Cumhail` ‘the mother of Finn, Cumhal’s son’.
+> Phòs màthair **Fhinn mhic** Cumhail rìgh àraidh.
+
+In this sentence, the (lenited) genitive masculine proper noun `Fhinn` and the (lenited) genitive masculine common noun `mhic` are in apposition (while `Fhinn` is the specifier of `màthair` and `Cumhail` is the specifier of `mhic`) – ‘the mother of Finn, Cumhal’s son, married an exceptional king’.
 
 ----
 
