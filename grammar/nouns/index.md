@@ -1,6 +1,8 @@
 # Nouns
 
 - [Semantic characteristics](semantic-characteristics/index.md)
+  - [Concrete nouns and abstract nouns](concrete-nouns-and-abstract-nouns.md)
+  - [Proper nouns and common nouns](proper-nouns-and-common-nouns.md)
 - [Grammatical categories](grammatical-categories/index.md)
 - [Grammatical dependents](grammatical-dependents/index.md)
 - [Grammatical functions](grammatical-functions/index.md)
