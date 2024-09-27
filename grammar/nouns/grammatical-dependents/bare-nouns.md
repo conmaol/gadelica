@@ -8,17 +8,17 @@ If a noun has no grammatical dependents of any kind, it is known as a ‘bare’
 >
 > Is i siud a’ chiad shealg a rinn **Fionn**.
 
-In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects) of verbs, respectively `b’` ‘was’, `robh` ‘was’ and `rinn` ‘did’. 
+In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn` are both bare of grammatical dependents, even though they are themselves dependents (specifically subjects of verbs) – ‘It was Cumhal that was [the] name of one of these men, and he had a son on whom was [the name] Finn’; ‘That is the first hunt that Finn did’. 
 
-*Common nouns* can also appear bare, in which case they have ‘indefinite’, unmodified meaning.
+*Common nouns* can also appear bare, in which case they have ‘indefinite’, unmodified meaning:
 
-> Latha de na làithean chaidh e a-mach agus chunnaic e lach a’ snàmh air **loch**.
+> Chunnaic e lach a’ snàmh air **loch**.
 >
-> Thilg e **urchair** oirre, agus gheàrr sin na sgiathan aice.
+> Thilg e **urchair** oirre.
 > 
-> Bha aige ri an cumail ’nan cròileagan cruinn ann am badan àraidh, agus is ann le bhith sìor ruith timcheall orra a bha a chasan mu dheireadh cho luath ri casan **féidh**.
+> Bha a chasan mu dheireadh cho luath ri casan **féidh**.
 
-All three of the common nouns highlighted here lack any grammatical dependents, although they are all themselves dependents of other words in the sentence. The dative masculine noun `loch` ‘a lake’ is the complement of the preposition `air` ‘on’; the nominative feminine noun `urchair` ‘a shot, a stone’ is the object of the verb `thilg` ‘threw’; and the genitive masculine noun `féidh` ‘a deer’ is the specifier of the plural common noun `casan` ‘feet’.
+All three of the common nouns highlighted here lack any grammatical dependents, although they are all themselves dependents of other words in the sentence. The dative masculine noun `loch` ‘a lake’ is the complement of the preposition `air` ‘on’ – ‘he saw a duck swimming on a lake’; the nominative feminine noun `urchair` ‘a shot, a stone’ is the object of the verb `thilg` ‘threw’ – ‘he threw a stone at her’; and the genitive masculine noun `féidh` ‘a deer’ is the specifier of the plural common noun `casan` ‘feet’ – ‘his feet were as swift as a deer’s feet’.
 
 ----
 
