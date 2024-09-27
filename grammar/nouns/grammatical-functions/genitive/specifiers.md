@@ -2,31 +2,31 @@
 
 One of the main functions of a genitive noun is to mark the specifier of a preceding noun.
 
-> Bha a chasan mu dheireadh cho luath ri **casan** **féidh**.
+Here are a couple of examples:
+
+> Bha a chasan cho luath ri **casan féidh**.
 >
 > Bha eagal air a mhàthair gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**.
 
-In the first example here, the genitive masculine common noun `féidh` ‘deer’ functions as the specifier of the dative plural common noun `casan` ‘feet’ – `casan féidh` ‘a deer’s feet’. 
+In the first example here, the genitive masculine common noun `féidh` ‘deer’ is the specifier of the dative plural common noun `casan` ‘feet’ – ‘his feet were as swift as a deer’s feet’. 
 
-In the second example, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’ – `naimhdean ’athar` ‘his father’s enemies’.
+In the second example, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’, and the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’ – ‘his mother was afraid that his father’s enemies would come in pursuit of the infant’.
 
-Also in the second example, the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’ – `air tòir an leinibh` ‘in pursuit of the infant’.
+*Proper* nouns too can function as specifiers, of both common and proper nouns:
 
-*Proper* nouns too can function as specifiers, of both common and proper nouns.
-
-> ◊ Phòs **màthair** Fhinn rìgh àraidh.
+> Phòs **màthair Fhinn** rìgh àraidh.
 >
-> ◊ Nuair a bha **Fionn Chumhail** ’na leanabh beag, mharbhadh ’athair.
+> Nuair a bha **Fionn Chumhail** ’na leanabh beag, mharbhadh ’athair.
 
-In the first example, the nominative feminine common noun `màthair` ‘mother’ has as its specifier the genitive masculine proper noun `Fhinn` – `màthair Fhinn` ‘Finn’s mother’.
+In the first example, the (lenited) genitive masculine proper noun `Fhinn` is the specifier of the nominative feminine common noun `màthair` ‘mother’  – ‘Finn’s mother married an exceptional king’.
 
-In the second example, the genitive masculine proper noun `Chumhail` is the specifier of the nominative masculine proper noun `Fionn` – `Fionn Chumhail` ‘Cumhal’s Finn’.
+In the second example, the (lenited) genitive masculine proper noun `Chumhail` is the specifier of the nominative masculine proper noun `Fionn` – ‘when Cumhal’s Finn was a little infant, his father was killed’.
 
-When a genitive noun is the specifier of a *verbal* noun, it typically marks what would have been the *object* of the underlying verb:
+Finally, when a genitive noun is the specifier of a *verbal* noun, it typically marks what would have been the *object* of the underlying verb:
 
-> Ged nach robh e a-riamh ann an sgoil mar a tha na gillean an-diugh, cha robh e idir a’ **cur** seachad a **làithean** ’na thàmh.
+> Cha robh e a’ **cur** seachad a **làithean** ’na thàmh.
 
-Here, the genitive plural common noun `làithean` ‘days’ is the specifier of the dative masculine verbal noun `cur` ‘sending’ – `a’ cur seachad a làithean` ‘spending his days’. Note that bthe underlying verbal structure would be `chuir e seachad a làithean` ‘he spent his days’, where làithean is the (nominative) object of `chuir` ‘sent’. 
+Here, the genitive plural common noun `làithean` ‘days’ is the specifier of the dative masculine verbal noun `cur` ‘sending’ – ‘he was not spending his days at ease’. 
 
 ----
 
