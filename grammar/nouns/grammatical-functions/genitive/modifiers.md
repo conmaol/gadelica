@@ -20,7 +20,7 @@ Back up to: [Grammatical functions of genitive nouns](index.md) \|  [Grammatical
 
 Notes:
 
-- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
 - Note that a genitive common noun which is a modifier of a noun cannot itself have a specifier. This is a ket criterion for the diference between genitive nouns used as modifiers and those used as specifiers.
 
