@@ -4,6 +4,8 @@
   - [Concrete nouns and abstract nouns](semantic-characteristics/concrete-nouns-and-abstract-nouns.md)
   - [Proper nouns and common nouns](semantic-characteristics/proper-nouns-and-common-nouns.md)
 - [Grammatical categories](grammatical-categories/index.md)
+  - [Feminine nouns, masculine nouns and plural nouns](grammatical-categories/gender.md)
+  - [Nominative nouns, dative nouns and genitive nouns](grammatical-categories/case.md)
 - [Grammatical dependents](grammatical-dependents/index.md)
 - [Grammatical functions](grammatical-functions/index.md)
   - [Nominative nouns](grammatical-functions/nominative/index.md)
