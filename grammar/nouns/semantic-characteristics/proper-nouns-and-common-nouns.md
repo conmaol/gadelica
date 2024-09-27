@@ -6,7 +6,7 @@ Nouns can be classified according to the nature of their denotation, or the way 
 
 *Common nouns* denote classes of entity.
 
-Recall the following short passage from the *[Fionn](../../Fionn.md)* story:
+The following passage contains a range of both proper and common nouns (all highlighted):
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
