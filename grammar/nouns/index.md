@@ -11,4 +11,5 @@
   - [Genitive nouns](grammatical-functions/genitive/index.md)
     - [Specifiers of nouns](grammatical-functions/genitive/specifiers.md)
     - [Modifiers of nouns](grammatical-functions/genitive/modifiers.md)
+  - [Nouns in apposition](grammatical-functions/apposition.md)
 
