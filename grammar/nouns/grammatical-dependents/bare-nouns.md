@@ -24,6 +24,8 @@ All three of the common nouns highlighted here lack any grammatical dependents, 
 
 Back up to: [Grammatical dependents of nouns](index.md) \| [Nouns](../index.md)
 
+See also: [Grammatical functions of nouns](../grammatical-functions/index.md)
+
 ----
 
 Notes:
