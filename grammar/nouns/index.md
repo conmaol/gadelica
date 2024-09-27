@@ -7,6 +7,9 @@
   - [Feminine nouns, masculine nouns and plural nouns](grammatical-categories/gender.md)
   - [Nominative nouns, dative nouns and genitive nouns](grammatical-categories/case.md)
 - [Grammatical dependents](grammatical-dependents/index.md)
+  - [Bare nouns](grammatical-dependents/bare-nouns.md)
+  - Modifiers of nouns
+  - Specifiers of nouns 
 - [Grammatical functions](grammatical-functions/index.md)
   - [Nominative nouns](grammatical-functions/nominative/index.md)
     - [Subjects of verbs](grammatical-functions/nominative/subjects.md)
