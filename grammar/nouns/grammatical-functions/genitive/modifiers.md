@@ -22,8 +22,8 @@ Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
-- Note that a genitive common noun which is a modifier of a noun cannot have a specifier.
+- Note that a genitive common noun which is a modifier of a noun cannot itself have a specifier. This is a ket criterion for the diference between genitive nouns used as modifiers and those used as specifiers.
 
-- Note also that a proper noun cannot be a modifier of a noun.
+- Note also that a proper noun cannot be a modifier of a noun. In other words, genitive proper nouns are always specifiers.
 
 ----
