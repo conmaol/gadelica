@@ -4,7 +4,7 @@ Nouns are words that typically denote *material* entities.
 
 Material entities are those real-world individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules and crystals etc. 
 
-Every word that denotes a material entity is a noun (or a [pronoun](../../pronouns.md)). 
+Every word that denotes a material entity is a noun (or a pronoun). 
 
 However, not every noun denotes a material entity. Some nouns denote *non-material* entities, which are not made out of matter. Non-material entities include spaces (places and paths) and situations (states, processes, events and actions).
 
