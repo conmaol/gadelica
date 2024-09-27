@@ -2,7 +2,7 @@
 
 Nouns in Gaelic have *gender* – every noun is either *feminine* or *masculine* or *plural*.
 
-Recall the *[Fionn](../../Fionn.md)* example passage from the previous section, reproduced below for convenience.
+The following passage contains a range of nouns, all highlighted:
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
@@ -25,6 +25,8 @@ Back up to: [Grammatical categories of nouns](index.md) \| [Nouns](../index.md)
 ----
 
 Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
   
 - Traditional descriptions of Gaelic grammar usually distinguish between the two, allegedly orthogonal, grammatical categories of *gender* (feminine or masculine) and *number* (singular or plural). However, these categories are clearly *not* orthogonal in modern Gaelic, since there is no gender distinction whatsoever in the plural – plural nouns derived from feminine singulars behave in exactly the same way as those derived from masculine singulars. Therefore, it seems clear that ‘plural number’ in modern Gaelic is more accurately treated as a third (non-sex-based) grammatical gender.
   
