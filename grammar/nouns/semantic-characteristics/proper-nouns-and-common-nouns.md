@@ -45,6 +45,8 @@ Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md
 
 Notes:
 
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
+
 - Proper nouns are always capitalised in writing, even when they do not occur as the first word in a sentence. However, not all capitalised nouns in the middle of a sentence are proper nouns. For example, `Fhiann` ‘warriors’ in the passage above is correctly classified as a common noun. It is capitalised in the text because it is the core element (the ‘head’) of a phrase, `an Fhiann` ‘the Warriors’, which is being presented as the name of a particular group of men (cf. ‘the Fenians’). Moreover, even though `an Fhiann` is a name, it would be incorrect to characterise it as a proper noun, since it is not a noun.
   
 - The dimensions of concrete vs. abstract and proper vs. common are not truly orthogonal. It seems that all proper nouns are concrete, and hence that all abstract nouns are common.
