@@ -12,6 +12,8 @@ A noun can have no specifier whatsoever, in which case it has ‘indefinite’ m
 However, a noun cannot have both a pre-specifier and a post-specifier:
 
 > ❌ na caoraich Sheumais ‘the James’s sheep’
+>
+> ❌ na caoraich a’ Mhinisteir ‘the Minister’s sheep’
 
 Finally, a proper noun can only have a post-specifier and *not* a pre-specifier:
 
