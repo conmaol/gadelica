@@ -88,7 +88,7 @@ Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
-- It is unclear what happens when a common noun is the (post-)specifier of a proper noun and has its own post-specifier:
+- It is unclear what happens in those edge cases where a common noun is the (post-)specifier of a proper noun and has its own post-specifier:
   > `⁉️ Thàinig Oisean atha[i]r Fhinn.` ‘Finn’s father’s Ossian came.’  
   > `⁉️ Thàinig Oisean atha[i]r an leinibh.` ‘The infant’s father’s Ossian came.’)
 
