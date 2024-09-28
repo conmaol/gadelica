@@ -46,42 +46,41 @@ In the second sentence, the genitive feminine common noun `Féinne` ‘Fenians�
 
 By extension, a genitive proper noun which is the (post-)specifier of another noun can itself have a genitive noun as post-specifier.
 
-> `Bha eagal air Fionn Chumhail na Féinne.`
+> `Bha eagal air Fionn Chumhail na Féinne.` ‘The Fenians’ Cumhal’s Finn was afraid.’
 > 
-> `Thàinig naimhdean Chumhail na Féinne.`
+> `Thàinig naimhdean Chumhail na Féinne.` ‘The Fenians’ Cumhal’s enemies came.’
+>
+> `Bha eagal air Finn Chumhail Oisein.` ‘Ossian’s Cumhal’s Finn was afraid.’
 > 
-> `Bha eagal air Oisean Fhinn Chumhail (na Féinne).`
-> 
-> `Thàinig naimhdean Fhinn Chumhail (na Féinne).`
+> `Thàinig naimhdean Chumhail Oisein.` ‘Ossian’s Cumhal’s enemies came.’
+
+In the first sentence here, the (lenited) genitive masculine proper noun `Chumhail` is the (post-)specifier of the dative masculine proper noun `Fionn`, and itself has a post-specifier, the genitive feminine common noun `Féinne` ‘Fenians’. The second sentence is similar but `Chumail` is the (post-)specifier of a common noun `naimhdean` ‘enemies’.
+
+In the third and fourth sentences, `Chumail` functions the same as before but in these cases has the genitive masculine *proper* noun `Oisein` ‘Ossian’ as its own specifier.
 
 #### Common nouns
 
-**When a noun is both (post-)specifier of another noun and has yet another noun as its own (post-)specifier, then that (intermediate) noun must appear in the nominative case rather than in the genitive.**
+In constrast to the situation with proper nouns discussed above, a genitive common noun which is the (post-)specifier of another noun *cannot* itself have a genitive noun as post-specifier.
 
-> Thàinig **naimhdean athair** an **leinibh**.
+This gap is exemplified by the role of genitive masculine `athar` ‘a father’ in the following ungrammatical sentences:
 
-Here, the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the nominative masculine common noun `athair` ‘a father’, which is itself the specifier of the nominative plural common noun `naimhdean` ‘enemies’ – ‘the infant’s father’s enemies came’. If the intermediate noun were genitive, then the sentence would be ungrammatical – 
+> `❌ Thàinig naimhdean athar Fhinn.` (for ‘Finn’s father’s enemies came.’)
 
-> ❌ Thàinig naimhdean **athar** an leinibh.
+> `❌ Thàinig naimhdean athar an leinibh.` (for ‘The infant’s father’s enemies came.’)
 
+**A common noun which is the (post-)specifier of another noun, whilst having yet another noun as its own (post-)specifier, must appear in the nominative case rather than in the genitive.**
 
-Thàinig naimhdean athair Fhinn. 
+The grammatical versions of the previous two sentences are as follows, where genitive `athar` has been replaced by nominative `athair`:
 
-Thàinig naimhdean Fhinn Chumhail. ??
+> `Thàinig naimhdean athair Fhinn.` ‘Finn’s father’s enemies came.’
 
-Thàinig naimhdean Chumhail na Féinne. ??
+> `Thàinig naimhdean athair an leinibh.` ‘The infant’s father’s enemies came.’)
 
-Thàinig Fionn Chumhail na Féinne.
+<mark>What about when the common noun is specifier of a proper noun?</mark>
 
-Difference between common and proper nouns here?
+> `Thàinig Oisean athair Fhinn.` ‘Finn’s father’s Ossian came.’
 
-
-
-
----
-
-
-Note that a common noun cannot have both a pre-specifier and a post-specifier (at the same time) – the only way of translating ‘the enemies of his father’ into Gaelic is `naimhdean a athar` and certainly not `* na naimhdean a athar`.
+> `Thàinig Oisean athair an leinibh.` ‘The infant’s father’s Ossian came.’)
 
 ----
 
