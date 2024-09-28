@@ -1,4 +1,4 @@
-# Determiners
+# Determiners as pre-specifiers of nouns
 
 A *common* noun can have a pre-specifier, which must be either a form of the definite article, or another determiner.
 
