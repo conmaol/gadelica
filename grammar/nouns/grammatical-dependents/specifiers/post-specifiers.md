@@ -76,12 +76,6 @@ The grammatical versions of the previous two sentences are as follows, where gen
 
 > `Thàinig naimhdean athair an leinibh.` ‘The infant’s father’s enemies came.’)
 
-<mark>What about when the common noun is specifier of a proper noun?</mark>
-
-> `Thàinig Oisean athair Fhinn.` ‘Finn’s father’s Ossian came.’
-
-> `Thàinig Oisean athair an leinibh.` ‘The infant’s father’s Ossian came.’)
-
 ----
 
 Back up to: [Specifiers of nouns](index.md) \| [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
@@ -91,6 +85,10 @@ Back up to: [Specifiers of nouns](index.md) \| [Grammatical dependents of nouns]
 Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
+
+- It is unclear what happens when a common noun is the (post-)specifier of a proper noun and has its own post-specifier:
+  > `⁉️ Thàinig Oisean atha[i]r Fhinn.` ‘Finn’s father’s Ossian came.’  
+  > `⁉️ Thàinig Oisean atha[i]r an leinibh.` ‘The infant’s father’s Ossian came.’)
 
 - McCaulay (1992: 191)
   > (206) bàta mac Chaluim
