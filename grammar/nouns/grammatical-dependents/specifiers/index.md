@@ -1,4 +1,4 @@
-# Specifiers
+# Specifiers of nouns
 
 A noun can have no more than one specifier, which can be either:
 
