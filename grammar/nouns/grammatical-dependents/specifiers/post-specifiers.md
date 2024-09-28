@@ -6,33 +6,55 @@ A noun can have a post-specifier, which is usually a genitive noun.
 
 Here are some examples of common nouns with post-specifiers:
 
-> Bha eagal air a mhathair gun tigeadh **naimhdean ’athar** air **tòir** an **leinibh**.
+> `Thàinig naimhdean ’athar air tòir an leinibh.` ‘His father’s enemies came in pursuit of the infant.’
 > 
-> Phòs **màthair Fhinn** rìgh àraidh.
+> `Phòs màthair Fhinn rìgh àraidh.` ‘Finn’s mother married an exceptional king.’
 
-In the first sentence, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’, and the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’ – ‘his mother was afraid that his father’s enemies would come in pursuit of the infant’.
+In the first sentence, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’, and the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’.
 
-In the second sentence, the genitive masculine proper noun `Fhinn` is the specifier of the nominative feminine common noun `màthair` – ‘Finn’s mother married an exceptional king’.
+In the second sentence, the (lenited) genitive masculine proper noun `Fhinn` is the specifier of the nominative feminine common noun `màthair` ‘mother’.
 
 ### Proper nouns
 
 Here are some examples of proper nouns with post-specifiers:
 
-> Nuair a bha **Fionn Chumhail** ’na leanabh beag, mharbhadh ’athair.
+> `Nuair a bha Fionn Chumhail ’na leanabh beag, mharbhadh ’athair.` ‘When Cumhal’s Finn was a little infant, his father was killed.’
 >
-> Bha mac aig **Cumhal** na **Féinne**.
+> `Bha mac aig Cumhal na Féinne.` ‘Cumhal of the Fenians had a son.’
 
-In the first sentence here, the (lenited) genitive masculine proper noun `Chumhaill` is the specifier of the nominative masculine proper noun `Fionn` – ‘when Cumhal’s Finn was a little infant, his father was killed’.
+In the first sentence here, the (lenited) genitive masculine proper noun `Chumhail` is the specifier of the nominative masculine proper noun `Fionn`.
 
-In the second sentence, the genitive feminine common noun `Féinne` is the specifier of the dative masculine proper noun `Cumhal` – ‘Cumhal of the Fenians had a son’.
+In the second sentence, the genitive feminine common noun `Féinne` ‘Fenians’ is the specifier of the dative masculine proper noun `Cumhal`.
 
-### Embedding of specifiers
+### Pre-specifiers of (post-)specifiers
 
-A noun which is the specifier of another noun, can itself have a specifier.
+A genitive common noun which is the (post-)specifier of another noun can itself have a determiner as pre-specifier.
 
-> Thàinig **naimhdean ’athar**.
+> `Thàinig naimhdean ’athar air tòir an leinibh.` ‘His father’s enemies came in pursuit of the infant.’
+>
+> `Bha mac aig Cumhal na Féinne.` ‘Cumhal of the Fenians had a son.’
 
-Here, the genitive masculine common noun `athar` ‘a father’ is, as discussed above, the (post-)specifier of the nominative plural common `naimhdean` ‘enemies’, but it also has its own (pre-)specifier, the personal determiner `a` ‘his’ (elided in the orthography here) – ‘his father’s enemies came’.
+In the first sentence here, the genitive masculine common noun `athar` ‘a father’ is the post-specifier of the nominative plural common `naimhdean` ‘enemies’, but it also has its own (pre-)specifier, the personal determiner `a` ‘his’ (elided in the orthography here).
+
+Similarly, the genitive masculine common noun `leinibh` ‘an infant’ is the post-specifier of the dative feminine common noun `tòir` ‘a pursuit’, but it too has its own pre-specifier, the definite article `an` ‘the’.
+
+In the second sentence, the genitive feminine common noun `Féinne` ‘Fenians’ is the specifier of the dative masculine proper noun `Cumhal`, whilst also having its own pre-specifier, the definite article `na` ‘the’.
+
+### Post-specifiers of (post-)specifiers
+
+#### Proper nouns
+
+A genitive proper noun which is the (post-)specifier of another noun can itself have a genitive noun as post-specifier.
+
+> `Bha eagal air Fionn Chumhail na Féinne.`
+> 
+> `Thàinig naimhdean Chumhail na Féinne.`
+> 
+> `Bha eagal air Oisean Fhinn Chumhail (na Féinne).`
+> 
+> `Thàinig naimhdean Fhinn Chumhail (na Féinne).`
+
+#### Common nouns
 
 **When a noun is both (post-)specifier of another noun and has yet another noun as its own (post-)specifier, then that (intermediate) noun must appear in the nominative case rather than in the genitive.**
 
