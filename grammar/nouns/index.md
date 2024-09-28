@@ -14,12 +14,12 @@
     - [Post-specifiers](grammatical-dependents/specifiers/post-specifiers.md) 
 - [Grammatical functions](grammatical-functions/index.md)
   - [Nominative nouns](grammatical-functions/nominative/index.md)
-    - [Subjects of verbs](grammatical-functions/nominative/subjects.md)
-    - [Objects of verbs](grammatical-functions/nominative/objects.md)
-  - [Dative nouns: complements of prepositions](grammatical-functions/dative.md)
+    - [As subjects of verbs](grammatical-functions/nominative/subjects.md)
+    - [As objects of verbs](grammatical-functions/nominative/objects.md)
+  - [Dative nouns as complements of prepositions](grammatical-functions/dative.md)
   - [Genitive nouns](grammatical-functions/genitive/index.md)
-    - [Specifiers of nouns](grammatical-functions/genitive/specifiers.md)
-    - [Modifiers of nouns](grammatical-functions/genitive/modifiers.md)
+    - [As specifiers of nouns](grammatical-functions/genitive/specifiers.md)
+    - [As modifiers of nouns](grammatical-functions/genitive/modifiers.md)
   - [Nouns in apposition](grammatical-functions/apposition.md)
   - Nouns in conjunction
 
