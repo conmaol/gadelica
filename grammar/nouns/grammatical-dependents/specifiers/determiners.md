@@ -16,9 +16,9 @@ Finally, in the next example, the incorporated personal determiner `a` ‘his’
 
 Note that a *proper* noun cannot have a determiner as pre-specifier:
 
-> `❌ Bha mo Fhionn a’ snàmh.` for ‘My Finn was swimming.’
+> `❌ Bha mo Fhionn a’ snàmh.` (for ‘My Finn was swimming.’)
 >
-> `❌ Mharbhadh gach Cumhal.` for ‘Every (man called) Cumhal was killed.’
+> `❌ Mharbhadh gach Cumhal.` (for ‘Every (man called) Cumhal was killed.’)
 
 ----
 
