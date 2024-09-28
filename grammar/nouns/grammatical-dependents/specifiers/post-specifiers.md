@@ -1,4 +1,4 @@
-# Post-specifiers
+# Post-specifiers of nouns
 
 The specifier of a noun can be a following noun, usually a genitive noun.
 
@@ -63,7 +63,7 @@ Note that a common noun cannot have both a pre-specifier and a post-specifier (a
 
 ----
 
-Back up to: [Specifiers](index.md) \| [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
+Back up to: [Specifiers of nouns](index.md) \| [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
 
 ----
 
