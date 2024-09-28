@@ -2,8 +2,8 @@
 
 A noun can have no more than one specifier, which can be either:
 
-- a [determiner](determiners.md) as pre-specifier, eg. `na chaoraich` ‘the sheep’
-- a noun as [post-specifier](post-specifiers.md), eg. `caoraich Sheumais` ‘James’s sheep’
+- a [determiner](determiners.md) as pre-specifier, eg. `na caoraich` ‘the sheep’
+- a noun as [post-specifier](post-specifiers.md), eg. `caoraich Sheumais` ‘James’s sheep’, `caoraich a’ Mhinisteir` ‘the Minister’s sheep’
 
 A noun can have no specifier whatsoever, in which case it has ‘indefinite’ meaning:
 
