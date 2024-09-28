@@ -11,15 +11,15 @@ Note that a noun can have *no* specifier whatsoever, in which case it has ‘ind
 
 Secondly, a noun cannot have *both* a pre-specifier *and* a post-specifier:
 
-> `❌ na caoraich Sheumais` ‘the James’s sheep’
+> `❌ na caoraich Sheumais` (for ‘the James’s sheep’)
 >
->`❌ na caoraich a’ Mhinisteir` ‘the Minister’s sheep’
+>`❌ na caoraich a’ Mhinisteir` (for ‘the Minister’s sheep’)
 
 Finally, a proper noun can *only* have a post-specifier and *not* a pre-specifier:
 
 > `Seumas a’ Mhinisteir` ‘the Minister’s James’
 >
->`❌ mo Sheumas` ‘my James’
+>`❌ mo Sheumas` (for ‘my James’)
 
 ----
 
