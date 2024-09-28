@@ -1,6 +1,6 @@
 # Post-specifiers of nouns
 
-The specifier of a noun can be a following noun, usually a genitive noun.
+A noun can have a post-specifier, which is usually a genitive noun.
 
 ### Common nouns
 
