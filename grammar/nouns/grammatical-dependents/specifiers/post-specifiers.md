@@ -72,7 +72,7 @@ To be clear, the following ‘double genitive avoidance’ rule holds in Gaelic:
 
 > **A common noun which is the (post-)specifier of another noun, whilst having yet another noun as its own (post-)specifier, must appear in the nominative case rather than in the genitive.**
 
-The grammatical versions of the previous two sentences are as follows, where genitive `athar` has been replaced by nominative `athair`:
+Thus, the grammatical versions of the previous two sentences are as follows, where genitive `athar` has been replaced by nominative `athair`:
 
 > `Thàinig naimhdean athair Fhinn.` ‘Finn’s father’s enemies came.’
 
