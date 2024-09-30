@@ -24,4 +24,9 @@ Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
+- McCaulay’s (1992) description of Gaelic grammar lists the following interesting example (§4.3.2.1):  
+  > `bàta mac Iain mac Sheumais mac Dhòmhnaill` ‘the son of Iain son of Seumas son of Donald’s boat’
+  
+  This example shows interplay between apposition and [specification](../grammatical-dependents/specifiers/post-specifiers.md) in patronymics. The (lenited) genitive masculine proper noun `Dhòmhnaill` ‘Donald’s’ is the specifier of the third instance of the nominative masculine common noun `mac` ‘a son’, which is itself in apposition to the (lenited) genitive masculine proper noun `Sheumais` ‘James’s’, which is itself the specifier of the second instance of the nominative masculine common noun `mac`, which is itself in apposition to the genitive masculine proper noun `Iain` ‘John’s’, which is itself the specifier of the first instance of the nominative masculine common noun `mac`, which is itself the specifier of the nominative masculine common noun `bàta` ‘a boat’.
+
 ----
