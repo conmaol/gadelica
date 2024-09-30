@@ -4,29 +4,29 @@ One of the main functions of a genitive noun is to mark the specifier of a prece
 
 Here are a couple of examples:
 
-> Bha a chasan cho luath ri **casan féidh**.
+> `Bha a chasan cho luath ri casan féidh.` ‘His feet were as swift as a deer’s feet.’
 >
-> Bha eagal air a mhàthair gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**.
+> `Thàinig naimhdean ’athar air tòir an leinibh.` ‘His father’s enemies came in pursuit of the infant.’
 
-In the first example here, the genitive masculine common noun `féidh` ‘deer’ is the specifier of the dative plural common noun `casan` ‘feet’ – ‘his feet were as swift as a deer’s feet’. 
+In the first example here, the genitive masculine common noun `féidh` ‘deer’ is the specifier of the dative plural common noun `casan` ‘feet’. 
 
-In the second example, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’, and the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’ – ‘his mother was afraid that his father’s enemies would come in pursuit of the infant’.
+In the second example, the genitive masculine common noun `athar` ‘a father’ is the specifier of the nominative plural common noun `naimhdean` ‘enemies’, and the genitive masculine common noun `leinibh` ‘an infant’ is the specifier of the dative feminine common noun `tòir` ‘a pursuit’.
 
 *Proper* nouns too can function as specifiers, of both common and proper nouns:
 
-> Phòs **màthair Fhinn** rìgh àraidh.
+> `Phòs màthair Fhinn rìgh àraidh.` ‘Finn’s mother married an exceptional king.’
 >
-> Nuair a bha **Fionn Chumhail** ’na leanabh beag, mharbhadh ’athair.
+> `Nuair a bha Fionn Chumhail ’na leanabh beag, mharbhadh ’athair.` ‘When Cumhal’s Finn was a little infant, his father was killed.’
 
-In the first example, the (lenited) genitive masculine proper noun `Fhinn` is the specifier of the nominative feminine common noun `màthair` ‘mother’  – ‘Finn’s mother married an exceptional king’.
+In the first example, the (lenited) genitive masculine proper noun `Fhinn` is the specifier of the nominative feminine common noun `màthair` ‘a mother’.
 
-In the second example, the (lenited) genitive masculine proper noun `Chumhail` is the specifier of the nominative masculine proper noun `Fionn` – ‘when Cumhal’s Finn was a little infant, his father was killed’.
+In the second example, the (lenited) genitive masculine proper noun `Chumhail` is the specifier of the nominative masculine proper noun `Fionn` – ‘’.
 
-Finally, when a genitive noun is the specifier of a *verbal* noun, it typically marks what would have been the *object* of the underlying verb:
+When a genitive noun is the specifier of a *verbal* noun, it typically marks what would have been the *object* of the underlying verb:
 
-> Cha robh e a’ **cur** seachad a **làithean** ’na thàmh.
+> `Cha robh e a’ cur seachad a làithean ’na thàmh.` ‘He was not spending his days at ease.’
 
-Here, the genitive plural common noun `làithean` ‘days’ is the specifier of the dative masculine verbal noun `cur` ‘sending’ – ‘he was not spending his days at ease’. 
+Here, the genitive plural common noun `làithean` ‘days’ is the specifier of the dative masculine verbal noun `cur` ‘sending’. 
 
 ----
 
@@ -39,5 +39,10 @@ See also: [Post-specifiers of nouns](../../grammatical-dependents/specifiers/pos
 Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
+
+- Note, however, that not all common nouns that are the specifier of a preceding noun are genitive nouns. According to the rule of ‘double genitive avoidance’, a common noun which is the (post-)specifier of another noun, whilst having yet another noun as its own (post-)specifier, must appear in the [nominative](../nominative/specifiers.md) case rather than in the genitive.
+  > `❌ Thàinig naimhdean athar an leinibh.`    
+  > `Thàinig naimhdean athair an leinibh.` ‘The infant’s father’s enemies came.’)
+
 
 ----
