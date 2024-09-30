@@ -2,7 +2,14 @@
 
 One highly marginal function of a (specified) nominative common noun is to be the specifier of another, preceding, noun.
 
-[Genitive nouns as specifiers of a noun](../genitive/specifiers.md)
+When a noun is the (post-)specifier of another noun it is usuualy in the [genitive](../genitive/specifiers.md) case.
+
+examples?
+
+But when a noun: (a) is a  common noun; (b) is the specifier of another noun; **and** (c) itself has yet another noun as its own a (post-)specifier, then it must be in the nominative case.
+
+This is knows as the ‘avoid double genitive’ rule.
+
 
 ----
 
