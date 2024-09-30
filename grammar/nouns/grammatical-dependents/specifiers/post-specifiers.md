@@ -92,7 +92,7 @@ Notes:
   > `⁉️ Thàinig Oisean atha[i]r Fhinn.` ‘Finn’s father’s Ossian came.’  
   > `⁉️ Thàinig Oisean atha[i]r an leinibh.` ‘The infant’s father’s Ossian came.’)
 
-- McCaulay’s (1992) description lists two interesting examples §4.3.2.1):
+- McCaulay’s (1992) description lists two interesting examples (§4.3.2.1):
   > `bàta mac Chaluim` ‘Calum’s son’s boat’  
   > `bàta mac Iain mac Sheumais mac Dhòmhnaill` ‘the son of Iain son of Seumas son of Donald’s boat’
   
