@@ -82,7 +82,7 @@ Thus, the grammatical versions of the previous two sentences are as follows, whe
 
 Back up to: [Specifiers of nouns](index.md) \| [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
 
-See also: [Genitive nouns as specifiers of nouns](../../grammatical-functions/genitive/specifiers.md)
+See also: [Genitive nouns as specifiers of nouns](../../grammatical-functions/genitive/specifiers.md) \| [Nominative common nouns as specifiers of nouns](../../grammatical-functions/nominative/specifiers.md)
 
 ----
 
