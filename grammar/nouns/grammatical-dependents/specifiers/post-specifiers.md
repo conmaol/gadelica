@@ -44,11 +44,11 @@ In the second sentence, the genitive feminine common noun `Féinne` ‘Fenians�
 
 #### Proper nouns
 
-By extension, a genitive proper noun which is the (post-)specifier of another noun can itself have a genitive noun as post-specifier.
+Similarly, a genitive proper noun which is the (post-)specifier of another noun can itself have a genitive noun as post-specifier.
 
-> `Bha eagal air Fionn Chumhail na Féinne.` ‘The Fenians’ Cumhal’s Finn was afraid.’
+> `Bha eagal air Fionn Chumhail na Féinne.` ‘Cumhal of the Fenians’s Finn was afraid.’
 > 
-> `Thàinig naimhdean Chumhail na Féinne.` ‘The Fenians’ Cumhal’s enemies came.’
+> `Thàinig naimhdean Chumhail na Féinne.` ‘Cumhal of the Fenians’s enemies came.’
 >
 > `Bha eagal air Finn Chumhail Oisein.` ‘Ossian’s Cumhal’s Finn was afraid.’
 > 
@@ -56,7 +56,7 @@ By extension, a genitive proper noun which is the (post-)specifier of another no
 
 In the first sentence here, the (lenited) genitive masculine proper noun `Chumhail` is the (post-)specifier of the dative masculine proper noun `Fionn`, and itself has a post-specifier, the genitive feminine common noun `Féinne` ‘Fenians’. The second sentence is similar but `Chumail` is the (post-)specifier of a common noun `naimhdean` ‘enemies’.
 
-In the third and fourth sentences, `Chumail` functions the same as before but in these cases has the genitive masculine *proper* noun `Oisein` ‘Ossian’ as its own specifier.
+In the third and fourth sentences, `Chumail` functions in the same way as before but in these cases has the genitive masculine *proper* noun `Oisein` ‘Ossian’ as its own specifier.
 
 #### Common nouns
 
@@ -92,11 +92,13 @@ Notes:
   > `⁉️ Thàinig Oisean atha[i]r Fhinn.` ‘Finn’s father’s Ossian came.’  
   > `⁉️ Thàinig Oisean atha[i]r an leinibh.` ‘The infant’s father’s Ossian came.’)
 
-- McCaulay (1992: 191)
-  > (206) bàta mac Chaluim
-  >
-  > The (lenited) genitive masculine proper noun `Chaluim` is the specifier of the nominative masculine common noun `mac` ‘a son’, which is itself the specifier of the nominative masculine common noun `bàta` ‘a boat’ – ‘Calum’s son’s boat’.
-  >
-  > ie. When a noun is the specifier of a noun, but itself has a post-specifier, then it appears in the nominative case, rather than the genitive case.
-  > a specifier can have a specifier!
+- McCaulay’s (1992) description lists two interesting examples §4.3.2.1):
+  > `bàta mac Chaluim` ‘Calum’s son’s boat’  
+  > `bàta mac Iain mac Sheumais mac Dhòmhnaill` ‘the son of Iain son of Seumas son of Donald’s boat’
+  
+  The first example illustrates double genitive avoidance with common nouns. The (lenited) genitive masculine proper noun `Chaluim` is the specifier of the *nominative* masculine common noun `mac` ‘a son’, which is itself the specifier of the nominative masculine common noun `bàta` ‘a boat’.  
+  
+  The second example shows interplay between specification and apposition in patronymics. The (lenited) genitive masculine proper noun `Dhòmhnaill` ‘Donald’s’ is the specifier of the third instance of the nominative masculine common noun `mac` ‘a son’, which is itself in apposition to the (lenited) genitive masculine proper noun `Sheumais` ‘James’s’, which is itself the specifier of the second instance of the nominative masculine common noun `mac`, which is itself in apposition to the genitive masculine proper noun `Iain` ‘John’s’, which is itself the specifier of the first instance of the nominative masculine common noun `mac`, which is itself the specifier of the nominative masculine common noun `bàta` ‘a boat’.
+
+
 
