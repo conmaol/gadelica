@@ -32,6 +32,8 @@ Here, the genitive plural common noun `làithean` ‘days’ is the specifier of
 
 Back up to: [Grammatical functions of genitive nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
 
+See also: [Post-specifiers of nouns](../../grammatical-dependents/specifiers/post-specifiers.md)
+
 ----
 
 Notes:
