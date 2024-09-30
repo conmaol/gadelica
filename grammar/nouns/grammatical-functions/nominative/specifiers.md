@@ -2,7 +2,7 @@
 
 One highly marginal function of a (specified) nominative common noun is to be the specifier of another, preceding, noun.
 
-When a noun is the (post-)specifier of another noun it is usuualy in the [genitive](../genitive/specifiers.md) case.
+When a noun is the (post-)specifier of another noun it is usuualy in the genitive case.
 
 examples?
 
@@ -15,7 +15,7 @@ This is knows as the ‘avoid double genitive’ rule.
 
 Back up to: [Grammatical functions of nominative nouns](index.md) \|  [Grammatical functions of nouns](../index.md) \| [Nouns](../../index.md) 
 
-See also: [Post-specifiers of nouns](../../grammatical-dependents/specifiers/post-specifiers.md)
+See also: [Post-specifiers of nouns](../../grammatical-dependents/specifiers/post-specifiers.md) \| [genitive](../genitive/specifiers.md)
 
 ----
 
