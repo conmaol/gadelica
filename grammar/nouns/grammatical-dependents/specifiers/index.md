@@ -17,7 +17,7 @@ A noun cannot have *both* a pre-specifier *and* a post-specifier:
 
 A proper noun can *only* have a post-specifier and *not* a pre-specifier:
 
-> `Cumhal an rìgh` ‘the king’s Cumhal’
+> `Cumhal an rìgh` ‘the king’s Cumhal’ (ie. the man named Cumhal who is the son of, or otherwise connected with, the king)
 >
 >`❌ mo Chumhal` (for ‘my Cumhal’)
 
