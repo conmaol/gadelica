@@ -1,7 +1,8 @@
 # Grammatical functions of nominative nouns
 
-- [Subjects of verbs](subjects.md)
-- [Objects of verbs](objects.md)
+- [As subjects of verbs](subjects.md)
+- [As objects of verbs](objects.md)
+- [As specifiers of nouns](specifiers.md)
 
 ----
 
