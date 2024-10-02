@@ -60,23 +60,23 @@ In the third and fourth sentences, `Chumail` functions in the same way as before
 
 #### Common nouns
 
-In constrast to the situation with proper nouns discussed above, a genitive common noun which is the (post-)specifier of another noun *cannot* itself have a genitive noun as post-specifier.
+With common noun specifiers things are slightly more complicated.
 
-This gap is exemplified by the role of genitive masculine `athar` ‘a father’ in the following ungrammatical sentences:
+A genitive common noun which is the (post-)specifier of another noun *cannot* have a noun as post-specifier, exemplified by genitive masculine `athar` ‘a father’ in the following ungrammatical sentences:
 
 > `❌ Thàinig naimhdean athar Fhinn.` (for ‘Finn’s father’s enemies came.’)
 
 > `❌ Thàinig naimhdean athar an leinibh.` (for ‘The infant’s father’s enemies came.’)
 
-To be clear, the following ‘double genitive avoidance’ rule holds in Gaelic:
-
-> **A common noun which is the (post-)specifier of another noun, whilst having yet another noun as its own (post-)specifier, must appear in the nominative case rather than in the genitive.**
-
-Thus, the grammatical versions of the previous two sentences are as follows, where genitive `athar` has been replaced by nominative `athair`:
+However, if the intermediate common noun is nominative (ie. `athair`) then this is okay:
 
 > `Thàinig naimhdean athair Fhinn.` ‘Finn’s father’s enemies came.’
 
 > `Thàinig naimhdean athair an leinibh.` ‘The infant’s father’s enemies came.’)
+
+This is the ‘double genitive avoidance’ rule which holds in Gaelic:
+
+> **A common noun which is the (post-)specifier of another noun, whilst having yet another noun as its own (post-)specifier, must appear in the nominative case rather than in the genitive.**
 
 ----
 
