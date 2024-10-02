@@ -5,21 +5,23 @@ A noun can have no more than one specifier, which can be either:
 - a [determiner](determiners.md) as pre-specifier, eg. `na caoraich` ‘the sheep’, `bhur caoraich` ‘your sheep’
 - a noun as [post-specifier](post-specifiers.md), eg. `caoraich Chumhail` ‘Cumhal’s sheep’, `caoraich rìgh` ‘a king’s sheep’
 
-A noun can have *no* specifier whatsoever, in which case it has ‘indefinite’ meaning:
+Here is a bit more detail:
 
-> `Tha caoraich anns an achadh.` ‘There are sheep in the field.’
+- A noun can have *no* specifier whatsoever, in which case it has ‘indefinite’ meaning:
 
-A noun cannot have *both* a pre-specifier *and* a post-specifier:
+  > `Tha caoraich anns an achadh.` ‘There are sheep in the field.’
 
-> `❌ na caoraich Chumhail` (for ‘the sheep of Cumhal’)
->
-> `❌ na caoraich rìgh` (for ‘the sheep of a king’)
+- A noun cannot have *both* a pre-specifier *and* a post-specifier:
 
-A proper noun can *only* have a post-specifier and *not* a pre-specifier:
+  > `❌ na caoraich Chumhail` (for ‘the sheep of Cumhal’)
+  >
+  > `❌ na caoraich an rìgh` (for ‘the sheep of the king’)
 
-> `Cumhal an rìgh` ‘the king’s Cumhal’ (ie. the man named Cumhal who is the son of, or otherwise connected with, the king)
->
-> `❌ mo Chumhal` (for ‘my Cumhal’)
+- A *proper* noun can *only* have a post-specifier and *not* a pre-specifier:
+
+  > `Cumhal an rìgh` ‘the king’s Cumhal’ (ie. the man named Cumhal who is the son of, or otherwise connected with, the king)
+  >
+  > `❌ mo Chumhal` (for ‘my Cumhal’)
 
 ----
 
