@@ -10,7 +10,7 @@ In the next example, the determiner `gach` ‘every’ is the specifier of the m
 
 > `Bhiodh e a’ snàmh gach dàrna latha.` ‘He would be swimming every other day.’
 
-Finally, in the next example, the incorporated personal determiner `a` ‘his’ within the fused preposition `’na` (ie. `ann an a` ‘in his’) is the specifier of the dative masculine common noun `leanabh` ‘an infant’:
+Finally, in the next example, the incorporated personal determiner `a` ‘his’ within the orthographically fused preposition `’na` (ie. `ann an a` ‘in his’) is the specifier of the dative masculine common noun `leanabh` ‘an infant’:
 
 > `Bha Fionn ’na leanabh beag.` ‘Finn was a little infant.’ (literally, ‘Finn was in his little infant’)
 
