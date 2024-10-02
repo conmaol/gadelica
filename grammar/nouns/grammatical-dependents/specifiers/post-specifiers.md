@@ -28,7 +28,7 @@ In the second sentence, the genitive feminine common noun `Féinne` ‘Fenians�
 
 ### Pre-specifiers of (post-)specifiers
 
-By extension, a genitive common noun which is the (post-)specifier of another noun can itself have a determiner as pre-specifier.
+By extension, a (genitive) common noun which is the (post-)specifier of another noun can itself have a determiner as pre-specifier.
 
 > `Thàinig naimhdean ’athar air tòir an leinibh.` ‘His father’s enemies came in pursuit of the infant.’
 >
@@ -44,7 +44,7 @@ In the second sentence, the genitive feminine common noun `Féinne` ‘Fenians�
 
 #### Proper nouns
 
-Similarly, a genitive proper noun which is the (post-)specifier of another noun can itself have a genitive noun as post-specifier.
+Similarly, a (genitive) proper noun which is the (post-)specifier of another noun can itself have a (genitive) noun as post-specifier.
 
 > `Bha eagal air Fionn Chumhail na Féinne.` ‘Cumhal of the Fenians’s Finn was afraid.’
 > 
