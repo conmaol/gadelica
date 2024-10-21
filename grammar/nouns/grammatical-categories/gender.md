@@ -22,6 +22,8 @@ All the other nouns in the passage, whether proper or common, are masculine noun
 
 Back up to: [Grammatical categories of nouns](index.md) \| [Nouns](../index.md)
 
+Next: [Nominative nouns, dative nouns and genitive nouns](case.md)
+
 ----
 
 Notes:
