@@ -26,6 +26,8 @@ Back up to: [Grammatical dependents of nouns](index.md) \| [Nouns](../index.md)
 
 See also: [Grammatical functions of nouns](../grammatical-functions/index.md)
 
+Next: [Modifiers of nouns](modifiers/index.md)
+
 ----
 
 Notes:
