@@ -2,7 +2,7 @@
 
 Nouns are words that typically denote *material* entities.
 
-Material entities are those real-world individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules and crystals etc. 
+Material entities are those real-world individuals, substances, aggregates and groups which are literally *made of matter* – atoms organised into molecules, crystals, etc. 
 
 Every word that denotes a material entity is a noun (or a pronoun). 
 
@@ -47,13 +47,15 @@ The abstract nouns in the passage are
 
 Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
 
+Next: [Proper nouns and common nouns](proper-nouns-and-common-nouns.md)
+
 ----
 
 Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
 
-- Some readers might be uncomfortable seeing words like `measg`, `tòir` and perhaps even `chùram` classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – `measg`, `tòir` and `chùram` are, at one and the same time, both components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
+- Some readers might be uncomfortable seeing words like `measg`, `tòir` and perhaps even `chùram` classified as (abstract) nouns here, preferring to think of them as being parts of (complex) *prepositions* rather than words in and of themselves. However, this is a false binary – `measg`, `tòir` and `chùram` are, at one and the same time, components of (lexicalised) prepositional compounds *and* (perhaps fossilised) nouns.
   
 - The (concrete) noun `dithis` ‘a group of two people’ is most accurately classified as a (concrete) noun with numeric meaning, rather than as a numeral *per se*.
 
