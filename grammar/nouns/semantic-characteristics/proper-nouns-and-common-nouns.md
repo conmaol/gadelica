@@ -41,6 +41,8 @@ All the other nouns in the passage, whether concrete or abstract, are common nou
 
 Back up to: [Semantic characteristics of nouns](index.md) \| [Nouns](../index.md)
 
+Next: [Grammatical categories of nouns](../grammatical-categories/index.md)
+
 ----
 
 Notes:
