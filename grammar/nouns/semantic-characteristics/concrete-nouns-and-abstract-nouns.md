@@ -10,7 +10,22 @@ However, not every noun denotes a material entity. Some nouns denote *non-materi
 
 Nouns that denote material entities are known as *concrete* nouns, and nouns that denote non-material entities are known as *abstract* nouns. 
 
-In the following passage, all and only the nouns have been highlighted:
+Consider the following passage:
+
+> `Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann.`  
+> ‘When the world was young there were brave men, who were called the Fenians.’
+>
+> B’ e **Cumhal** a b’ **ainm** air aon de na **daoine** seo, agus bha **mac** aige air an robh **Fionn**.
+>
+> Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
+>
+> Bha **eagal** air a **mhàthair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
+
+The nouns in this passage are:
+
+
+
+Here is a version with all and only the nouns highlighted:
 
 > Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
 >
@@ -19,6 +34,7 @@ In the following passage, all and only the nouns have been highlighted:
 > Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
 >
 > Bha **eagal** air a **mhàthair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
+
 
 The concrete nouns in this passage are
 `saoghal` ‘a world’,
