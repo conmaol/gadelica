@@ -22,6 +22,8 @@ All the other nouns in the passage are nominative nouns – `saoghal` ‘a world
 
 Back up to: [Grammatical categories of nouns](index.md) \| [Nouns](../index.md) 
 
+Next: [Grammatical dependents of nouns](../grammatical-dependents/index.md)
+
 ----
 
 Notes:
