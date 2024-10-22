@@ -2,21 +2,47 @@
 
 Nouns in Gaelic have *gender* – every noun is either *feminine* or *masculine* or *plural*.
 
-The following passage contains a range of nouns, all highlighted:
+Consider the following passage:
 
-> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
+> `Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann.`  
+> ‘When the world was young there were brave men, who were called the Fenians.’
 >
-> B’ e **Cumhal** a b’ **ainm** air aon de na **daoine** seo, agus bha **mac** aige air an robh **Fionn**.
+> `B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.`  
+> ‘Cumhal was the name of one of these men, and he had a son who was called Finn.’
 >
-> Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
+> `Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.`  
+> ‘When Finn was a little infant, his father was killed in one of the battles that sent the Fenians amongst each other.’
 >
-> Bha **eagal** air a **mhathair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
+> `Bha eagal air a mhàthair gun tigeadh naimhdean ’athar air tòir an leinibh.`  
+> ‘His mother was afraid that his father’s enemies would come in pursuit of the infant.’
+>
+> `Mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.`  
+> ‘Therefore she sent him out to the desolate forests in the care of two wise women.’ 
 
-The feminine nouns in this passage are `Fhiann` ‘warriors’, `mhàthair` ‘a mother’, `tòir` ‘a pursuit’ and `dithis` ‘a group of two people’.
+The feminine nouns in this passage are: 
+- `Fhiann` ‘warriors’
+- `mhàthair` ‘a mother’
+- `tòir` ‘a pursuit’
+- `dithis` ‘a group of two people’
 
-The plural nouns are `daoine` ‘men’, `blàraibh` ‘battles’, `naimhdean` ‘enemies’, `coilltean` ‘forests’ and `bhan` ‘women’.
+The plural nouns are: 
+- `daoine` ‘men’
+- `blàraibh` ‘battles’
+- `naimhdean` ‘enemies’
+- `coilltean` ‘forests’
+- `bhan` ‘women’
 
-All the other nouns in the passage, whether proper or common, are masculine nouns – `saoghal` ‘a world’, `Cumhall` ‘Cumhal’, `ainm` ‘a name’, `mac` ‘a son’, `Fionn` ‘Finn’, `leanabh` / `leinibh` ‘an infant’, `athair` / `athar` ‘a father’, `measg` ‘midst’, `eagal` ‘fear’ and `chùram` ‘care’.
+All the other nouns in the passage, whether proper or common, are masculine nouns: 
+- `saoghal` ‘a world’
+- `Cumhall` ‘Cumhal’
+- `ainm` ‘a name’
+- `mac` ‘a son’
+- `Fionn` ‘Finn’
+- `leanabh` / `leinibh` ‘an infant’
+- `athair` / `athar` ‘a father’
+- `measg` ‘midst’
+- `eagal` ‘fear’
+- `chùram` ‘care’
 
 ----
 
