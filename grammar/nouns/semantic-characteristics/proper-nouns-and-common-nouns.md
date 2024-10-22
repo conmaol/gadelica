@@ -6,36 +6,40 @@ Nouns can be classified according to the nature of their denotation, or the way 
 
 *Common nouns* denote classes of entity.
 
-The following passage contains a range of both proper and common nouns (all highlighted):
+Consider the following passage:
 
-> Nuair a bha an **saoghal** òg bha **daoine** treuna ann, ris an canadh iad an **Fhiann**.
+> `Nuair a bha an saoghal òg bha daoine treuna ann, ris an canadh iad an Fhiann.`  
+> ‘When the world was young there were brave men, who were called the Fenians.’
 >
-> B’ e **Cumhal** a b’ **ainm** air aon de na **daoine** seo, agus bha **mac** aige air an robh **Fionn**.
+> `B’ e Cumhal a b’ ainm air aon de na daoine seo, agus bha mac aige air an robh Fionn.`  
+> ‘Cumhal was the name of one of these men, and he had a son who was called Finn.’
 >
-> Nuair a bha **Fionn** ’na **leanabh** beag, mharbhadh ’**athair** ann an aon de na **blàraibh** a chuir an **Fhiann** ’nam **measg** fhéin.
+> `Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.`  
+> ‘When Finn was a little infant, his father was killed in one of the battles that sent the Fenians amongst each other.’
 >
-> Bha **eagal** air a **mhàthair** gun tigeadh **naimhdean** ’**athar** air **tòir** an **leinibh**, agus mar sin chuir i e a-mach do na **coilltean** fàsail air **chùram** **dithis** **bhan** eòlach. 
+> `Bha eagal air a mhàthair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.`  
+> ‘His mother was afraid that his father’s enemies would come in pursuit of the infant, and therefore she sent him out to the desolate forests in the care of two wise women.’
 
 There are two proper nouns in this passage – `Cumhal` ‘Cumhal’ and `Fionn` ‘Finn’. 
 
-All the other nouns in the passage, whether concrete or abstract, are common nouns – 
-`saoghal` ‘a world’,
-`daoine` ‘men’,
-`Fhiann` ‘warriors’,
-`ainm` ‘a name’,
-`mac` ‘a son’,
-`leanabh` / `leinibh` ‘an infant’,
-`athair` / `athar` ‘a father’,
-`blàraibh` ‘battles’,
-`measg` ‘midst’,
-`eagal` ‘fear’,
-`mhàthair` ‘a mother’,
-`naimhdean` ‘enemies’,
-`tòir` ‘a pursuit’,
-`coilltean` ‘forests’,
-`chùram` ‘care’,
-`dithis` ‘a group of two people’ and
-`bhan` ‘women’.
+All the other nouns in the passage, whether concrete or abstract, are common nouns:
+- `saoghal` ‘a world’
+- `daoine` ‘men’
+- `Fhiann` ‘warriors’
+- `ainm` ‘a name’
+- `mac` ‘a son’
+- `leanabh` / `leinibh` ‘an infant’
+- `athair` / `athar` ‘a father’
+- `blàraibh` ‘battles’
+- `measg` ‘midst’
+- `eagal` ‘fear’
+- `mhàthair` ‘a mother’
+- `naimhdean` ‘enemies’
+- `tòir` ‘a pursuit’
+- `coilltean` ‘forests’
+- `chùram` ‘care’
+- `dithis` ‘a group of two people’
+- `bhan` ‘women’
 
 ----
 
