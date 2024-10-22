@@ -21,8 +21,11 @@ Consider the following passage:
 > `Nuair a bha Fionn ’na leanabh beag, mharbhadh ’athair ann an aon de na blàraibh a chuir an Fhiann ’nam measg fhéin.`  
 > ‘When Finn was a little infant, his father was killed in one of the battles that sent the Fenians amongst each other.’
 >
-> `Bha eagal air a mhàthair gun tigeadh naimhdean ’athar air tòir an leinibh, agus mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.`  
-> ‘His mother was afraid that his father’s enemies would come in pursuit of the infant, and therefore she sent him out to the desolate forests in the care of two wise women.’ 
+> `Bha eagal air a mhàthair gun tigeadh naimhdean ’athar air tòir an leinibh.`  
+> ‘His mother was afraid that his father’s enemies would come in pursuit of the infant.’
+>
+> `Mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.`  
+> ‘Therefore she sent him out to the desolate forests in the care of two wise women.’ 
 
 The concrete nouns in this passage are:
 - `saoghal` ‘a world’
