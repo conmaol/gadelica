@@ -23,7 +23,7 @@ Consider the following passage:
 > `Mar sin chuir i e a-mach do na coilltean fàsail air chùram dithis bhan eòlach.`  
 > ‘Therefore she sent him out to the desolate forests in the care of two wise women.’
 
-There are two proper nouns in this passage – `Cumhal` ‘Cumhal’ and `Fionn` ‘Finn’. 
+There are two proper nouns in this passage – `Cumhal` and `Fionn`. 
 
 All the other nouns in the passage, whether concrete or abstract, are common nouns:
 - `saoghal` ‘a world’
