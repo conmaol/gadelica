@@ -18,7 +18,10 @@ In these two examples, the nominative masculine proper nouns `Cumhal` and `Fionn
 > 
 > `Bha a chasan mu dheireadh cho luath ri casan féidh.` ‘His feet were as swift as a deer’s feet.’
 
-Three of the common nouns here are bare – dative masculine `loch` ‘a lake’, nominative feminine `urchair` ‘a shot, a stone’, and genitive masculine `féidh` ‘a deer’.
+Three of the common nouns here are bare:
+- the dative masculine noun `loch` ‘a lake’ (which is the complement of the preposition `air` ‘on’)
+- the nominative feminine noun `urchair` ‘a stone’ (which is the object of the verb `thilg` ‘threw’)
+- the genitive masculine noun `féidh` ‘a deer’ (which is the specifier of the noun `casan` ‘feet’)
 
 ----
 
