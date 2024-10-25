@@ -8,7 +8,9 @@
   - [Nominative nouns, dative nouns and genitive nouns](grammatical-categories/case.md)
 - [Grammatical dependents](grammatical-dependents/index.md)
   - [Bare nouns](grammatical-dependents/bare-nouns.md)
-  - Modifiers of nouns
+  - [Modifiers of nouns](grammatical-dependents/modifiers/index.md)
+    - [Adjectives as modifiers of nouns](grammatical-dependents/modifiers/adjectives.md)
+    - 
   - [Specifiers of nouns](grammatical-dependents/specifiers/index.md)
     - [Determiners](grammatical-dependents/specifiers/determiners.md)
     - [Post-specifiers](grammatical-dependents/specifiers/post-specifiers.md) 
