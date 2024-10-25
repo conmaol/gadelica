@@ -38,7 +38,7 @@ Here, the preposition `à` ‘from’ is a modifier of the proper noun `Cumhal`.
 
 Back up to: [Modifiers of nouns](index.md) | [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
 
-Next: Relative clause particles
+Next: [Relative clause particles as modifiers of nouns](relatives.md)
 
 ----
 
