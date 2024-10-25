@@ -6,7 +6,7 @@ For example, *proper nouns* can be modified by adjectives:
 
 > `Cha do leig i Fionn beag as a h-aire.` ‘She did not let little Finn out of her attention.’
 
-In the above example, the nominative masculine proper noun `Fionn` is modified by the adjective `beag` ‘little’.
+In this example, the nominative masculine proper noun `Fionn` is modified by the adjective `beag` ‘little’.
 
 Moreover, *common nouns* can be modified by adjectives too:
 
@@ -16,7 +16,7 @@ Moreover, *common nouns* can be modified by adjectives too:
 > 
 > `Sheinn i crònan milis binn dha.` ‘She sang a sweet melodious tune to him.’
 
-In the first of these examples, the nominative plural common noun `daoine` ‘men’ is modified by the adjective `treuna` ‘brave’. 
+In the first example, the nominative plural common noun `daoine` ‘men’ is modified by the adjective `treuna` ‘brave’. 
 
 In the second example, the dative masculine common noun `leanabh` is modified by the adjective `beag` ‘little’. 
 
@@ -26,7 +26,7 @@ In the third example, the nominative masculine common noun `crònan` ‘tune’ 
 
 Back up to: [Modifiers of nouns](index.md) | [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
 
-Next: 
+Next: [Genitive common nouns as modifiers of other nouns](genitives.md)
 
 ----
 
