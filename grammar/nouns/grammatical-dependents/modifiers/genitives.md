@@ -20,7 +20,7 @@ We will postpone, for now, the question of whether a *proper nouns* can be modif
 
 Back up to: [Modifiers of nouns](index.md) | [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
 
-Next: [Prepositions as modifiers of other nouns](prepositions.md)
+Next: [Prepositions as modifiers of nouns](prepositions.md)
 
 ----
 
