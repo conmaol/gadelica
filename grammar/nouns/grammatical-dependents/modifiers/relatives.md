@@ -50,4 +50,16 @@ In the first example here, the nominative masculine proper noun `Cumhall` is mod
 
 In the second example here, the nominative plural common noun `daoine` ‘men’ is modified by the prepositional relative clause particle `ris` – `na daoine ris an canadh iad an Fhiann` ‘the men against whom they would say the Fenians (ie. the men whom they would call the Fenians)’.
 
-Back up to: [Nouns](#nouns) \| [Grammatical dependents of nouns](#grammatical-dependents-of-nouns) \| [Modifiers of nouns](#modifiers-of-nouns)
+----
+
+Back up to: [Modifiers of nouns](index.md) | [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
+
+Next: Lenition of noun modifiers
+
+----
+
+Notes:
+
+- Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
+- Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
+
