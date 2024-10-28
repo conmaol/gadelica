@@ -4,7 +4,7 @@ A noun can have one or more prepositions as modifiers.
 
 For example, *common nouns* can be modified by prepositions (which themselves take other nouns as their complements):
 
-> `B’ e Cumhal a b’ ainm air aon de na daoine seo.` ‘It was Cumhal that was the nome of one of these men.’
+> `B’ e Cumhal a b’ ainm air aon de na daoine seo.` ‘It was Cumhal that was the name of one of these men.’
 >
 > `Dh’fhalbh i astar fada tro thìr fhàsail.` ‘She set out for a long distance through desolate land.’
 >
