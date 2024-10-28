@@ -2,13 +2,17 @@
 
 A noun can have one or more adjective modifiers.
 
-For example, *proper nouns* can be modified by adjectives:
+### Proper nouns
+
+Proper nouns can be modified by adjectives:
 
 > `Cha do leig i Fionn beag as a h-aire.` ‘She did not let little Finn out of her attention.’
 
 In this example, the nominative masculine proper noun `Fionn` is modified by the adjective `beag` ‘little’.
 
-Moreover, *common nouns* can be modified by adjectives too:
+### Common nouns
+
+Common nouns can be modified by adjectives too:
 
 > `Bha daoine treuna ann, ris an canadh iad an Fhiann.` ‘There were brave men, who they called the Fenians.’
 > 
