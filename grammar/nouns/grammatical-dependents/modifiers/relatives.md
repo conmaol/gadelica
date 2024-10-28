@@ -38,18 +38,6 @@ In the first example, the dative masculine common noun `achadh` ‘field’ is m
 
 In the second example, it is the proper noun `Glaschu` ‘Glasgow’ which is modified by `far` – `Glaschu, far an do mharbhadh ’athair` ‘Glasgow, where his father was killed’.
 
-### Prepositional relative clause particles
-
-Both proper nouns and common nouns can also be modified by prepositional relative clause particles.
-
-> ◊ Mharbhadh **Cumhall**, **aig** an robh dithis bhan.
->
-> Nuair a bha an saoghal òg bha **daoine** treuna ann, **ris** an canadh iad an Fhiann.
-
-In the first example here, the nominative masculine proper noun `Cumhall` is modified by the prepositional relative `aig` – `Cumhall, aig an robh dithis bhan` ‘Cumhall, who had two wives’.
-
-In the second example here, the nominative plural common noun `daoine` ‘men’ is modified by the prepositional relative clause particle `ris` – `na daoine ris an canadh iad an Fhiann` ‘the men against whom they would say the Fenians (ie. the men whom they would call the Fenians)’.
-
 ----
 
 Back up to: [Modifiers of nouns](index.md) | [Grammatical dependents of nouns](../index.md) \| [Nouns](../../index.md)
