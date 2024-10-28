@@ -1,18 +1,18 @@
 # Relative clause particles as modifiers of nouns
 
-A noun can have one of the relative clause particles as a modifier – `a`, `nach`, `far`, `anns (an)`, etc.
+A noun can have one of the relative clause particles as a modifier – `a`, `nach`, `far`.
 
 ### The positive relative clause particle *a*
 
 Both proper and common nouns can be modified by the positive relative clause particle `a`.
 
-> ◊ Mharbhadh **Cumhal**, **a** bha ’na rìgh àraidh.
+> `Mharbhadh Cumhal, a bha ’na rìgh àraidh.` ‘Cumhal, who was an exceptional king, was killed.’
 > 
-> Is i siud a’ chiad **shealg a** rinn Fionn.
+> `Is i siud a’ chiad shealg a rinn Fionn.` ‘That was the first hunt that Finn did.’
 
-In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `a` (which itself has the verb `bha` as its complement) – `Cumhal, a bha ’na rìgh àraidh` ‘Cumhal, who was an exceptional king’
+In the first example, the nominative masculine proper noun `Cumhal` is modified by the particle `a` (which itself has the verb `bha` as its complement).
 
-In the second example, the nominative feminine common noun `shealg` ‘a hunt’ is similarly modified by the particle `a` (which here takes the verb `rinn` ‘did’ as its complement) – `a’ chiad shealg a rinn Fionn` ‘the first hunt that Finn did’.
+In the second example, the (lenited) nominative feminine common noun `shealg` ‘a hunt’ is similarly modified by the particle `a` (which here takes the verb `rinn` ‘did’ as its complement).
 
 ### The negative relative clause particle *nach*
 
