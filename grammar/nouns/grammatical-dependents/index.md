@@ -5,7 +5,8 @@
   - [Adjectives](modifiers/adjectives.md)
   - [Genitive common nouns](modifiers/genitives.md)
   - [Prepositions](modifiers/prepositions.md)
-  - Relative clause particles
+  - [Relative clause particles](modifiers/relatives.md)
+  - Lenition
 - [Specifiers of nouns](specifiers/index.md)
 
 Back up to: [Nouns](../index.md)
