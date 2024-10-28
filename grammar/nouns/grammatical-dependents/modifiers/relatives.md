@@ -61,5 +61,5 @@ Next: Lenition of noun modifiers
 Notes:
 
 - Unless otherwise specified, examples are adapted from the story *[Fionn](../../texts/Fionn.md)*, in Lachlann MacFhionghuin’s (c.1950) *Leabhraichean Leughaidh: Leabhar II* (pp. 81–85).
-- Strictly speaking, it is the preposition itself which is the grammatical modifier of the noun in these examples, and not the whole prepositional phrase. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
+- Strictly speaking, it is the relative clause particle itself which is the grammatical modifier of the noun in these examples, and not the whole relative clause. Grammatical relations, as we understand them, are between individual words and not between words and phrases.
 
