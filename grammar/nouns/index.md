@@ -12,7 +12,8 @@
     - [Adjectives](grammatical-dependents/modifiers/adjectives.md)
     - [Genitive common nouns](grammatical-dependents/modifiers/genitives.md)
     - [Prepositions](grammatical-dependents/modifiers/prepositions.md)
-    - Relative clause particles
+    - [Relative clause particles](grammatical-dependents/modifiers/relatives.md)
+    - Lenition
   - [Specifiers of nouns](grammatical-dependents/specifiers/index.md)
     - [Determiners](grammatical-dependents/specifiers/determiners.md)
     - [Post-specifiers](grammatical-dependents/specifiers/post-specifiers.md) 
